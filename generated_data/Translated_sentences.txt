@@ -1,0 +1,1 @@
+{'Sun': 'Sun', 'Star at the center of the solar system': 'Star at the center of the solar system'}
