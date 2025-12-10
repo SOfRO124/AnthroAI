@@ -1,0 +1,1 @@
+["frank", "w\u00f6ckel, 37, ist verlagslektor.", "sein gr\u00f6\u00dfter erfolg: rauchverbot in berliner wahllokalen."]

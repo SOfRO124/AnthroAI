@@ -1,0 +1,1 @@
+["halle 32 39 76 kiel", "32 44 72 leipzig 32 41 71 hannover ii 32 -1 48 wolfsburg ii", "32 8 47 hsv ii 33 12 45 berliner ak 32 -2 43 havelse 31 0 42 plauen", "32 -3 42 meuselwitz 32 -12 41 hertha ii 32 -16 37 halberstadt 32 -4 34 meppen", "32 -19 34 wilhelmshaven 32 -9 33 cottbus ii 32 -27 33 l\u00fcbeck 32 -9 32 st. pauli ii 33 -28 32 magdeburg 31 -14 28"]

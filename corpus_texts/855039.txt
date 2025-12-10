@@ -1,0 +1,1 @@
+["heute ist es am vormittag \u00fcberwiegend sonnig.", "am nachmittag ziehen von westen wolken \u00fcber das land und am abend kann es bereits vereinzelt zu regen kommen.", "die h\u00f6chstwerte liegen bei 4 bis 6 grad"]

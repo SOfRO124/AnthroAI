@@ -1,0 +1,1 @@
+["mario", "vargas", "llosa, 70, ist peruanischer schriftsteller und war 1990 pr\u00e4sidentschaftskandidat in seinem land.", "er lebt in london."]

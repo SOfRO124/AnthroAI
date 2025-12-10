@@ -1,0 +1,1 @@
+["leider habt ihr es wieder verkorkst.", "seit gregor gilt folgende regel:", "jedes durch vier teilbare jahr ist ein schaltjahr (wie zuvor).", "aber: die durch 100 teilbaren jahre sind keine schaltjahre (also 1700, 1800, 1900).", "aber: die durch 400 teilbaren jahre sind doch wieder schaltjahre (also 1600, 2000!).", "helmut richter, frankfurt a.m."]

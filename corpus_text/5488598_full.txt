@@ -1,0 +1,22 @@
+taz: Herr Waidner, hat Sie als Experte der Angriff auf das Datennetzwerk der Bundesregierung überrascht?
+ Michael Waidner: Cyberangriffe auf die Bundesregierung generell überraschen mich überhaupt nicht, und ebenso wenig, dass manche davon auch erfolgreich sind. 
+Sind die Informationstechniken und Netze des Bundes tatsächlich derart unsicher, dass es so einfach ist, in sie einzudringen?
+ Systeme können denkbar gut abgesichert sein, aber irgendwelche Angriffe werden immer erfolgreich sein. Dies ist ein ständiger Wettkampf zwischen den Fähigkeiten und Mitteln, die ein Angreifer investieren kann, und den Ressourcen, die derjenige, der sich verteidigen will, zu investieren bereit ist. 
+Man sollte doch meinen, dass gerade die Bundesregierung bereit ist, besonders viel in ihre Sicherheit zu investieren.
+ Ich denke, das ist sie auch, aber letztendlich hat das nun einmal auch seine Grenzen. Grundsätzlich müssen in Sachen Systemschutz zwei Strategien verfolgt werden: Die eigene Angriffsfläche muss verkleinert werden; etwa, indem nur eine ganz bestimmte Soft- und Hardware benutzt wird, für die man sich zum Beispiel mit Chipkarten identifizieren, Verschlüsselungen verwenden muss, kurzum: viele restriktive Maßnahmen beschließt. Weiter ist aber entscheidend, Angriffe möglichst schnell zu bemerken. Oft dauert das bis zu 100 Tage oder mehr, es sollten aber wenige Wochen oder Tage sein. 
+Aber verfügt nicht erst recht die Bundesregierung über diese Ressourcen?
+ Die Regierungsnetze sind sicherlich deutlich besser geschützt als das durchschnittliche kommerzielle Netz. Und dennoch: Wenn jemand angreifen möchte, über reichlich Kenntnisse und Ressourcen verfügt, wird er es irgendwann schaffen. Deshalb wird es dann immer darauf ankommen, wie schnell man ihn entdeckt. 
+Was kann dabei helfen?
+ Man muss überwachen, was in den Systemen passiert. Wissen, wie die Datenströme verlaufen, wo Informationen entlang fließen, die eigentlich nicht fließen sollten, oder jegliche ungewöhnliche Bewegungen in den Systemen registrieren. Das kostet einerseits Geld, und andererseits möchte man keine persönlichen Daten überwachen. Deswegen geht das nur bei Netzen, die möglichst restriktiv in dem sind, was dort passieren darf. 
+Wie funktionieren solche Angriffe dann?
+ Typischerweise sind das Angriffe, die sehr gezielt sind, bei denen also nur ein paar wenige Personen oder Anwendungen in einem Zielsystem herausgesucht werden, die man angreift. Das muss dann nicht Angela Merkel selbst sein, sondern könnte den Systemadministrator im Kanzleramt treffen. 
+Es erscheint schlicht absurd, dass der Systemadministrator im Kanzleramt nicht über die sichersten Systeme verfügt.
+ Auch die Bundesregierung muss letztendlich auf Standardsoftware aufbauen, etwa bei ihren E-Mail-Programmen und Textverarbeitungssystemen. Dort gibt es nun einmal Schwachstellen, die auf dem Schwarzmarkt gehandelt werden. Werden diese gefunden, können Angreifer dort Schadsoftware hinterlassen. Ab da kann man dann in Systemen mithören oder sich in ihnen weiterbewegen. 
+Glauben Sie, dass auf dem Schwarzmarkt auch Sicherheitslücken für deutsche Regierungssysteme gehandelt werden?
+ Ich weiß nicht, ob es Schwachstellen speziell für deutsche Regierungssysteme gibt, die man kaufen kann, aber natürlich gibt es einen Schwarzmarkt für Schwachstellen von Systemen und Software, die der Hersteller noch nicht kennt und die deshalb ausgenutzt werden können. 
+Und da gibt es auch für eine Bundesregierung tatsächlich keine Alternativen?
+ Keine vernünftige, nein. Es gibt immer wieder Überlegungen, Systeme von Grund auf neu zu entwickeln, also von der Hardware bis hin zu den Anwendungen, aber allein kostentechnisch ist das illusorisch. Man wird letztendlich immer auch auf Standardanwendungen zurückgreifen müssen. Das bedeutet nicht, dass deshalb die Welt untergeht, aber auf einen Bodensatz von Schwachstellen muss man sich nun einmal einstellen. 
+Wie realistisch ist es Ihrer Meinung nach, dass tatsächlich russische Hacker hinter dem Angriff stecken?
+ Es ist nicht unplausibel, dass da Spuren gefunden wurden, weil die Muster zu vorherigen Angriffen sich ähneln. Oft geht es aber um eine Kombination aus digitalen und nachrichtendienstlichen Spuren, die zusammenlaufen. 
+Was könnte die Bundesregierung denn tun? Vor allem jetzt, da bekannt geworden ist, dass der Angriff noch läuft?
+ Sie sollten aus dem Angriff lernen, also genau verstehen, was wie angegriffen wurde, und dann diese Lücken schließen. Letztlich bedeutet das Business as usual.

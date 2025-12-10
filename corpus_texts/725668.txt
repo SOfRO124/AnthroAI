@@ -1,0 +1,1 @@
+["am samstag scheint die sonne, anfangs ziehen noch ein paar wolken durch.", "gebietsweise herrscht dauerfrost, die temperaturen liegen bei -2 bis +2 grad.", "am sonntag gibt es schneefall, der in regen \u00fcbergeht.", "die temperaturen erreichen 1 bis 3 grad"]

@@ -1,0 +1,1 @@
+["wahlbeteiligung 72,0 (72,0) erststimmen", "zweitstimmen", "spd", "47,3 (45,2) 44,1 (44,0) cdu", "39,2 (43,1) 35,1 (41,9) fdp 4,4 ( 4,6) 4,7 ( 5,7)", "gr\u00fcne", "9,0 ( 5,3) 9,5 ( 6,2) rep 0,0 ( 1,7) 3,5 ( 1,7)", "statt partei 0,0 ( \u2013) 1,0 ( \u2013) gew\u00e4hlt christina b\u00fchrmann (spd) wie bisher"]

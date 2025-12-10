@@ -1,0 +1,50 @@
+Um welche Art von Masken geht es?
+ Um die Art, die zu Beginn der Pandemie Mangelware war, sich inzwischen aber durchgesetzt hat: partikelfiltrierende Halbmasken. Sie sind meist weiß, bedecken Nase, Mund und Kinn und bestehen aus filterndem Material. 
+Aha, FFP2-Masken?
+ Nein. Der Name hat sich zwar im Sprachgebrauch für alle Masken dieser Art durchgesetzt. Genau genommen bezeichnet er allerdings nur Masken, die den EU-Normen entsprechen, also nach einem DIN-Verfahren getestet wurden und mindestens 94 Prozent der Aerosole in der Umgebungsluft aufhalten können. Sie erhalten dann den Aufdruck „CE“ und „FFP2“. 
+Ist diese DIN-Prüfung streng?
+ Ja, die Vorgaben umfassen 10 Kapitel auf 37 Seiten. Der Test ist relativ aufwendig. 
+Das ist in einer Pandemie aber unpraktisch, oder?
+ Ja. Zu Beginn der Pandemie im Frühjahr 2020 gab es auf dem Weltmarkt zu wenig Masken, in Deutschland wurden kaum welche hergestellt. Die EU-Staaten mussten schnell große Mengen besorgen und haben vor allem in China viele Bestellungen aufgegeben. Das Problem: Viele davon waren noch nicht nach der DIN-Norm getestet und damit nicht für den europäischen Markt zugelassen. Sie waren höchstens nach chinesischer Norm geprüft und hatten in dem Fall das Kennzeichen „KN95“. 
+Kann man da nicht ein Auge zudrücken?
+ Kann man. Die EU-Kommission hat den Mitgliedstaaten im März 2020 erlaubt, vorübergehend auch Masken zuzulassen, die nicht DIN-geprüft sind – sofern die Sicherheit anderweitig garantiert wird. 
+Wie denn?
+ Für Masken, die Unternehmen in Deutschland auf den Markt bringen wollten, haben die Bundesländer zusammen ein Schnellverfahren entwickelt. Es basiert auf der DIN-Prüfung, ist aber deutlich abgespeckt. Die Vorgaben dafür, die im Internet öffentlich abrufbar sind, umfassen nur acht Seiten. Die Tester müssen unter anderem an der Maske schnüffeln, sie ein paar Mal auf- und abziehen und im Labor die Durchlässigkeit mit Kochsalzlösung prüfen. Masken, die den Test bestanden haben, tragen den Titel „CPA-Maske“. 
+Und das gilt immer noch?
+ Nein, seit Oktober 2020 ist für den Markt wieder das umfangreiche DIN-Verfahren vorgeschrieben. Ab da waren nach Ansicht der Behörden genügend Masken verfügbar, auch aus deutscher Produktion. 
+Und was hat denn nun Jens Spahn gemacht?
+ Auch das Gesundheitsministerium hat ab März 2020 mit Hilfe von Unternehmen Masken aus dem Ausland beschafft – für staatliche Zwecke, nicht für den freien Verkauf. Auch diese Masken waren selten DIN-geprüft und mussten nachgetestet werden. Dafür entwickelte das Ministerium wiederum ein eigenes Verfahren, das „CPI-Verfahren“. Es ist noch stärker abgespeckt als das CPA-Verfahren. 
+Wie sieht es genau aus?
+ Gute Frage. Die genauen Vorgaben rückt das Gesundheitsministerium auch auf Anfrage nicht raus. Als das Thema Ende letzter Woche hochkochte, hat das Ministerium nur in einem „Faktenblatt“ ein paar Angaben dazu gemacht. 
+Warum steht „Faktenblatt“ in Anführungszeichen?
+ Weil unklar ist, was darin wirklich Fakt ist. Einigen Angaben haben andere Stellen widersprochen. 
+Was weiß man denn sicher?
+ Im CPA-Verfahren müssen die Masken zu Beginn des Tests für 24 Stunden bei 70 Grad gelagert werden. Im CPI-Verfahren fehlt dieser Schritt. 
+Ist dieser Schritt wichtig?
+ Spahns Leute sagen: Nein. Im Papier des Gesundheitsministeriums steht: Relevant ist das nur für den Einsatz in „einzelnen Bereichen des Arbeitsschutzes“. Im Pandemiealltag gebe es solche Temperaturen aber nicht. 
+Und was sagen andere?
+ Das SPD-geführte Sozialministerium sagt, Zweck der Erhitzung sei es, die Masken vorzualtern. Dadurch solle getestet werden, ob sie auch noch ausreichend filtern, nachdem sie längere Zeit unter schlechten Bedingungen transportiert oder gelagert wurden. Außerdem gibt das Ministerium an, dass unter anderem Ex­per­t*in­nen der Deutschen Gesetzlichen Unfallversicherung (DGUV) den Schritt für „zwingend erforderlich“ erachten würden. Auf taz-Anfrage bestätigt die DGUV das nicht. Weil die genauen Prüfregeln nicht öffentlich vorliegen, könne man sie überhaupt nicht abschließend bewerten. Generell gelte aber: Je mehr Schritte fehlen, desto weniger Garantie gibt es für die Sicherheit. 
+Gibt es noch mehr Unterschiede zwischen den beiden Prüfverfahren?
+ Ja. Im CPA-Verfahren gibt es wie in der DIN-Prüfung eine Gebrauchssimulation. Mithilfe einer Maschine werden die Masken 20 Minuten lang mit feuchtwarmer Luft beatmet. So soll geprüft werden, ob sie nach kurzer Nutzung noch dicht genug sind. 
+Und das fehlt im CPI-Verfahren?
+ Ja. Im „Faktenblatt“ schreibt das Ministerium nur, dass die durch diesen Schritt „gestellte Anforderung“ anderweitig berücksichtigt werde – durch eine „Prüfung der Hydrophobie“. 
+Hä?
+ Berechtigte Frage. Wir haben das Ministerium gefragt, wie dieser Prüfschritt aussieht. Leider antwortet es nicht. 
+Wo sind diese CPI-Masken jetzt?
+ Laut Gesundheitsministerium gingen 230 Millionen an die Bundesländer. 150 Millionen wurden als Reserve eingelagert. Zudem – das steht in der Antwort auf eine Grünen-Anfrage aus dem Mai – habe man CPI-Masken an Dienststellen der Bundesregierung, Kassenärztliche Vereinigungen, Pflegeheime, Asylunterkünfte sowie Einrichtungen für Wohnungslose und Behinderte geschickt. Ob sie dort für das Personal oder für Kli­en­t*in­nen gedacht waren, beantwortet das Ministerium auf Anfrage nicht. 
+Wie viele CPI-Masken gingen an diese Einrichtungen?
+ Das haben wir das Ministerium ebenfalls gefragt – auch vergeblich. Und wann wurden sie verteilt? Zunächst ab März 2020, also zu einem Zeitpunkt, als es wirklich nicht genügend Masken gab, die umfangreich getestet waren. Das Ministerium hat CPI-Masken nach eigenen Angaben aber auch noch im Herbst 2020 und sogar Anfang 2021 verteilt. Bis Ende Januar gingen laut der Antwort auf die Grünen-Anfrage Lieferungen unter anderem an das Personal von Pflegeeinrichtungen. Auf dem Markt gab es zu diesem Zeitpunkt schon genügend umfangreich geprüfte Masken. 
+Sind die CPI-Masken nun wirklich schlechter als CPA- oder gar FFP2-Masken? Oder sind sie nur schlechter getestet?
+ Es gibt Indizien dafür, dass zumindest ein Teil von ihnen schlecht ist. Die Zeit hat in der vergangenen Woche Masken, die das Ministerium an Pflegeheime geschickt hatte, in einem Labor selbst prüfen lassen. Das Ergebnis: „Die Masken waren so schlecht, dass die Technikerin die üblichen Tests schon nach wenigen Minuten abbrechen konnte.“ Bei der Prüfung mit Kochsalzlösung ließen die Masken demnach 44 Prozent der Partikel durch – statt der bei FFP2-Masken verlangten maximal 6 Prozent. 
+Im Winter hat es dann so richtig zwischen Gesundheits- und Arbeitsministerium gekracht – korrekt?
+ Ja, das hat der Spiegel berichtet und damit die aktuelle Diskussion angestoßen. Beide Seiten bestätigen den Vorgang. Erneut sollten Masken an Einrichtungen der Obdachlosen- und Behindertenhilfe gehen, diesmal offenbar explizit für deren Klient*innen. Das Gesundheitsministerium hat dafür die CPI-Masken vorgeschlagen. Das Sozialministerium verlangte, sie erst ordentlich nachzuprüfen. Weil das zu lange gedauert hätte, lieferte der Bund am Ende einfach FFP2-Masken. Davon gab es mittlerweile ja genug. 
+Die CPI-Masken wurden stattdessen eingelagert?
+ Ja, in die nationale Reserve für die nächste Pandemie oder einen anderen Anlass. 
+Mit Zustimmung der SPD?
+ Ja. Allerdings sagt die: Bevor sie dort wieder rauskommen, müssen sie gründlich nachgeprüft werden. Wahrscheinlich läuft vorher aber die Mindesthaltbarkeit ab und sie werden weggeschmissen. 
+Was fordert die SPD jetzt?
+ Relativ unverblümt: den Rausschmiss von Gesundheitsminister Spahn. 
+Was entgegnet die CDU?
+ Dass die Masken gut waren, Spahn nichts falsch gemacht hat und die SPD eine unfaire Wahlkampfkampagne fahre. 
+Und wer hat recht?
+ Das können Sie am besten selbst beurteilen. Die Fakten haben Sie jetzt ­parat.

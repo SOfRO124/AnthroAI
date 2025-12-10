@@ -1,0 +1,1 @@
+["es wird st\u00fcrmisch.", "am samstag sind kr\u00e4ftige schauer zu erwarten, nachmittags lockert es auf.", "abends besteht sturmflutgefahr.", "der sonntag bringt weitere schauer, starken westwind und b\u00f6en.", "nachmittags zeigt sich auch mal die sonne.", "bis 10 grad"]

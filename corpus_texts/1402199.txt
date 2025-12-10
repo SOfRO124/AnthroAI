@@ -1,0 +1,1 @@
+["new york (ap) \u2013", "schachweltmeister garri kasparow hat die erste von sechs partien gegen den ibm-computer \u201edeep blue\u201c gewonnen.", "die maschine gab sich dem 34j\u00e4hrigen russen am samstag in new york nach 45 z\u00fcgen geschlagen.", "der computer, der 200 millionen positionen pro sekunde analysieren kann, irrte im 34. zug."]

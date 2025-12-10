@@ -1,0 +1,1 @@
+["kiel 28 +45 63", "havelse 27 +35 57 hannover ii 29 +27 51 wolfsburg ii 26 +27 50 bremen ii", "26 +17 39 flensburg 26 -4 36 fc st. pauli ii 27 -22 34 cloppenburg 26 -4 33 neum\u00fcnster 26 -15 33 rehden 26 -2 31 goslar 24 -2 28 oldenburg 27 -9 28 meppen 27 -13 28 oberneuland 25 -16 27 w\u2019haven 26 -8 26 victoria", "hamburg", "26 -35 24 hsv ii 26 -21 23 l\u00fcbeck 0 0 0"]

@@ -1,0 +1,1 @@
+["wahlbeteiligung 71,1 (70,3) erststimmen", "zweitstimmen spd", "51,1 (54,1) 46,9 (49,8) cdu", "28,4 (32,5) 28,2 (32,2) fdp 4,3 ( 5,5) 5,5 ( 7,3)", "gr\u00fcne", "11,4 ( 7,5) 12,1 ( 8,6) rep 2,3 ( 0,0) 2,4 ( 1,2)", "statt partei 2,5 ( \u2013) 1,6 ( \u2013) gew.", "horst milde (spd) wie bisher"]

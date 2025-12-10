@@ -1,0 +1,1 @@
+["name: b\u00fctikofer  vorname: reinhard  geboren: 26. 1. 1953", "in", "mannheim  familienstand:", "verheiratet  besondere kennzeichen:", "verf\u00fcgt", "nach eigenen", "angaben", "\u00fcber ein \u201ek\u00e4mpferherz\u201c"]

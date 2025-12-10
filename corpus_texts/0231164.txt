@@ -1,0 +1,1 @@
+["der tag beginnt heute mit neblig.", "allerdings wird es schnell wieder klar.", "im tagesverlauf wechseln sich sonnige und wolkige abschnitte ab, es bleibt dabei aber \u00fcberall trocken.", "die temperaturen erreichen 14 bis 17 grad"]
