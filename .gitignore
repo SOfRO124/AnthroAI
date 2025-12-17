@@ -4,3 +4,5 @@ corpus/
 deu_news_2024_10K/
 
 deu_news_2024_10K.tar
+
+generated_data/KI_sentences_tfidf.json
