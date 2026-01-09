@@ -1,0 +1,1 @@
+["chemnitz 25 46 59 l\u00fcbeck", "24 16 53 wolfsburg ii 24 14 50 leipzig 25 23 47 halle 25 20 45 hannover ii 25 10 37 hsv ii 24 2 37 kiel 23 15 35 hertha ii 24 -4 35 plauen 24 0 33", "cottbus ii", "25 -3 33 meuselwitz", "23 -5 33 wilhelmshaven 25 -17 29 magdeburg 24 -10 27 oberneuland 24 -19 22 braunschweig ii 25 -16 21 havelse 24 -22 20 t\u00fcrkiyemspor 25 -48 2"]

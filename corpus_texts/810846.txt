@@ -1,0 +1,1 @@
+["es geht auf vollmond, ein wetterwechsel liegt in der luft:", "schon heute macht sich mildere luft bemerkbar, die sich richtung osten ausbreitet.", "\u00f6stlich der elbe und von westsachsen bis nordostbayern schneit es weiter.", "damit bleibt die rutschgefahr bestehen.", "im osten steigen die werte kaum \u00fcber 0 grad.", "im westen kann es bis 8 grad warm werden."]

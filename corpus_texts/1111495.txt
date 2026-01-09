@@ -1,0 +1,1 @@
+["sabine", "hertwig, 42, ist gesch\u00e4ftsf\u00fchrerin des berliner beratungsb\u00fcros beruf + konzept.", "sie hat mehrere b\u00fccher zum thema verfasst."]

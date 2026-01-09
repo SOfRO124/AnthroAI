@@ -1,0 +1,1 @@
+["der samstag beginnt meist bew\u00f6lkt und es kann regnen.", "die temperaturen steigen auf maximal 4 grad.", "am sonntag setzt sich h\u00e4ufiger die sonne durch, vereinzelt sind schneeschauer m\u00f6glich.", "die h\u00f6chstwerte liegen zwischen 3 und 5 grad"]

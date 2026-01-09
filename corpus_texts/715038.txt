@@ -1,0 +1,1 @@
+["am samstag muss man mit dunst oder nebel rechnen.", "der wind weht nur schwach, die h\u00f6chstwerte liegen bei 8 grad.", "der sonntag bringt viele wolken, zwischendurch ein paar regentropfen und kurze sonnige abschnitte.", "die h\u00f6chstwerte liegen bei 10 grad"]

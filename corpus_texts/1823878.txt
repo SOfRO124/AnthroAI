@@ -1,0 +1,1 @@
+["parteien", "wahl '89 wahl '85 bund '87", "prozentesitz prozentesitz prozent cdu", "37,8 %5 46,4 %6 41,3 % spd 37,3 %5 32,4 %4 38,7 % al 11,8 %1 10,6 %1 9,4 %*", "fdp 3,9 % 8,5 %1 9,1 % sew 0,6 % 0,6 % rep 7,5 % 1 0,0 %", "sonstige 1,1 % 1,5 % wahlbeteiligung: 79,6 % vorl\u00e4ufiges amtliches endergebnis", "* die gr\u00fcnen"]

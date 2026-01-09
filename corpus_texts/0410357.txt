@@ -1,0 +1,1 @@
+["1. m\u00fcnchen (1)2. frankfurt (2)3. stuttgart (3)4. d\u00fcsseldorf (5)5. mainz (4)6. karlsruhe (6)7. mannheim (11)8. m\u00fcnster (15)9. k\u00f6ln (8)10. dresden (30)weiter:31. magdeburg (45)32. dortmund (28)41. leipzig (47)48. berlin (49)49. gelsenkirchen (46)50. rostock (49)(die", "zahl in klammern bezeichnet den rang im vorjahr)", "quelle:", "http://www.insm.de"]

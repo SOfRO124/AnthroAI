@@ -1,0 +1,1 @@
+["tokio (afp) \u2013", "ein blitzschlag hat schon am sonntag einen unfall in der urananreicherungsanlage im japanischen rokkasho verursacht.", "die erst seit m\u00e4rz laufende anlage hatte schon einmal probleme mit der stromversorgung gehabt und war erst am 26. september wieder ans netz gegangen."]

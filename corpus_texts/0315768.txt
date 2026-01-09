@@ -1,0 +1,1 @@
+["es wird w\u00e4rmer:", "am samstag liegen die h\u00f6chstwerte bei 12 grad, am sonntag bei 14 grad.", "daf\u00fcr hat es die sonne nicht leicht:", "am samstag kommt sie noch ab und zu durch.", "am sonntag ist es bew\u00f6lkt"]

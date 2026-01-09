@@ -1,0 +1,24 @@
+taz am wochenende: Herr Dahi, warum beschäftigen Sie sich mit dem US-Unternehmen Clearview?
+ Alan Dahi: Clearview hat Milliarden von Gesichtsfotos aus dem Internet zusammengesammelt und biometrisch vermessen. Diese Datenbank bietet Clearview den US-Sicherheitsbehörden und eventuell auch Privatunternehmen für biometrische Fahndungen an. Der Kunde reicht das Foto einer unbekannten Person ein, und Clearview findet heraus, wer die Person ist. Der Aufbau einer derartigen biometrischen Fotodatenbank verstößt eindeutig gegen EU-Recht. 
+Aber Clearview sitzt in den USA und bietet seinen Service gar nicht in Europa an. Warum soll Clearview sich an EU-Recht halten?
+ Clearview war durchaus schon in Europa aktiv. So arbeitete die schwedische Polizei zeitweise mit Clearview zusammen, bis ihr das die schwedische Datenschutzbehörde verbot. Vor allem aber enthält Clearviews Datenbank auch Fotos und biometrische Informationen von Millionen EU-Bürgerinnen und -Bürgern. 
+Sind das nicht Fotos, die im Netz für jeden sichtbar sind?
+ Ja, sie sind mehr oder weniger frei zugänglich. Das heißt aber nicht, dass man die Fotos ohne Einwilligung speichern, biometrisch vermessen und aus den biometrischen Daten eine Fahndungsdatenbank aufbauen darf. Das alles verstößt eindeutig gegen die EU-Datenschutz-Grundverordnung. 
+Ist Clearview nicht einfach eine Suchmaschine für Bilder? Was ist der Unterschied zu Google, das alle Webseiten der Welt in seinen Serverfarmen speichert?
+ Die biometrische Auswertung von Fotos ist ein deutlich tieferer Eingriff als die Aufnahme von Webseiten, die grundsätzlich indiziert werden wollen. Um eine Person zu erkennen, wird das Gesicht genau vermessen, über 500 Datenpunkte werden gespeichert. Solche biometrischen Daten gelten nach EU-Recht als besonders schützenswert. 
+Google kann auch nach Fotos suchen. Was ist daran anders?
+ Wenn ich bei der Google-Bildersuche ein Foto hochlade, dann zeigt sie an, auf welchen Seiten das identische Foto zu finden ist. Wenn es im Netz keine übereinstimmenden Fotos gibt, zeigt die Google-Bildersuche nur „optisch ähnliche Bilder“ an, bei denen so gut wie nie die richtige Person dabei ist. Googles Bildersuche ermöglicht also keine Erfolg versprechende biometrische Fahndung wie in der Datenbank von Clearview. 
+Warum sollten sich EU-Bürger:innen daran stören, wenn ein US-Unternehmen ihre Gesichtsdaten verarbeitet?
+ Weil es eine einschüchternde Wirkung haben kann, wenn ein Unternehmen alle öffentlich verfügbaren Bilder für Sicherheitszwecke auswertet. Da die Technik nicht perfekt ist, kommt es dabei immer wieder zu Fehlzuordnungen, das heißt, es entsteht ein falscher Verdacht. Das Unwohlsein über die nicht absehbaren Folgen könnte dazu führen, dass Menschen sich im Netz nicht mehr mit Fotos präsentieren, obwohl sie eigentlich Lust dazu hätten oder dies nützlich fänden. 
+Gilt ihre Kritik auch für das polnische Unternehmen ­PimEyes?
+ Ja, PimEyes arbeitet ganz ähnlich wie Clearview und bietet seine Dienste sogar Privatpersonen an – ab 24,99 Dollar im Monat. Das Unternehmen hat seinen Sitz jetzt zwar auf die Seychellen verlegt. Aber auch ­PimEyes verstößt gegen EU-Recht, weil es die Fotos von EU-Bürgerinnen und -Bürgern auswertet. Früher oder später werden wir auch gegen PimEyes vorgehen. 
+Ihre Organisation noyb („none of your business“) hat sich bei der österreichischen Datenschutzbehörde über Clearview beschwert, was ist Ihr Ziel?
+ Wir wollen, dass Clearview untersagt wird, die Fotos von EU-Bürgerinnen und -Bürgern zu speichern und biometrisch auszuwerten. Außerdem soll gegen Clearview eine hohe Geldstrafe verhängt werden. 
+Ähnliche Beschwerden gibt es bei den Behörden in Frankreich, Großbritannien, Italien und Griechenland. Warum in diesen Ländern?
+ Wir sind ein Bündnis aus fünf Datenschutzorganisationen. Jede Organisation hat in ihrem Staat eine Beschwerde gegen Clearview eingereicht. 
+Was ist mit Deutschland?
+ Matthias Marx, ein Aktivist des Chaos Computer Club, hat schon voriges Jahr die Hamburger Datenschutzbehörde aktiviert. 
+Wie geht es weiter?
+ Die Behörden haben bis Ende August Zeit, um Stellung zu nehmen. Da es um ein europaweites Thema geht, werden sie sich mit allen EU-Datenschutzbehörden absprechen. 
+Wäre es überhaupt möglich, die Fotos und Daten aller EU-Bürger:innen aus der Datenbank von Clearview zu entfernen? Ein Foto sagt ja nichts darüber aus, welche Staatsangehörigkeit die abgebildete Person hat.
+ Das ist nicht unser Problem. Wenn es nicht möglich ist, die Daten von EU-Bürgerinnen und -Bürgern zu löschen, dann muss Clearview eben den Betrieb ganz einstellen. Es gibt aber auch in den USA schon Klagen gegen das Geschäftsmodell. Datenschutz ist kein europäischer Spleen.

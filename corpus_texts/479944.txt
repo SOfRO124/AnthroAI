@@ -1,0 +1,1 @@
+["babelsberg 18 20 42 wolfsburg ii 19 21 38 halle", "18 21 36 chemnitz 18 20 34 magdeburg", "20 20 33 hsv ii 17 6 27 hannover ii 20 6 25 meuselwitz 17 -1 24 t\u00fcrkiyemspor", "19 -9 24 st. pauli ii 20 -9 24 tb berlin 19 -12 24 l\u00fcbeck 18 -4 23 plauen", "19 -5 23 oberneuland 19 -14 21 hertha ii", "19 -8 20 rostock ii 20 -21 19 wilhelmshaven 18 -13 18 goslar 18 -18 10"]

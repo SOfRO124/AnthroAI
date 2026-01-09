@@ -1,0 +1,1 @@
+["ein hoch auf die leerzeile.", "es sollte n\u00e4mlich eine hin zwischen textende und service-anhang.", "der \u00fcbersichtlichkeit halber und weil es besser aussieht.", "zweimal hat das gestern gut funktioniert, einmal nicht.", "und beim aufmacher fielen die filmangaben ganz weg \u2013 samt leerzeile.", "das ist, passend zu bush, kein historisches verh\u00e4ltnis."]

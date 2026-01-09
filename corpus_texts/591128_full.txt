@@ -1,0 +1,1 @@
+Halle 34 38 77 Kiel 34 42 75 Leipzig 34 41 73 Wolfsburg II 34 11 51 Havelse 34 8 51 Hannover II 34 -1 50 Berliner AK 34 1 47 HSV II 34 9 45 Meuselwitz 34 -11 45 Plauen 34 -4 43 Lübeck 34 -6 38 Meppen 34 -18 38 Wilhelmshaven 34 -7 37 Hertha II 34 -20 37 Cottbus II 34 -26 36 Halberstadt 34 -8 34 St. Pauli II 34 -29 32 Magdeburg 34 -20 29

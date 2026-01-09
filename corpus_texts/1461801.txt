@@ -1,0 +1,1 @@
+["ab heute ist die buslinie 76 f\u00fcr vier wochen umgeleitet.", "die haltestellen hackenwehrstra\u00dfe, besanstra\u00dfe und eggestedetr stra\u00dfe wurden verlegt.", "der bus f\u00e4hrt nun \u00fcber m\u00fchlenstra\u00dfe, kreinsloger und emslandstra\u00dfe.", "weitere infos:", "taz"]
