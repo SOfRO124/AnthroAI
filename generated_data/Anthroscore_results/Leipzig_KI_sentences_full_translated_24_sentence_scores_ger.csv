@@ -1,0 +1,93 @@
+,sentence,masked_sentence,text_id,POS,verb,original_term,original_noun,anthroscore
+0,"aber das was der maturand in dem erwähnten text in der nzz gemacht hat sollten sie ebenfalls mitbringen er hat sich dank ki in kürzester zeit viel wissen angeeignet
+","aber das was der maturand in dem erwähnten text in der nzz gemacht hat sollten sie ebenfalls mitbringen er hat <mask> in kürzester zeit viel wissen angeeignet
+",41,416,hat,KI,sich dank ki,3.304361644041011
+1,"auf dem mwc 2024 in barcelona kündigte das unternehmen diese woche den qualcomm ai hub an eine sammlung von mehr als 75 modellen die speziell für qualcomm und snapdragonplattformen optimiert wurden
+","auf dem mwc 2024 in barcelona kündigte das unternehmen diese woche den qualcomm <mask> an eine sammlung von mehr als 75 modellen die speziell für qualcomm und snapdragonplattformen optimiert wurden
+",761,416,den,AI,ai hub,-1.2613893476428757
+2,"bislang kann man openai nicht einholen obwohl etwa die und dalle 3 bereits funktionen bietet die bis dato der abovariante chatgpt plus vorbehalten waren
+","bislang kann man openai nicht einholen obwohl etwa die und dalle 3 bereits funktionen bietet die bis <mask> plus vorbehalten waren
+",1234,416,bis,chatgpt,dato der abovariante chatgpt,0.17439577501548342
+3,"bislang kann man openai nicht einholen obwohl etwa die und dalle 3 bereits funktionen bietet die bis dato der abovariante chatgpt plus vorbehalten waren
+","bislang kann man openai nicht einholen obwohl etwa die und dalle 3 bereits funktionen bietet die bis <mask> plus vorbehalten waren
+",1234,416,bis,ChatGPT,dato der abovariante chatgpt,0.17439577501548342
+4,darüber hinaus haben künstliche intelligenz ki und maschinelles lernen ml eine zunehmend wichtige rolle,<mask> ml eine zunehmend wichtige rolle,1600,8206900633647566924,lernen,KI,darüber hinaus haben künstliche intelligenz ki und maschinelles lernen,1.095572325383607
+5,darüber hinaus haben künstliche intelligenz ki und maschinelles lernen ml eine zunehmend wichtige rolle,<mask> ml eine zunehmend wichtige rolle,1600,8206900633647566924,lernen,Künstliche Intelligenz,darüber hinaus haben künstliche intelligenz ki und maschinelles lernen,1.095572325383607
+6,"im zentrum der diskussion wenn es um den einsatz von künstlicher intelligenz ki in unternehmen geht
+","im zentrum der diskussion <mask> in unternehmen geht
+",2133,429,geht,KI,wenn es um den einsatz von künstlicher intelligenz ki,-3.077086590006351
+7,"denn wenn ihr gemini herunterladet und installiert ersetzt die künstliche intelligenz den google assistant als primären assistenten
+","<mask> den google assistant als primären assistenten
+",2310,429,den,Künstliche Intelligenz,denn wenn ihr gemini herunterladet und installiert ersetzt die künstliche intelligenz,2.0899168217026247
+8,"denn wenn ihr gemini herunterladet und installiert ersetzt die künstliche intelligenz den google assistant als primären assistenten
+","<mask> den google assistant als primären assistenten
+",2310,429,den,Gemini,denn wenn ihr gemini herunterladet und installiert ersetzt die künstliche intelligenz,2.0899168217026247
+9,"der einfluss von big tech auf die künstliche intelligenz wird zunehmend kritisch hinterfragt
+","<mask>
+",2463,8206900633647566924,hinterfragt,Künstliche Intelligenz,der einfluss von big tech auf die künstliche intelligenz wird zunehmend kritisch hinterfragt,2.274000627736709
+10,"die einführung von künstlicher intelligenz ki revolutioniert viele branchen und der vertrieb bildet da keine ausnahme
+","die <mask> und der vertrieb bildet da keine ausnahme
+",3162,416,die,KI,einführung von künstlicher intelligenz ki revolutioniert viele branchen,2.626953713754422
+11,"die konzepte entsprachen durchaus den ideen von ki
+","die konzepte <mask>
+",3440,416,konzepte,KI,entsprachen durchaus den ideen von ki,-2.826046292611208
+12,"erhält das amtsgericht kehl unterstützung durch ki
+","erhält das amtsgericht kehl unterstützung durch <mask>
+",4726,410,erhält,KI,ki,1.604504551022928
+13,"fachleute haben bereits nach der einführung von chatgpt und anderen kianwendungen vor einem stark steigenden energieverbrauch der rechenzentren dadurch gewarnt
+","fachleute haben bereits <mask> gewarnt
+",5130,429,gewarnt,chatgpt,nach der einführung von chatgpt und anderen kianwendungen vor einem stark steigenden energieverbrauch der rechenzentren dadurch,-0.15806540741958752
+14,"fachleute haben bereits nach der einführung von chatgpt und anderen kianwendungen vor einem stark steigenden energieverbrauch der rechenzentren dadurch gewarnt
+","fachleute haben bereits <mask> gewarnt
+",5130,429,gewarnt,ChatGPT,nach der einführung von chatgpt und anderen kianwendungen vor einem stark steigenden energieverbrauch der rechenzentren dadurch,-0.15806540741958752
+15,"ihr schnallt euch eure vrbrille auf und werdet zu zula hendricks einer exmarinesoldatin die die geheimen experimente von gemini exoplanet solutions aufdecken will
+","ihr schnallt euch eure vrbrille auf und werdet zu zula hendricks einer exmarinesoldatin die die geheimen experimente <mask> aufdecken will
+",5861,416,experimente,Gemini,von gemini exoplanet solutions,-0.19209481309451792
+16,"in china sucht apple nach einem lokalen kipartner da chatgpt dort verboten ist und nur einheimische kimodelle zugelassen sind
+","in <mask> verboten ist und nur einheimische kimodelle zugelassen sind
+",6089,429,verboten,chatgpt,china sucht apple nach einem lokalen kipartner da chatgpt dort,2.3003680616777045
+17,"in china sucht apple nach einem lokalen kipartner da chatgpt dort verboten ist und nur einheimische kimodelle zugelassen sind
+","in <mask> verboten ist und nur einheimische kimodelle zugelassen sind
+",6089,429,verboten,ChatGPT,china sucht apple nach einem lokalen kipartner da chatgpt dort,2.3003680616777045
+18,"in einigen werbespots wirbt google aktuell für seine neue ki gemini
+","in einigen werbespots wirbt google aktuell für seine neue <mask>
+",6235,403,neue,KI,ki gemini,2.5443773851497538
+19,"in einigen werbespots wirbt google aktuell für seine neue ki gemini
+","in einigen werbespots wirbt google aktuell für seine neue <mask>
+",6235,403,neue,Gemini,ki gemini,2.5443773851497538
+20,"ki kann aber noch mehr
+","<mask>
+",6582,8206900633647566924,mehr,KI,ki kann aber noch mehr,2.274000627736709
+21,"mit gemini nano ist googles bisher umfangreichstes multimodales sprachmodell an bord
+","mit <mask> ist googles bisher umfangreichstes multimodales sprachmodell an bord
+",7030,416,mit,Gemini,gemini nano,2.290776233602487
+22,"sie bauen deswegen eine weitere stufe ein um die antwort in echtzeit zu ersetzen zitiert die financial times huan li der den chatbot chatie
+","sie bauen deswegen eine weitere stufe ein um die antwort in echtzeit zu ersetzen zitiert die financial times <mask>
+",8020,410,die,Chatbot,huan li der den chatbot chatie,-3.7057688990204642
+23,"sind die hoffnungen in künstliche intelligenz gerechtfertigt oder übertreibt die börse
+","sind die hoffnungen in <mask>
+",8177,439,in,Künstliche Intelligenz,künstliche intelligenz gerechtfertigt oder übertreibt die börse,0.5301710405863052
+24,"sogar sehr sehr teuer wie frische zahlen aus dem unternehmen hinter dem chatbot chatgpt zeigen
+","sogar sehr sehr teuer wie frische zahlen aus dem unternehmen <mask>
+",8215,416,unternehmen,chatgpt,hinter dem chatbot chatgpt zeigen,1.357094740414892
+25,"sogar sehr sehr teuer wie frische zahlen aus dem unternehmen hinter dem chatbot chatgpt zeigen
+","sogar sehr sehr teuer wie frische zahlen aus dem unternehmen <mask>
+",8215,416,unternehmen,ChatGPT,hinter dem chatbot chatgpt zeigen,1.357094740414892
+26,"sogar sehr sehr teuer wie frische zahlen aus dem unternehmen hinter dem chatbot chatgpt zeigen
+","sogar sehr sehr teuer wie frische zahlen aus dem unternehmen <mask>
+",8215,416,unternehmen,Chatbot,hinter dem chatbot chatgpt zeigen,1.357094740414892
+27,"über ai sound pro ist es möglich eine virtuelle 1112surroundkulisse zu erzeugen oder dialoge in spielfilmen und tvserien klarer herauszuheben
+","<mask> pro ist es möglich eine virtuelle 1112surroundkulisse zu erzeugen oder dialoge in spielfilmen und tvserien klarer herauszuheben
+",8552,429,und,AI,über ai sound,-0.8093493578182338
+28,"und dabei spielt das thema künstliche intelligenz beziehungsweise maschinenlernen bereits seit einigen jahren eine zentrale rolle
+","und dabei spielt <mask> bereits seit einigen jahren eine zentrale rolle
+",8671,429,bereit,Künstliche Intelligenz,das thema künstliche intelligenz beziehungsweise maschinenlernen,0.3094291816801906
+29,"viele programmiererinnen greifen bei der softwareentwicklung zu kichatbots wie chatgpt
+","viele programmiererinnen <mask>
+",8952,416,programmiererinnen,chatgpt,greifen bei der softwareentwicklung zu kichatbots wie chatgpt,1.692317352915385
+30,"viele programmiererinnen greifen bei der softwareentwicklung zu kichatbots wie chatgpt
+","viele programmiererinnen <mask>
+",8952,416,programmiererinnen,ChatGPT,greifen bei der softwareentwicklung zu kichatbots wie chatgpt,1.692317352915385
+31,"zuerst einmal in fünf grund und mittelschulen unterstützt ein chatbot die schüler dabei ihr englisch zu verbessern
+","zuerst einmal in fünf grund und mittelschulen unterstützt ein <mask> die schüler dabei ihr englisch zu verbessern
+",9818,429,die,Chatbot,chatbot,4.33863034122445
