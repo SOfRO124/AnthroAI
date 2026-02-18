@@ -6,4 +6,5 @@ deu_news/
 deu_news_2024_10K.tar
 
 generated_data/KI_sentences_tfidf.json
+generated_data/Leipzig_sentences_years.csv
 #generated_data/AI_sentences_tfidf.json
