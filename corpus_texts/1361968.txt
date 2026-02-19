@@ -1,1 +1,1 @@
-["die deutsche kommunistische partei (dkp) lebt:", "sichtbar wird das heute um 19.30 uhr im nachbarschaftsheim", "beim ohlenhof 10 in gr\u00f6pelingen.", "parteivorstandsmitglied manfred sohn referiert \u00fcber \u201earbeitszeit, l\u00f6hne und arbeitslosigkeit\u201c.", "taz"]
+["die deutsche kommunistische partei (dkp) lebt:", "beim ohlenhof 10 in gr\u00f6pelingen.", "parteivorstandsmitglied manfred sohn referiert \u00fcber \u201earbeitszeit, l\u00f6hne und arbeitslosigkeit\u201c.", "taz"]

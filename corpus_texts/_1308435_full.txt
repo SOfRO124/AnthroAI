@@ -1,1 +1,0 @@
-"Leider habt ihr es wieder verkorkst. Seit Gregor gilt folgende Regel: Jedes durch vier teilbare Jahr ist ein Schaltjahr (wie zuvor). Aber: Die durch 100 teilbaren Jahre sind keine Schaltjahre (also 1700, 1800, 1900). Aber: Die durch 400 teilbaren Jahre sind doch wieder Schaltjahre (also 1600, 2000!). Helmut Richter, Frankfurt a.M."
