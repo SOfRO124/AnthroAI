@@ -1,0 +1,1022 @@
+,sentence,masked_sentence,text_id,POS,verb,original_term,original_noun,anthroscore
+0,auch meinen beruf als schriftsteller muss ich wohl bald an den nagel hängen wo doch elektronische lesegeräte mein leseverhalten analysieren um mit diesen daten eine ki zu füttern die künftig auf mich zugeschnittene bücher schreibt,auch meinen beruf als schriftsteller muss ich wohl bald an den nagel hängen wo doch elektronische lesegeräte mein leseverhalten analysieren um mit diesen <mask> die künftig auf mich zugeschnittene bücher schreibt,5725711.txt,429,die,KI,daten eine ki zu füttern,1.944736299080894
+1,ihre höchste trefferquote hatte die ki ausgerechnet in einem punkt in dem die unterscheidung ohne einen pcrtest besonders schwierig ist bei positiven personen die keine,ihre höchste trefferquote hatte die <mask> in einem punkt in dem die unterscheidung ohne einen pcrtest besonders schwierig ist bei positiven personen die keine,5727648.txt,416,die,KI,ki ausgerechnet,0.9201362198791028
+2,bhv del h hb hh hl ki ol resident evil – extinction australien 2006 r russell mulcahy d milla jovonich mike epps „‚resident evil extinction‘ lässt zu beginn auf einen guten endzeitfilm hoffen bei dem die weitläufigen wüstenareale und die einsamen revolverhelden sehr an einen spätwestern erinnern,bhv del h hb hh hl <mask> – extinction australien 2006 r russell mulcahy d milla jovonich mike epps „‚resident evil extinction‘ lässt zu beginn auf einen guten endzeitfilm hoffen bei dem die weitläufigen wüstenareale und die einsamen revolverhelden sehr an einen spätwestern erinnern,3197099.txt,403,hl,KI,ki ol resident evil,-0.35587835771104004
+3,ungeneralsekretär ban ki moon forderte den iran jedoch auf sich,<mask> den iran jedoch auf sich,5092974.txt,429,den,KI,ungeneralsekretär ban ki moon forderte,2.5411624947259632
+4,doch dass ki dieses vertrauen wiederherstellen könnte ist eine illusion,<mask> vertrauen wiederherstellen könnte ist eine illusion,5771686.txt,429,vertrauen,KI,doch dass ki dieses,1.2976252220214608
+5,bhv del  h hb hh hl ki ol  sieben leben usa 2008r,bhv del  h hb hh hl <mask> 2008r,731924.txt,403,hl,KI,ki ol  sieben leben usa,0.10070057413759592
+6,mit dieser aktion wollen amnesty international ai und reporter ohne grenzen an die journalistin erinnern wie ein aisprecher mitteilte,mit dieser aktion wollen amnesty international <mask> an die journalistin erinnern wie ein aisprecher mitteilte,0230355.txt,3965108062993911700,mit,AI,ai und reporter ohne grenzen,-1.3294724533306095
+7,zum beispiel zu sagen nein in einem unternehmen darf keine ki einen vorfilter für die stellenbesetzung übernehmen,zum beispiel zu sagen nein in einem <mask> für die stellenbesetzung übernehmen,5905296.txt,439,in,KI,unternehmen darf keine ki einen vorfilter,1.9770205708119075
+8,es ist schwer sich an ein stück von ai phoenix zu erinnern wenn es erst einmal verklungen ist,es ist schwer sich an ein stück <mask> phoenix zu erinnern wenn es erst einmal verklungen ist,1110546.txt,403,schwer,AI,von ai,4.147085369554405
+9,sie hat ihren regionalen charakter als stadt in der viele wie fassbinder ausschauen aber niemand würde sagen dass sie eine künstliche intelligenz ist,sie hat ihren regionalen charakter als stadt in <mask>,1185159.txt,439,in,Künstliche Intelligenz,der viele wie fassbinder ausschauen aber niemand würde sagen dass sie eine künstliche intelligenz ist,-3.48345329758361
+10,bevor ich mir abstracts von einer ki schreiben lasse muss ich selbst erst mal verstehen was dort reingehört,bevor ich mir abstracts <mask> erst mal verstehen was dort reingehört,5909029.txt,429,be,KI,von einer ki schreiben lasse muss ich selbst,-0.530840208281476
+11,eine weile schien es so als könne dieses neue paradigma der ki mit leichtigkeit die,eine weile schien es so als könne dieses neue paradigma der <mask> mit leichtigkeit die,695309,429,mit,KI,ki,-0.8679565537908136
+12,"der fahrer lernt das terrain kennen der copilot protokolliert jede welle kurve kehre mit der dazugehörigen geschwindigkeit und dem gefahrenen gang
+","der fahrer lernt <mask> kurve kehre mit der dazugehörigen geschwindigkeit und dem gefahrenen gang
+",824051,429,kurve,Copilot,das terrain kennen der copilot protokolliert jede welle,2.216322652646511
+13,"kritische geister sagen dass die zunehmend grauen wolken die über palm springs auch bei hitze hängen können ihre ursache in dieser besprühung haben
+","kritische geister sagen dass die zunehmend grauen wolken die <mask> in dieser besprühung haben
+",662493,416,wolken,palm,über palm springs auch bei hitze hängen können ihre ursache,2.477350149990291
+14,"kunden können selbst die bedarfsorientierten konfigurationen ihres gewünschten rack protectors lms 93 ermitteln ohne eine einzige bestellnummer zu kennen
+","kunden können selbst die bedarfsorientierten konfigurationen ihres gewünschten <mask> 93 ermitteln ohne eine einzige bestellnummer zu kennen
+",10352,416,gewünschten,lms,rack protectors lms,0.10862755130356838
+15,"der neuzugang kommt nicht etwa aus frankreich wie man anhand des namens vielleicht vermuten könnte sondern aus west palm beach in florida
+","der neuzugang kommt nicht etwa aus frankreich wie man anhand des namens vielleicht vermuten <mask> in florida
+",76748,416,vermuten,palm,könnte sondern aus west palm beach,-2.131641519448447
+16,"trotz der pionierrolle in der computerbranche kann sich palm gegen konkurrenten wie nokia oder apple nicht durchsetzen
+","trotz der pionierrolle in <mask> durchsetzen
+",91900,439,in,palm,der computerbranche kann sich palm gegen konkurrenten wie nokia oder apple nicht,-1.0043923491201667
+17,"etwas altersirre will einem dieses phantasieren über das ewigweibliche gelegentlich erscheinen  onkel lou das rock n roll animal der ewige transformer und drogenesser in der späten rolle des fool in love
+","etwas altersirre will einem dieses phantasieren <mask> in der späten rolle des fool in love
+",432384,429,späten,Transformer,über das ewigweibliche gelegentlich erscheinen  onkel lou das rock n roll animal der ewige transformer und drogenesser,1.8566692718941589
+18,"dabei vergessen sie ein wesentliches aufgabenfeld der agenturen die mediastrategische beratung die wir mithilfe des kollegen ki zielführender wirkungsvoller und agiler gestalten können
+","dabei vergessen sie ein wesentliches aufgabenfeld der agenturen die mediastrategische beratung die wir mithilfe des kollegen <mask> gestalten können
+",133438,403,kollegen,KI,ki zielführender wirkungsvoller und agiler,-4.095339821512427
+19,"ki gegen die menschen durchsetzen
+","<mask> die menschen durchsetzen
+",213525,429,die,KI,ki gegen,2.9818613265896428
+20,"kann die presse bitte endlich aufhören banale dinge wie eine spracherkennung  montoring mit ausgelagerter datenbank als ki zu bezeichnen
+","kann die <mask>
+",645642,416,die,KI,presse bitte endlich aufhören banale dinge wie eine spracherkennung  montoring mit ausgelagerter datenbank als ki zu bezeichnen,0.7921021611399706
+21,"mittelfristig werden uns beispielsweise künstliche intelligenz oder das internet der dinge definitiv berühren
+","mittelfristig werden uns <mask>
+",704446,416,un,Künstliche Intelligenz,beispielsweise künstliche intelligenz oder das internet der dinge definitiv berühren,-0.11307413600522143
+22,"ob das gleiche system auch für vrgames funktionieren könnte sei schwer zu sagen schätzt tommy palm
+","ob das gleiche system auch für vrgames funktionieren könnte <mask>
+",746979,416,könnte,palm,sei schwer zu sagen schätzt tommy palm,3.8709375329639
+23,"roboter und andere potenziell auf künstlicher intelligenz ki basierende systeme werden sich das vertrauen der menschheit erst hart erarbeiten müssen
+","roboter und andere <mask> basierende systeme werden sich das vertrauen der menschheit erst hart erarbeiten müssen
+",772113,429,basierende,KI,potenziell auf künstlicher intelligenz ki,-1.5825795136987155
+24,"schon weil sie keine gefühle empfinden kann würde sich die denkweise einer solchen ki aber vermutlich stark von der eines menschen unterscheiden
+","schon weil sie keine gefühle empfinden kann würde sich die denkweise einer <mask>
+",783769,403,einer,KI,solchen ki aber vermutlich stark von der eines menschen unterscheiden,2.054033739492013
+25,"unternehmen verstehen zunehmend welche vorteile robotik automatisierung und künstliche intelligenz bieten
+","unternehmen <mask>
+",886646,416,unternehmen,Künstliche Intelligenz,verstehen zunehmend welche vorteile robotik automatisierung und künstliche intelligenz bieten,2.174566398817314
+26,"welche impulse lösen schlagworte wie künstliche intelligenz oder artificial intelligence aus
+","<mask>
+",930753,8206900633647566924,aus,Künstliche Intelligenz,welche impulse lösen schlagworte wie künstliche intelligenz oder artificial intelligence aus,2.274000627736709
+27,"welche impulse lösen schlagworte wie künstliche intelligenz oder artificial intelligence aus
+","<mask>
+",930753,8206900633647566924,aus,Artificial Intelligence,welche impulse lösen schlagworte wie künstliche intelligenz oder artificial intelligence aus,2.274000627736709
+28,"«wird die künstliche intelligenz kleider vorschlagen die uns dünn aussehen lassen
+","«<mask> die uns dünn aussehen lassen
+",959137,429,die,Künstliche Intelligenz,wird die künstliche intelligenz kleider vorschlagen,1.5712552027855597
+29,"als gründe führte präsident christian palm uneinigkeiten mit pfarrern und fehlendes vertrauen der gemeinde an
+","<mask> mit pfarrern und fehlendes vertrauen der gemeinde an
+",25490,429,mit,palm,als gründe führte präsident christian palm uneinigkeiten,1.8630107585842701
+30,"auch dem thema künstliche intelligenz müsse man sich widmen hob zeidlerbeck in ihrer rede initiativen des nationalratspräsidenten wolfgang sobotka in diesem bereich hervor
+","<mask> sich widmen hob zeidlerbeck in ihrer rede initiativen des nationalratspräsidenten wolfgang sobotka in diesem bereich hervor
+",59333,8206900633647566924,man,Künstliche Intelligenz,auch dem thema künstliche intelligenz müsse man,2.2374431207131185
+31,"außerdem glauben wir dass digitale technologien wie ki cloud und 5g schnell integriert und in verschiedenen branchen umfassend eingesetzt werden
+","<mask> und 5g schnell integriert und in verschiedenen branchen umfassend eingesetzt werden
+",85805,429,und,KI,außerdem glauben wir dass digitale technologien wie ki cloud,-3.0364494757934413
+32,"bei der steigenden bedeutung von ki in der cybersicherheit werden vertrauen und transparenz bei ki immer wichtiger
+","<mask> in der cybersicherheit werden vertrauen und transparenz bei ki immer wichtiger
+",99550,8206900633647566924,ki,KI,bei der steigenden bedeutung von ki,1.8118103987800742
+33,"bei der steigenden bedeutung von ki in der cybersicherheit werden vertrauen und transparenz bei ki immer wichtiger
+","bei der steigenden bedeutung von ki in <mask>
+",99550,439,in,KI,der cybersicherheit werden vertrauen und transparenz bei ki immer wichtiger,0.03084507463386288
+34,"ki nach dem ersatz von mitarbeitern alles lösen wird sind ebenfalls verlierer
+","<mask> nach dem ersatz von mitarbeitern alles lösen wird sind ebenfalls verlierer
+",130982,429,nach,KI,ki,1.782680107757157
+35,chat gpt heißt das dialogsystem das experten als bahnbrechende entwicklung,<mask> bahnbrechende entwicklung,131348,429,bahnbrechende,gpt,chat gpt heißt das dialogsystem das experten als,2.9082825235858145
+36,"chatgpt konnte die aufgabe verständlich lösen und die schülerin war danach in der lage selbstständig weiterzuarbeiten
+","<mask> die aufgabe verständlich lösen und die schülerin war danach in der lage selbstständig weiterzuarbeiten
+",131364,429,die,chatgpt,chatgpt konnte,2.485017239159845
+37,"chatgpt konnte die aufgabe verständlich lösen und die schülerin war danach in der lage selbstständig weiterzuarbeiten
+","<mask> die aufgabe verständlich lösen und die schülerin war danach in der lage selbstständig weiterzuarbeiten
+",131364,429,die,ChatGPT,chatgpt konnte,2.485017239159845
+38,"damit könne eine ki nicht aufwarten denn algorithmen fühlen nicht daten leiden nicht
+","<mask> aufwarten denn algorithmen fühlen nicht daten leiden nicht
+",149994,429,aufwarten,KI,damit könne eine ki nicht,1.2683348998867965
+39,"darunter verstehen experten die unzähligen datensätze auf denen sogenannte generative ki basiert
+","darunter verstehen experten die unzähligen datensätze auf denen sogenannte generative <mask>
+",161858,416,generative,KI,ki basiert,0.6299707602096332
+40,"das half den forschern auch zu verstehen wie die ki vorgeht und welchen weg sie verfolgt
+","das half den forschern auch zu verstehen wie die <mask> und welchen weg sie verfolgt
+",177460,416,die,KI,ki vorgeht,1.1350038356691723
+41,"das projekt soll orientierung produkte und werkzeuge bieten damit kundinnen und kunden ki richtig verstehen einordnen und nutzen können vorteile generieren und wirtschaftlich erfolgreich sind
+","das projekt soll orientierung <mask> verstehen einordnen und nutzen können vorteile generieren und wirtschaftlich erfolgreich sind
+",194324,403,orientierung,KI,produkte und werkzeuge bieten damit kundinnen und kunden ki richtig,3.629203428521004
+42,"das was chatgpt kann habe ich schon zwei jahre vorher in meinen vorlesungen erklärt
+","das was <mask> in meinen vorlesungen erklärt
+",210555,404,be,chatgpt,chatgpt kann habe ich schon zwei jahre vorher,1.5282013729146708
+43,"das was chatgpt kann habe ich schon zwei jahre vorher in meinen vorlesungen erklärt
+","das was <mask> in meinen vorlesungen erklärt
+",210555,404,be,ChatGPT,chatgpt kann habe ich schon zwei jahre vorher,1.5282013729146708
+44,"denn falsch eingesetzt hat künstliche intelligenz das potenzial zum beispiel mit unwahren bildern rasant desinformationen im netz zu verbreiten und so das vertrauen in demokratische institutionen zu zerstören
+","denn falsch <mask> mit unwahren bildern rasant desinformationen im netz zu verbreiten und so das vertrauen in demokratische institutionen zu zerstören
+",227686,429,mit,Künstliche Intelligenz,eingesetzt hat künstliche intelligenz das potenzial zum beispiel,0.924405136277306
+45,"ki machen
+","<mask>
+",295567,8206900633647566924,machen,KI,ki machen,2.274000627736709
+46,"ai mit der geistigen kraft ki
+","<mask> der geistigen kraft ki
+",340438,8206900633647566924,mit,AI,ai mit,1.6690425048894282
+47,"die ki kann aufsätze schreiben mathematikaufgaben lösen oder lange lernkapitel kurz zusammenfassen
+","die <mask>
+",342411,416,die,KI,ki kann aufsätze schreiben mathematikaufgaben lösen oder lange lernkapitel kurz zusammenfassen,-0.18475218456362796
+48,"die ki nimmt einem das denken nicht ab aber sie kann stilles grübeln in einen dialogischen prozess verwandeln
+","die <mask> in einen dialogischen prozess verwandeln
+",342684,416,die,KI,ki nimmt einem das denken nicht ab aber sie kann stilles grübeln,-0.7270718594552026
+49,"die meisten führungskräfte 78 prozent glauben dass durch generative ki die entwicklung von produkten und services effizienter sowie benutzerfreundlicher und inklusiver 76 prozent wird
+","die meisten führungskräfte 78 prozent glauben dass durch generative <mask> die entwicklung von produkten und services effizienter sowie benutzerfreundlicher und inklusiver 76 prozent wird
+",350825,429,die,KI,ki,0.7074759818699858
+50,dorothy khademmissagh über künstliche intelligenz,<mask>,421222,8206900633647566924,intelligenz,Künstliche Intelligenz,dorothy khademmissagh über künstliche intelligenz,1.1165538068223562
+51,"ein etwas anderer zugang zum wesen der sprachmodelle – und was sie für uns bedeuten
+","ein etwas <mask> – und was sie für uns bedeuten
+",449847,416,etwa,Sprachmodelle,anderer zugang zum wesen der sprachmodelle,3.5573349770820526
+52,"es gelte der ki auf den zahn zu fühlen und genau zu prüfen ob die softwaretechnik zum eigenen unternehmen passt
+","<mask> unternehmen passt
+",493217,429,unternehmen,KI,es gelte der ki auf den zahn zu fühlen und genau zu prüfen ob die softwaretechnik zum eigenen,4.403393700168238
+53,"fazit können wir ki vertrauen
+","<mask> vertrauen
+",515797,429,vertrauen,KI,fazit können wir ki,1.1958504291075354
+54,"gemini pro wird sich an ein breites publikum wenden und etwa dem chatbot google bard fortgeschrittenes denken planen verstehen und mehr beibringen
+","<mask> sich an ein breites publikum wenden und etwa dem chatbot google bard fortgeschrittenes denken planen verstehen und mehr beibringen
+",543244,429,wenden,Gemini,gemini pro wird,1.5916598490724656
+55,"gemini pro wird sich an ein breites publikum wenden und etwa dem chatbot google bard fortgeschrittenes denken planen verstehen und mehr beibringen
+","gemini pro wird sich an ein breites publikum wenden und etwa <mask> denken planen verstehen und mehr beibringen
+",543244,416,wenden,Chatbot,dem chatbot google bard fortgeschrittenes,0.7112711697908587
+56,"gerne darf meine ki meinen speiseplan verwalten meinen pc meinen terminkalender und meine bücherinhalte
+","gerne darf meine <mask> und meine bücherinhalte
+",546593,403,meine,KI,ki meinen speiseplan verwalten meinen pc meinen terminkalender,2.461466822859858
+57,"in der neuen ai factory will die deutsche bahn ihre kernprozesse verbessern und probleme lösen
+","in der neuen <mask> will die deutsche bahn ihre kernprozesse verbessern und probleme lösen
+",617400,439,in,AI,ai factory,0.8048444737979459
+58,"in einer erklärung betonten sie ihre absicht die risiken von ki besser verstehen und kollektiv managen zu wollen
+","in einer erklärung betonten sie ihre absicht die risiken <mask> verstehen und kollektiv managen zu wollen
+",625024,416,risiken,KI,von ki besser,-0.14503904190487837
+59,"konversationsbots wie chatgpt lassen anwender denken dass sie es mit einer menschenähnlichen intelligenz zu tun haben wenn die ki in sekunden antworten und lösungen auch auf komplexe fragen und aufgaben liefert
+","konversationsbots wie chatgpt lassen anwender denken dass sie es mit einer menschenähnlichen intelligenz zu tun haben wenn die <mask> in sekunden antworten und lösungen auch auf komplexe fragen und aufgaben liefert
+",664758,416,die,KI,ki,-0.44326884101631947
+60,"man kann chatgpt nämlich auch als große entlastung verstehen und zwar von der vorstellung die menschliche besonderheit überhaupt an so etwas wie texten festmachen zu wollen
+","<mask> große entlastung verstehen und zwar von der vorstellung die menschliche besonderheit überhaupt an so etwas wie texten festmachen zu wollen
+",686195,429,große,chatgpt,man kann chatgpt nämlich auch als,3.1526949111801503
+61,"man kann chatgpt nämlich auch als große entlastung verstehen und zwar von der vorstellung die menschliche besonderheit überhaupt an so etwas wie texten festmachen zu wollen
+","<mask> große entlastung verstehen und zwar von der vorstellung die menschliche besonderheit überhaupt an so etwas wie texten festmachen zu wollen
+",686195,429,große,ChatGPT,man kann chatgpt nämlich auch als,3.1526949111801503
+62,"man kann der ki ja einfach sagen „mach stattdessen einen witz über schrebergärten“
+","<mask> einfach sagen „mach stattdessen einen witz über schrebergärten“
+",686243,429,einfach,KI,man kann der ki ja,3.7485094536229155
+63,"menschen müssen darauf vertrauen können dass sie durch ki nicht benachteiligt werden
+","<mask>
+",696024,8206900633647566924,werden,KI,menschen müssen darauf vertrauen können dass sie durch ki nicht benachteiligt werden,2.274000627736709
+64,"nutzer von chronicle sollen dank palm zusätzlich über eine art chatbot sicherheitswarnungen besser verstehen können
+","<mask>
+",754386,8206900633647566924,können,palm,nutzer von chronicle sollen dank palm zusätzlich über eine art chatbot sicherheitswarnungen besser verstehen können,2.274000627736709
+65,"nutzer von chronicle sollen dank palm zusätzlich über eine art chatbot sicherheitswarnungen besser verstehen können
+","<mask>
+",754386,8206900633647566924,können,Chatbot,nutzer von chronicle sollen dank palm zusätzlich über eine art chatbot sicherheitswarnungen besser verstehen können,2.274000627736709
+66,"obwohl dies auch nach aktuellem entwicklungsstand nicht möglich sein wird denken im schnitt 27 prozent der von ipsos zum thema befragten menschen in 36 ländern dass eine ki 2023 globales chaos anrichten wird
+","obwohl dies auch nach aktuellem entwicklungsstand nicht möglich sein wird denken im schnitt 27 prozent der von ipsos zum thema befragten menschen in 36 ländern dass eine <mask> 2023 globales chaos anrichten wird
+",757944,403,eine,KI,ki,-3.8715881550711764
+67,sie seien durch social media und viele internetangebote schon vor dem 13 lebensjahr mit ki konfrontiert und,sie seien durch social media und viele internetangebote schon vor <mask> und,815394,429,und,KI,dem 13 lebensjahr mit ki konfrontiert,7.140223379808899
+68,"müssten unter der aufsicht und anleitung von lehrkräften frühzeitig verstehen lernen was ki eigentlich macht und wie man sie nutzt
+","müssten unter der aufsicht und anleitung von lehrkräften frühzeitig verstehen lernen was <mask>
+",815394,404,be,KI,ki eigentlich macht und wie man sie nutzt,0.47328199928141856
+69,"statt komplizierte programmiersprachen zu verwenden geben wir der ki einfache befehle und können damit auch sehr komplexe und kreative aufgaben lösen
+","<mask> und kreative aufgaben lösen
+",841368,429,und,KI,statt komplizierte programmiersprachen zu verwenden geben wir der ki einfache befehle und können damit auch sehr komplexe,2.4775968672361808
+70,"threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate um die 100millionennutzermarke zu knacken
+","<mask> um die 100millionennutzermarke zu knacken
+",849928,429,die,chatgpt,threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate,0.8112609068063215
+71,"threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate um die 100millionennutzermarke zu knacken
+","<mask> um die 100millionennutzermarke zu knacken
+",849928,429,die,ChatGPT,threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate,0.8112609068063215
+72,"threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate um die 100millionennutzermarke zu knacken
+","<mask> um die 100millionennutzermarke zu knacken
+",849928,429,die,Chatbot,threads hat damit einen den rekord von chatgpt gebrochen der chatbot von openai brauchte zwei monate,0.8112609068063215
+73,"um das zu lösen setzen die netflixforscherinnen auf künstliche intelligenz
+","<mask>
+",861637,8206900633647566924,intelligenz,Künstliche Intelligenz,um das zu lösen setzen die netflixforscherinnen auf künstliche intelligenz,2.274000627736709
+74,"menschen von ki abzuheben müssen wir also möglichst genau wissen was die menschen mit denen wir es zu tun haben denken und fühlen wofür sie sich interessieren und wie sie auf unsere handlungen reagieren
+","<mask> also möglichst genau wissen was die menschen mit denen wir es zu tun haben denken und fühlen wofür sie sich interessieren und wie sie auf unsere handlungen reagieren
+",864857,429,möglichst,KI,menschen von ki abzuheben müssen wir,1.197186440035054
+75,"und ich muss auch sagen dass ich wirklich lieber mit meinem eigenen chatbot herumexperimentiere als so etwas wie chatgpt zu nutzen
+","und ich muss auch sagen dass ich wirklich lieber mit <mask> herumexperimentiere als so etwas wie chatgpt zu nutzen
+",874998,416,mit,Chatbot,meinem eigenen chatbot,2.3341842640496147
+76,"und ich muss auch sagen dass ich wirklich lieber mit meinem eigenen chatbot herumexperimentiere als so etwas wie chatgpt zu nutzen
+","und ich muss auch sagen dass ich wirklich lieber mit meinem eigenen chatbot herumexperimentiere als so etwas <mask>
+",874998,429,etwas,chatgpt,wie chatgpt zu nutzen,3.7496007098930857
+77,"und ich muss auch sagen dass ich wirklich lieber mit meinem eigenen chatbot herumexperimentiere als so etwas wie chatgpt zu nutzen
+","und ich muss auch sagen dass ich wirklich lieber mit meinem eigenen chatbot herumexperimentiere als so etwas <mask>
+",874998,429,etwas,ChatGPT,wie chatgpt zu nutzen,3.7496007098930857
+78,"unter künstlicher intelligenz ki versteht man den versuch menschliches lernen und denken auf den computer zu übertragen
+","<mask> den versuch menschliches lernen und denken auf den computer zu übertragen
+",887628,429,den,KI,unter künstlicher intelligenz ki versteht man,2.0878517596853747
+79,"unternehmen die denken sie könnten sich durch den alleinigen einsatz von ki viel geld sparen werden am ende qualität einbüßen und gutes personal noch schwerer finden
+","unternehmen die denken sie könnten <mask> am ende qualität einbüßen und gutes personal noch schwerer finden
+",887776,429,be,KI,sich durch den alleinigen einsatz von ki viel geld sparen werden,2.126388270140362
+80,"so einfach durch ki ersetzbar sind wie manche glauben mögen
+","<mask>
+",890552,8206900633647566924,mögen,KI,so einfach durch ki ersetzbar sind wie manche glauben mögen,2.274000627736709
+81,"von dem behaupten insider dass es schon heute leistungsfähiger sei als chatgpt
+","<mask>
+",902549,8206900633647566924,chatgpt,chatgpt,von dem behaupten insider dass es schon heute leistungsfähiger sei als chatgpt,2.274000627736709
+82,"von dem behaupten insider dass es schon heute leistungsfähiger sei als chatgpt
+","<mask>
+",902549,8206900633647566924,chatgpt,ChatGPT,von dem behaupten insider dass es schon heute leistungsfähiger sei als chatgpt,2.274000627736709
+83,"was bedeuten chatgpt  co für den berufsstand der steuerberater
+","was <mask> für den berufsstand der steuerberater
+",918962,429,den,chatgpt,bedeuten chatgpt  co,3.1293946496633804
+84,"was bedeuten chatgpt  co für den berufsstand der steuerberater
+","was <mask> für den berufsstand der steuerberater
+",918962,429,den,ChatGPT,bedeuten chatgpt  co,3.1293946496633804
+85,"was sagen lehrende zur nutzung von chat gpt
+","was <mask>
+",923747,429,be,gpt,sagen lehrende zur nutzung von chat gpt,3.1983401777036224
+86,"welche weiterbildungen im bereich ki empfehlen sie itführungskräften
+","welche weiterbildungen im bereich <mask> empfehlen sie itführungskräften
+",932812,429,empfehlen,KI,ki,4.213084150123472
+87,"wer echten luxus leben möchte dem empfehlen wir das th8 palm dubai beach resort
+","wer echten <mask>
+",941568,416,echten,palm,luxus leben möchte dem empfehlen wir das th8 palm dubai beach resort,1.4099599056368746
+88,"wir wissen auch noch nicht ob anwendungen wie chatgpt das kritische denken unserer studenten eher fördern oder einschränken
+","<mask> studenten eher fördern oder einschränken
+",968840,429,studenten,chatgpt,wir wissen auch noch nicht ob anwendungen wie chatgpt das kritische denken unserer,2.415145349542396
+89,"wir wissen auch noch nicht ob anwendungen wie chatgpt das kritische denken unserer studenten eher fördern oder einschränken
+","<mask> studenten eher fördern oder einschränken
+",968840,429,studenten,ChatGPT,wir wissen auch noch nicht ob anwendungen wie chatgpt das kritische denken unserer,2.415145349542396
+90,"der ki letztendlich führt könne man verständlicherweise nicht genau sagen
+","<mask>
+",971177,8206900633647566924,sagen,KI,der ki letztendlich führt könne man verständlicherweise nicht genau sagen,2.274000627736709
+91,"beobachter vermuten nun dass palm künftig auf den einsatz von palmos verzichten und stattdessen komplett windows mobile verwenden könnte
+","beobachter vermuten <mask>
+",766660,416,vermuten,palm,nun dass palm künftig auf den einsatz von palmos verzichten und stattdessen komplett windows mobile verwenden könnte,0.5528393437842123
+92,"palm springs  fast hätte es ihn schon viel früher erwischt wie man bei einem mann von seiner literarischen statur salopp sagen darf
+","<mask>  fast hätte es ihn schon viel früher erwischt wie man bei einem mann von seiner literarischen statur salopp sagen darf
+",10674,429,statur,palm,palm springs,-0.9036306397682923
+93,"computer der fünften generation sollen eigenständig sprache verstehen und eine eigene künstliche intelligenz besitzen
+","<mask>
+",385304,8206900633647566924,besitzen,Künstliche Intelligenz,computer der fünften generation sollen eigenständig sprache verstehen und eine eigene künstliche intelligenz besitzen,2.274000627736709
+94,"darktrace baut auf künstliche intelligenz um das problem zu lösen
+","<mask> zu lösen
+",154833,8206900633647566924,problem,Künstliche Intelligenz,darktrace baut auf künstliche intelligenz um das problem,0.9720730403527016
+95,"darum wird künstliche intelligenz das appzeitalter ablösen glauben die entwickler
+","darum <mask>
+",156214,416,darum,Künstliche Intelligenz,wird künstliche intelligenz das appzeitalter ablösen glauben die entwickler,-1.7367400284090833
+96,"der chatbot soll lernfähig sein und vorgängige präferenzen und gewohnheiten seiner nutzer kennen
+","<mask> lernfähig sein und vorgängige präferenzen und gewohnheiten seiner nutzer kennen
+",238848,429,und,Chatbot,der chatbot soll,1.8525078662120293
+97,die hoffnung der forscher künstliche intelligenz soll lernen beim menschen positive signale wie vertrauen und wärme auszulösen – und ihn,die <mask> – und ihn,329989,416,die,Künstliche Intelligenz,hoffnung der forscher künstliche intelligenz soll lernen beim menschen positive signale wie vertrauen und wärme auszulösen,1.5030521650920505
+98,"eine fortgeschrittene ki kann modelle bilden von der welt da draussen und von dem was menschen denken
+","<mask> welt da draussen und von dem was menschen denken
+",428683,429,welt,KI,eine fortgeschrittene ki kann modelle bilden von der,0.6953673348694753
+99,"eine ki muss nicht gleich denken können wie ein mensch
+","<mask> mensch
+",430408,429,mensch,KI,eine ki muss nicht gleich denken können wie ein,1.405839927138259
+100,"ich möchte gar nicht daran denken was künstliche intelligenz in diesem bereich ermöglichen könnte
+","ich möchte gar nicht daran denken was <mask> in diesem bereich ermöglichen könnte
+",573669,404,be,Künstliche Intelligenz,künstliche intelligenz,5.055883497707647
+101,"rennfahrer martin kdér und sein copilot radek sladkovský die in den crash verwickelt waren fühlen sich laut youtuber denis fefko gut
+","<mask> die in den crash verwickelt waren fühlen sich laut youtuber denis fefko gut
+",770272,429,die,Copilot,rennfahrer martin kdér und sein copilot radek sladkovský,1.6600177777054395
+102,"soft roboter die gegenstände ertasten können computeralgorithmen um eine insiderbedrohungen wie edward snowden zu detektieren und künstliche intelligenz die große datenmengen durchsuchen kann
+","soft roboter die gegenstände ertasten können computeralgorithmen um eine insiderbedrohungen wie edward snowden <mask>
+",819737,416,ertasten,Künstliche Intelligenz,zu detektieren und künstliche intelligenz die große datenmengen durchsuchen kann,0.016623489187562512
+103,"transformer 3 pro transformer 3 und transformer mini erinnern optisch allzu stark an die redmonder rechner
+","<mask> an die redmonder rechner
+",849114,8206900633647566924,stark,Transformer,transformer 3 pro transformer 3 und transformer mini erinnern optisch allzu stark,1.1927097257884594
+104,"aber dafür müsste man fühlen und empfinden können das kann ki nicht
+","aber dafür müsste man fühlen und <mask>
+",2805,416,und,KI,empfinden können das kann ki nicht,4.273944169422071
+105,"dabei kann sich chatgpt an dinge erinnern die ihr vorher gefragt habt und sich darauf beziehen
+","dabei kann <mask> an dinge erinnern die ihr vorher gefragt habt und sich darauf beziehen
+",137952,429,die,chatgpt,sich chatgpt,3.5345170284819094
+106,"dabei kann sich chatgpt an dinge erinnern die ihr vorher gefragt habt und sich darauf beziehen
+","dabei kann <mask> an dinge erinnern die ihr vorher gefragt habt und sich darauf beziehen
+",137952,429,die,ChatGPT,sich chatgpt,3.5345170284819094
+107,"der shooter soll mit seiner cleveren ki und der zerstörbaren umgebung weiterhin an fear erinnern entleiht aber auch gameplayelemente aus klassischen shootern wie doom dessen sourcecode auch verwendet wird und quake
+","der shooter soll mit <mask> umgebung weiterhin an fear erinnern entleiht aber auch gameplayelemente aus klassischen shootern wie doom dessen sourcecode auch verwendet wird und quake
+",276398,429,umgebung,KI,seiner cleveren ki und der zerstörbaren,3.0737913431620196
+108,"er möchte uns helfen zu verstehen was ki leisten kann und „was ins phantasiereich von marketinghype und technoreligiöser träumerei“ gehört
+","er möchte uns helfen zu verstehen was <mask> „was ins phantasiereich von marketinghype und technoreligiöser träumerei“ gehört
+",480133,404,be,KI,ki leisten kann und,2.649722273042583
+109,"in der planspielphase muss sich das gegründete fiktive unternehmen gegen eine künstliche intelligenz behaupten“ erklärt teilnehmer leo duck
+","in der planspielphase muss sich das gegründete fiktive unternehmen <mask>
+",618879,416,unternehmen,Künstliche Intelligenz,gegen eine künstliche intelligenz behaupten“ erklärt teilnehmer leo duck,3.290797810249913
+110,"insbesondere die aufhängung des megathemas ki bei deutschen vorständen ist  um es nett zu sagen  noch ausbaufähig und überdies dringend geboten um dieser technologie beizeiten die bedeutung beizumessen die sie verdient
+","insbesondere die <mask> bei deutschen vorständen ist  um es nett zu sagen  noch ausbaufähig und überdies dringend geboten um dieser technologie beizeiten die bedeutung beizumessen die sie verdient
+",634325,429,bei,KI,aufhängung des megathemas ki,-0.6777226842924353
+111,"teilnehmer erhalten gelegenheit über ein reichhaltiges und vielfältiges programm die zahlreichen arten und weisen zu entdecken und zu verstehen mit denen künstliche intelligenz unser leben beeinflusst
+","teilnehmer erhalten gelegenheit über ein reichhaltiges und vielfältiges programm die zahlreichen arten und weisen zu entdecken und zu verstehen mit <mask>
+",847674,416,mit,Künstliche Intelligenz,denen künstliche intelligenz unser leben beeinflusst,2.472718530603622
+112,"während der copilot berechtigterweise schlafen durfte hätte der pilot genau deswegen um jeden preis wach bleiben müssen
+","während <mask> schlafen durfte hätte der pilot genau deswegen um jeden preis wach bleiben müssen
+",912422,429,durfte,Copilot,der copilot berechtigterweise,-0.6050297176169561
+113,"zwischen verlusterfahrung und verstehenwollen beginnt er sich ihrer gemeinsamen geschichte zu versichern  und stößt nicht auf freundschaft sondern verlogenheit und statt der leichtigkeit der sommer in palm beach auf den schmerz über liebesverrat
+","zwischen verlusterfahrung und verstehenwollen beginnt er sich ihrer gemeinsamen geschichte zu versichern  und stößt nicht auf freundschaft sondern verlogenheit und statt der leichtigkeit der sommer in <mask>
+",426596,410,und,palm,palm beach auf den schmerz über liebesverrat,-0.1574103431116347
+114,unogeneralsekretär ban ki moon 68 kann das angebot des österreichischen extremsportlers felix baumgartner 43 gemeinsam fallschirmspringen zu gehen nicht annehmen,<mask> extremsportlers felix baumgartner 43 gemeinsam fallschirmspringen zu gehen nicht annehmen,198516,429,extremsportler,KI,unogeneralsekretär ban ki moon 68 kann das angebot des österreichischen,2.3932948494078676
+115,palm und seine interviewpartner erinnern an die idee dass das bild viel mehr information in sich trägt ja sogar verborgene die auf die zukunft deutet die der betrachter noch nicht kennt und erst retrospektiv erkennen wird,<mask> an die idee dass das bild viel mehr information in sich trägt ja sogar verborgene die auf die zukunft deutet die der betrachter noch nicht kennt und erst retrospektiv erkennen wird,459288,429,die,palm,palm und seine interviewpartner erinnern,1.1606349612568332
+116,unogeneralsekretär ban ki moon hat die regierungschefs von sudan und südsudan zu einem gipfeltreffen aufgerufen um die grenzkonflikte beider länder friedlich zu lösen,<mask> von sudan und südsudan zu einem gipfeltreffen aufgerufen um die grenzkonflikte beider länder friedlich zu lösen,562706,429,die,KI,unogeneralsekretär ban ki moon hat die regierungschefs,-0.0567332717522433
+117,ungeneralsekretär ban ki moon kann das angebot des österreichischen extremsportlers felix baumgartner gemeinsam fallschirmspringen zu gehen nicht annehmen,<mask> extremsportlers felix baumgartner gemeinsam fallschirmspringen zu gehen nicht annehmen,583064,429,extremsportler,KI,ungeneralsekretär ban ki moon kann das angebot des österreichischen,2.36795351871302
+118, das angebot von ungeneralsekretär ban ki moon künftig als sonderbotschafter der vereinten nationen für die jugend tätig zu sein will der extremsportler allerdings annehmen, das angebot von ungeneralsekretär ban <mask> für die jugend tätig zu sein will der extremsportler allerdings annehmen,759875,416,ban,KI,ki moon künftig als sonderbotschafter der vereinten nationen,1.0965199365437588
+119,"copilot von zitzewitz im vw lotst seinen partner durch unbekanntes gebiet spiegel online kennen sie sich in argentinien aus
+","<mask> im vw lotst seinen partner durch unbekanntes gebiet spiegel online kennen sie sich in argentinien aus
+",246339,429,unbekannte,Copilot,copilot von zitzewitz,2.491339582733925
+120,"dabei wurde er von den bürgern feierlich als erlöser empfangen indem sie ihm palm und ölbaumzweige zu füßen legten
+","dabei wurde er <mask>
+",366349,416,dabei,palm,von den bürgern feierlich als erlöser empfangen indem sie ihm palm und ölbaumzweige zu füßen legten,2.3352065349838096
+121,"apple ist sich bewusst dass manche drittanbieter behaupten dass ihre mediaplayer sich mit applesoftware synchronisieren lassen» heißt es in der mitteilung in anspielung auf palm
+","apple ist sich bewusst dass manche drittanbieter behaupten dass ihre mediaplayer sich mit applesoftware synchronisieren lassen» heißt es in der mitteilung in <mask>
+",988430,439,in,palm,anspielung auf palm,-4.599502642451828
+122,"da darf man lego spielen über 100 seiten lang und dann will man ganz anderen träumen nachjagen weil einem die phantasie von ki oder ai oder abstrakter ignoranz nicht mehr zusagt
+","da darf man lego spielen über 100 seiten lang und dann will man <mask> ai oder abstrakter ignoranz nicht mehr zusagt
+",137615,416,man,KI,ganz anderen träumen nachjagen weil einem die phantasie von ki oder,2.0804776805054424
+123,"daher gehen wir der frage nach wie vertrauen in artificial intelligence und unsichtbare digitale systeme entstehen kann
+","daher gehen wir der frage nach wie vertrauen in <mask>
+",142771,439,in,Artificial Intelligence,artificial intelligence und unsichtbare digitale systeme entstehen kann,-0.799119594093316
+124,"damit verbraucher ki als teil ihres alltags annehmen und sich nicht davor fürchten
+","<mask> alltags annehmen und sich nicht davor fürchten
+",149269,429,alltag,KI,damit verbraucher ki als teil ihres,3.721718655879216
+125,"die gesellschaft muss ki zumindest im groben verstehen und begreifen
+","die gesellschaft muss <mask> zumindest im groben verstehen und begreifen
+",330478,429,zumind,KI,ki,0.6059904134261167
+126,"die ki verschafft uns jetzt aber ein recht großes mikroskop mit dem wir auch massen von zeitungsartikeln oder romanen ansehen und so verstehen können ob sich gewisse moralvorstellungen geändert haben
+","die <mask> uns jetzt aber ein recht großes mikroskop mit dem wir auch massen von zeitungsartikeln oder romanen ansehen und so verstehen können ob sich gewisse moralvorstellungen geändert haben
+",340706,416,die,KI,ki verschafft,-0.7522503102971365
+127,"einem chatbot wie novi kann man sagen ob ein thema interessant ist oder nicht
+","<mask> ist oder nicht
+",436268,8206900633647566924,interessant,Chatbot,einem chatbot wie novi kann man sagen ob ein thema interessant,0.8083061228029349
+128,"eine million legosteine gegen das vergessen der chinesische künstler ai weiwei stellt in mexiko ein kunstwerk vor das 43 verschwundenen studenten ein denkmal setzt
+","eine million legosteine gegen das vergessen der chinesische künstler <mask> in mexiko ein kunstwerk vor das 43 verschwundenen studenten ein denkmal setzt
+",436437,410,vergessen,AI,ai weiwei stellt,-4.795808000774576
+129,"glauben sie dass bei einer ki plötzlich auch emotionen auftauchen könnten
+","<mask>
+",542449,8206900633647566924,könnten,KI,glauben sie dass bei einer ki plötzlich auch emotionen auftauchen könnten,2.274000627736709
+130,"ich glaube dass ki in allen bereichen zu spüren sein wird
+","<mask> in allen bereichen zu spüren sein wird
+",571632,8206900633647566924,ki,KI,ich glaube dass ki,0.6802533945157183
+131,"inwieweit vertrauen deutsche verbraucher neuen technologien wie künstliche intelligenz internet der dinge iot oder blockchain wenn es um ihre gesundheit geht
+","<mask> dinge iot oder blockchain wenn es um ihre gesundheit geht
+",634122,429,dinge,Künstliche Intelligenz,inwieweit vertrauen deutsche verbraucher neuen technologien wie künstliche intelligenz internet der,1.419866034392725
+132,"letztlich lässt sich sagen es gibt heute noch keine richtige künstliche intelligenz – vor allem keine die sich einfach so für verschiedene problembereiche einsetzen lässt
+","letztlich lässt sich sagen es gibt heute <mask> – vor allem keine die sich einfach so für verschiedene problembereiche einsetzen lässt
+",673408,403,heute,Künstliche Intelligenz,noch keine richtige künstliche intelligenz,1.2501860544923513
+133,"nicht nur fachleute sollten sich mit den begriffen rund um die ki auskennen
+","nicht nur fachleute sollten sich mit den begriffen rund um die <mask>
+",737216,416,die,KI,ki auskennen,1.3932832555201724
+134,"vertrauen in digitale bilder dank ki
+","vertrauen in <mask>
+",893793,439,in,KI,digitale bilder dank ki,-0.03982609826027428
+135,"wenn kimethoden zur anwendung kommen ist es zentral die vor und die nachteile zu kennen nur dann wird ki das tun was wir wollen
+","wenn kimethoden zur anwendung kommen ist es zentral die vor und die nachteile zu kennen nur dann <mask> was wir wollen
+",937899,429,be,KI,wird ki das tun,1.847828564162107
+136,"werden arbeitnehmer ihre kollegen von der ki akzeptieren
+","<mask>
+",941651,8206900633647566924,akzeptieren,KI,werden arbeitnehmer ihre kollegen von der ki akzeptieren,2.274000627736709
+137,"zur starken ki zählen superschlaue computer die menschen im denken und handeln überflügeln können – und „gefährlicher als atomwaffen“ sind wie teslachef elon musk warnt
+","<mask> die menschen im denken und handeln überflügeln können – und „gefährlicher als atomwaffen“ sind wie teslachef elon musk warnt
+",992137,429,die,KI,zur starken ki zählen superschlaue computer,1.3137845614448107
+138,"nun scheiterte sie bereits in runde zwei an der japanerin ai sugiyama die wie steffi graf sich erinnern konnte beim letzten duell der beiden nicht einen ball ins spiel gebracht hat 46 61 57 wurde die frühere weltranglistenerste niedergekämpft
+","nun scheiterte sie bereits in runde zwei <mask> graf sich erinnern konnte beim letzten duell der beiden nicht einen ball ins spiel gebracht hat 46 61 57 wurde die frühere weltranglistenerste niedergekämpft
+",339812,403,zwei,AI,an der japanerin ai sugiyama die wie steffi,1.850907113699801
+139,"um kodierte ganovensprache zu verstehen ist die künstliche intelligenz aber noch zu dumm
+","<mask>
+",983252,8206900633647566924,dumm,Künstliche Intelligenz,um kodierte ganovensprache zu verstehen ist die künstliche intelligenz aber noch zu dumm,2.274000627736709
+140,"ihr schnallt euch eure vrbrille auf und werdet zu zula hendricks einer exmarinesoldatin die die geheimen experimente von gemini exoplanet solutions aufdecken will
+","ihr schnallt euch eure vrbrille auf und werdet zu zula hendricks einer exmarinesoldatin die die geheimen experimente <mask> aufdecken will
+",5861,416,experimente,Gemini,von gemini exoplanet solutions,-0.19209481309451792
+141,"abschließend läßt sich sagen wolfgang ertel stellt auf über 300 seiten das thema künstliche intelligenz umfassend dar und erläutert die heute wichtigen teildisziplinen
+","abschließend <mask>
+",224393,416,abschließend,Künstliche Intelligenz,läßt sich sagen wolfgang ertel stellt auf über 300 seiten das thema künstliche intelligenz umfassend dar und erläutert die heute wichtigen teildisziplinen,2.22680184796235
+142,lassen sie uns diese gerüchte als das bezeichnen was sie sind lügen sagte bloomberg am freitag ortszeit bei einem treffen mit der jüdischen vereinigung von south palm beach,lassen sie uns diese gerüchte als das bezeichnen was sie sind lügen sagte bloomberg am freitag ortszeit bei <mask>,230340,416,bei,palm,einem treffen mit der jüdischen vereinigung von south palm beach,1.7164785135807996
+143,"wir wissen aber noch nicht ob wir das problem lösen können habe der copilot gesagt
+","<mask>
+",587544,8206900633647566924,gesagt,Copilot,wir wissen aber noch nicht ob wir das problem lösen können habe der copilot gesagt,2.274000627736709
+144,"es wenig überraschend einen alterseffekt gibt junge menschen vertrauen den methoden und anwendungen der ki sehr viel schneller
+","es wenig überraschend einen alterseffekt gibt junge menschen vertrauen <mask>
+",2487,416,vertrauen,KI,den methoden und anwendungen der ki sehr viel schneller,1.99913287985245
+145,auch hier soll die ki unterstützend wirken und dem user vorschlagen welche art von modus,auch hier soll die <mask> unterstützend wirken und dem user vorschlagen welche art von modus,65292,429,unterstützend,KI,ki,-0.07518172844574522
+146,"im sektor künstliche intelligenz gegeben sagen die berater
+","im <mask> die berater
+",140162,429,die,Künstliche Intelligenz,sektor künstliche intelligenz gegeben sagen,-1.8019694588227573
+147,"das elektroauto und künstliche intelligenz haben eines gemein die einführung neuer technologien braucht zeit und lässt sich weder herbeireden noch über nacht durchsetzen
+","<mask> gemein die einführung neuer technologien braucht zeit und lässt sich weder herbeireden noch über nacht durchsetzen
+",165213,429,die,Künstliche Intelligenz,das elektroauto und künstliche intelligenz haben eines,1.2530700551035174
+148,"enge ki kann eine ganz bestimmte aufgabe lösen und dabei auch besser abschneiden als ein mensch weil die software effizienter und beharrlicher vorgeht etwa bei der bilderkennung in brettspielen oder bei wettervorhersagen
+","<mask> eine ganz bestimmte aufgabe lösen und dabei auch besser abschneiden als ein mensch weil die software effizienter und beharrlicher vorgeht etwa bei der bilderkennung in brettspielen oder bei wettervorhersagen
+",453989,429,eine,KI,enge ki kann,1.725376678430738
+149,"er finde es unverantwortlich zu meinen dass künstliche intelligenz eines tages pflegebedürftige menschen versorgen sollte
+","er finde es unverantwortlich <mask> pflegebedürftige menschen versorgen sollte
+",457875,429,pflegebedürftige,Künstliche Intelligenz,zu meinen dass künstliche intelligenz eines tages,3.389786411631123
+150,"ki braucht daten und wir können nur dann eine führungsposition einnehmen wenn wir den umgang mit daten verstehen die daten dann aber auch nutzen dürfen
+","<mask> daten und wir können nur dann eine führungsposition einnehmen wenn wir den umgang mit daten verstehen die daten dann aber auch nutzen dürfen
+",650849,429,daten,KI,ki braucht,0.9531591546143936
+151,"künstliche intelligenz steht laut google auch hinter funktionen wie “automatische erinnerungen” die auf vielleicht übersehene nachrichten aufmerksam machen und ihre bearbeitung nahelegen
+","<mask> hinter funktionen wie “automatische erinnerungen” die auf vielleicht übersehene nachrichten aufmerksam machen und ihre bearbeitung nahelegen
+",659211,429,die,Künstliche Intelligenz,künstliche intelligenz steht laut google auch,0.15852209578027043
+152,"oder denken wir an alexa siri cortana und co hier spielt ki insbesondere bei der sprachverarbeitung eine rolle
+","oder denken wir an alexa siri cortana und co hier spielt <mask>
+",751638,416,spielt,KI,ki insbesondere bei der sprachverarbeitung eine rolle,-0.2632991428694016
+153,"sobald es ums geld geht ist das vertrauen in ki deutlich niedriger
+","sobald es ums geld geht ist das vertrauen in <mask>
+",819673,439,in,KI,ki deutlich niedriger,0.7874830072742691
+154,"softwareentwicklung big data datensicherheit künstliche intelligenz cloud computing – das sind buzz words der arbeitswelt 40 die zugleich die arbeitsfelder bezeichnen auf denen itexperten gesucht werden
+","softwareentwicklung <mask> – das sind buzz words der arbeitswelt 40 die zugleich die arbeitsfelder bezeichnen auf denen itexperten gesucht werden
+",821458,416,softwareentwicklung,Künstliche Intelligenz,big data datensicherheit künstliche intelligenz cloud computing,3.435001664944787
+155,"während zwei drittel der ceos glauben dass ki ihren unternehmen helfen wird sind nur 11 prozent der personalführung chief human ressource manager davon überzeugt dass die benötigten fähigkeiten in den unternehmen bereits ausreichend vorhanden sind
+","während zwei drittel der ceos glauben dass <mask> unternehmen helfen wird sind nur 11 prozent der personalführung chief human ressource manager davon überzeugt dass die benötigten fähigkeiten in den unternehmen bereits ausreichend vorhanden sind
+",914981,429,unternehmen,KI,ki ihren,1.018535596249901
+156,"dem verheerenden eindruck den die erschießung des verlegers palm gemacht hatte als freund der literatur empfehlen wollte ist freilich nicht sicher ob man sein kompliment für bare münze nehmen darf
+","<mask> freund der literatur empfehlen wollte ist freilich nicht sicher ob man sein kompliment für bare münze nehmen darf
+",337544,429,freund,palm,dem verheerenden eindruck den die erschießung des verlegers palm gemacht hatte als,0.6070961728842477
+157,"am artificial intelligence lab des mit in boston wird allerdings schon mit einem roboter namens kismet experimentiert dessen große augen und wulstlippen an ein baby erinnern
+","am <mask> des mit in boston wird allerdings schon mit einem roboter namens kismet experimentiert dessen große augen und wulstlippen an ein baby erinnern
+",576473,429,be,Artificial Intelligence,artificial intelligence lab,-2.5389346500719636
+158,"künstliche intelligenz an die man das denken künftig guten gewissens regelrecht delegieren könne
+","<mask> an die man das denken künftig guten gewissens regelrecht delegieren könne
+",911527,429,guten,Künstliche Intelligenz,künstliche intelligenz,-0.20779643381421664
+159,"eine starke ki die tatsächlich denken und verstehen kann die gibt es bisher nur in der vision
+","eine starke <mask> die tatsächlich denken und verstehen kann die gibt es bisher nur in der vision
+",417856,429,die,KI,ki,-0.447770483446126
+160,"ki soll gefühle erkennen für geoffrey hinton ist dies der schlüssel mit dem die systeme natürliche sprachen und logisches denken erlernen können
+","<mask> dies der schlüssel mit dem die systeme natürliche sprachen und logisches denken erlernen können
+",619740,429,die,KI,ki soll gefühle erkennen für geoffrey hinton ist,0.6547903699001889
+161,"kurz gesagt multiplayer ist um ein vielfaches komplizierter als bloß zu sagen der charakter erhält jetzt seine befehle von einem anderen spieler anstatt der ki
+","kurz gesagt multiplayer ist um ein vielfaches komplizierter als bloß zu sagen der charakter erhält jetzt seine befehle von einem anderen spieler anstatt <mask>
+",629416,416,vielfache,KI,der ki,-3.7364316029141147
+162,"man könnte sagen dass der copilot den knopf für den sinkflug vorsätzlich gedrückt hat
+","<mask> für den sinkflug vorsätzlich gedrückt hat
+",646403,429,den,Copilot,man könnte sagen dass der copilot den knopf,1.2564329126717215
+163,"agile projektarbeit und ki müssen wir arbeit neu denken
+","<mask> arbeit neu denken
+",13935,429,denken,KI,agile projektarbeit und ki müssen wir,2.823261091517911
+164,"für ki gelten
+","<mask>
+",109687,8206900633647566924,gelten,KI,für ki gelten,2.274000627736709
+165,"besserung ist allerdings in sicht wenn man irfan saif principal bei deloitte und zuständig für das thema ki glauben schenken mag zumindest die hyperscaler die enterprise ki workloads unterstützen haben aus ihren fehlern gelernt
+","besserung ist allerdings in sicht wenn man irfan saif principal bei deloitte und zuständig für das thema <mask> glauben schenken mag zumindest die hyperscaler die enterprise <mask> workloads unterstützen haben aus ihren fehlern gelernt
+",117188,429,workload,KI,ki,-0.6312789530921288
+166,"die eukommission hat einen vorschlag für eine regulierung von ki vorgelegt die aus meiner sicht in die richtige richtung geht und helfen wird unsicherheiten abzubauen und das vertrauen in verantwortungsvolle ki zu stärken
+","die eukommission hat einen vorschlag für eine regulierung <mask> vorgelegt die aus meiner sicht in die richtige richtung geht und helfen wird unsicherheiten abzubauen und das vertrauen in verantwortungsvolle ki zu stärken
+",325102,429,die,KI,von ki,2.1147626117982306
+167,"endlich muss man sagen wird ki auch in massenmedien diskutiert
+","<mask> in massenmedien diskutiert
+",467884,8206900633647566924,auch,KI,endlich muss man sagen wird ki auch,-1.3068653820842506
+168,"herr pfeffer sie schreiben in ihrem buch menschliches denken und künstliche intelligenz wir würden von algorithmen bestimmt
+","herr pfeffer sie schreiben in ihrem buch menschliches denken <mask>
+",563078,416,denken,Künstliche Intelligenz,und künstliche intelligenz wir würden von algorithmen bestimmt,2.5708382597969344
+169,"ki wird in der lage sein sprache besser zu verstehen weil die technik realisieren wird was worte und sätze bedeuten
+","<mask> in der lage sein sprache besser zu verstehen weil die technik realisieren wird was worte und sätze bedeuten
+",662023,429,be,KI,ki wird,1.0210219097117985
+170,"und sie versuchen diese bedenken durch innovation gesetzgebung und regulierungen auszuräumen die auch beeinflussen wie wir über ki denken und wie wir mit ki arbeiten
+","und sie versuchen diese bedenken durch innovation gesetzgebung und regulierungen auszuräumen die <mask> ki arbeiten
+",876672,416,die,KI,auch beeinflussen wie wir über ki denken und wie wir mit,0.7184455950499977
+171,"und sie versuchen diese bedenken durch innovation gesetzgebung und regulierungen auszuräumen die auch beeinflussen wie wir über ki denken und wie wir mit ki arbeiten
+","und sie versuchen diese bedenken durch innovation gesetzgebung und regulierungen auszuräumen die auch beeinflussen wie wir über <mask> denken und wie wir mit <mask> arbeiten
+",876672,429,arbeiten,KI,ki,4.742449723732603
+172,"das ist ausgesprochen sinnvoll sagt georg fongern von der vereinigung cockpit und selbst langstreckenpilot denn auf langen flügen die nur mit zwei piloten absolviert werden schlafen des öfteren pilot und copilot zur gleichen zeit ein
+","das ist ausgesprochen sinnvoll sagt georg fongern von der vereinigung cockpit und selbst langstreckenpilot denn auf langen flügen die nur mit zwei piloten absolviert werden schlafen des öfteren <mask> zeit ein
+",93315,403,öfteren,Copilot,pilot und copilot zur gleichen,-2.74255343640153
+173,"arbeitnehmer die ki nutzen wollen fühlen sich dabei häufig nicht ausreichend befähigt
+","arbeitnehmer die <mask> sich dabei häufig nicht ausreichend befähigt
+",53727,416,die,KI,ki nutzen wollen fühlen,-0.3582854789902008
+174,"auch dort gibt es schließlich umfassende nachschlagewerke für rechtschreibung grammatik und zeichensetzung  nicht zu vergessen die künstliche intelligenz ki
+","auch dort gibt es schließlich umfassende nachschlagewerke für rechtschreibung grammatik und zeichensetzung  nicht zu vergessen <mask>
+",62095,416,vergessen,KI,die künstliche intelligenz ki,1.9128020442938105
+175,"auch dort gibt es schließlich umfassende nachschlagewerke für rechtschreibung grammatik und zeichensetzung  nicht zu vergessen die künstliche intelligenz ki
+","auch dort gibt es schließlich umfassende nachschlagewerke für rechtschreibung grammatik und zeichensetzung  nicht zu vergessen <mask>
+",62095,416,vergessen,Künstliche Intelligenz,die künstliche intelligenz ki,1.9128020442938105
+176,"auch sehe er dass unternehmen zwar noch nicht materiell von ki profitierten das gesamte internet und die dienstleistungsbranche wie wir sie heute kennen aber bereits verdrängt würden sagte er
+","auch sehe er dass unternehmen zwar noch nicht materiell von <mask> profitierten das gesamte internet und die dienstleistungsbranche wie wir sie heute kennen aber bereits verdrängt würden sagte er
+",68267,429,profitierten,KI,ki,4.221735676849672
+177,"auch unabhängig vom thema ki sollten studierende ihre prüfungsordnung genau kennen an vielen universitäten gibt es freiversuche die strategisch für besonders schwere prüfungen genutzt werden können
+","<mask> studierende ihre prüfungsordnung genau kennen an vielen universitäten gibt es freiversuche die strategisch für besonders schwere prüfungen genutzt werden können
+",69217,429,studierende,KI,auch unabhängig vom thema ki sollten,1.2510301775724528
+178,"bei der bahntochter sbahn hamburg gibt es die hoffnung dass sich ihr system «db lightgate» das inzwischen künstliche intelligenz nutzt in deutschland durchsetzen wird
+","bei der bahntochter sbahn hamburg gibt es die hoffnung dass sich ihr system «<mask> in deutschland durchsetzen wird
+",95204,403,system,Künstliche Intelligenz,db lightgate» das inzwischen künstliche intelligenz nutzt,1.1917963382531953
+179,beides sind sprachmodelle die auf der bekannten transformerarchitektur beruhen und den kontext zwischen wörtern bidirektional,beides <mask> die auf der bekannten transformerarchitektur beruhen und den kontext zwischen wörtern bidirektional,97817,416,beide,Sprachmodelle,sind sprachmodelle,0.3580568433517328
+180,"bildchefin marion horn ki kann viel aber kein vertrauen schaffen
+","bildchefin marion horn <mask> aber kein vertrauen schaffen
+",116980,416,horn,KI,ki kann viel,0.17280842232415772
+181,"bin mir nicht sicher ob das wirklich als ki zu verstehen ist
+","<mask>
+",117537,8206900633647566924,ist,KI,bin mir nicht sicher ob das wirklich als ki zu verstehen ist,2.274000627736709
+182,"wow ki hat unsere gesellschaft ganz schön verändert
+","wow <mask> schön verändert
+",129563,429,schön,KI,ki hat unsere gesellschaft ganz,-3.5753690913773157
+183,"dabei ist die fähigkeit kritisch zu denken essenziell weil analysten die von ki generierten inhalte auf genauigkeit und businessalignment prüfen müssen”
+","dabei ist die fähigkeit kritisch zu denken essenziell weil analysten <mask> generierten inhalte auf genauigkeit und businessalignment prüfen müssen”
+",133645,429,generierten,KI,die von ki,2.134735166512643
+184,"dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie die ergebnisse gezielt anpassen und optimieren
+","<mask> die ergebnisse gezielt anpassen und optimieren
+",134323,429,die,chatgpt,dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie,2.3047314609465914
+185,"dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie die ergebnisse gezielt anpassen und optimieren
+","<mask> die ergebnisse gezielt anpassen und optimieren
+",134323,429,die,ChatGPT,dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie,2.3047314609465914
+186,"dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie die ergebnisse gezielt anpassen und optimieren
+","<mask> die ergebnisse gezielt anpassen und optimieren
+",134323,429,die,Gemini,dabei lernen sie wichtige dienste wie chatgpt midjourney perplexity gemini oder claude kennen und erfahren wie sie,2.3047314609465914
+187,"ob ki die inhalte versteht oder nur statistisch berechnet und verstehen nahezu perfekt simuliert
+","<mask> die inhalte versteht oder nur statistisch berechnet und verstehen nahezu perfekt simuliert
+",138580,429,die,KI,ob ki,1.3670872520022161
+188,"daraus ergibt sich dass berufe die mit wissen daten und kommunikation arbeiten den einfluss von ki am meisten spüren
+","daraus ergibt sich dass berufe die mit wissen daten und kommunikation arbeiten <mask> am meisten spüren
+",154883,429,be,KI,den einfluss von ki,4.090196430295165
+189,"im bereich smarthome die man jetzt hätte schon lösen können ohne ki
+","im <mask>
+",175247,429,m,KI,bereich smarthome die man jetzt hätte schon lösen können ohne ki,-0.3439542998194529
+190,"das wiederum führte zu einem phänomen das kientwickler längst kennen an elon musk aber spurlos vorübergegangen sein dürfte die userinnen und user versuchten dem chatbot immer extremere aussagen zu entlocken
+","das wiederum führte zu einem phänomen das kientwickler längst kennen an elon musk aber spurlos vorübergegangen sein dürfte die userinnen und user versuchten <mask> zu entlocken
+",205487,416,versuchten,Chatbot,dem chatbot immer extremere aussagen,3.5471858131454903
+191,denn ich glaube es geht weniger darum dass ki menschen ihren job wegnimmt als darum zu,denn ich glaube es geht weniger darum <mask> darum zu,220981,429,darum,KI,dass ki menschen ihren job wegnimmt als,4.607853637427674
+192,"verstehen dass sich jobrollen durch ki verändern werden
+","verstehen dass sich <mask>
+",220981,403,dass,KI,jobrollen durch ki verändern werden,5.411491727881264
+193,"denn natürlich empfinden aktuelle sprachmodelle keine gefühle auch wenn die definition des bewusstseins vage ist und forscher anzeichen dafür erkennen
+","denn natürlich <mask> die definition des bewusstseins vage ist und forscher anzeichen dafür erkennen
+",221845,429,die,Sprachmodelle,empfinden aktuelle sprachmodelle keine gefühle auch wenn,4.380657873509094
+194,"der 94jährige star trekstar postete auf instagram eine beruhigende nachricht an seine fans und warnte davor klatschblättern oder ki zu vertrauen
+","der 94jährige star trekstar postete auf instagram eine beruhigende nachricht an seine fans und warnte davor <mask>
+",229255,410,und,KI,klatschblättern oder ki zu vertrauen,-0.012794309009592553
+195,"der ai act verfolgt gerade das ziel vertrauen in kianwendungen zu stärken die ohne trainingsdaten nicht auskommen
+","<mask> verfolgt gerade das ziel vertrauen in kianwendungen zu stärken die ohne trainingsdaten nicht auskommen
+",229851,429,gerade,AI,der ai act,-0.677098435472371
+196,"die consultants von mckinsey glauben zu wissen was ki den unternehmen wirklich bringt
+","die consultants von mckinsey glauben zu wissen was <mask> unternehmen wirklich bringt
+",305829,429,unternehmen,KI,ki den,2.8163773456707952
+197,"die haben sogar hier noch so ein chatbot integriert der mir fragen zu meinen mails beantwortet
+","die haben sogar hier noch so <mask> zu meinen mails beantwortet
+",328423,439,so,Chatbot,ein chatbot integriert der mir fragen,2.0987034228934256
+198,"die ki entwickelt dabei strategien die selbst experten nicht mehr verstehen
+","die <mask> verstehen
+",335777,416,die,KI,ki entwickelt dabei strategien die selbst experten nicht mehr,1.1074086707982147
+199,"die ki hat keine eigene sichtweise die macht nur das was wir ihr sagen
+","die <mask> die macht nur das was wir ihr sagen
+",335814,416,die,KI,ki hat keine eigene sichtweise,1.6246263234077265
+200,"die ki soll die native sprache von excel verstehen und so zellen formatieren grafiken generieren und formeln erstellen
+","die <mask> die native sprache von excel verstehen und so zellen formatieren grafiken generieren und formeln erstellen
+",336138,429,die,KI,ki soll,-1.1300582924331124
+201,"die lautstärke der beiden lüfter im minisforum ai x1 pro lässt sich nicht als leise aber als moderat bezeichnen
+","die lautstärke der beiden lüfter im minisforum <mask> pro lässt sich nicht als leise aber als moderat bezeichnen
+",340489,439,minisforum,AI,ai x1,-1.0527105370658774
+202,"die leute wenden sich an ki um praktische hilfe zu erhalten – zum beispiel beim schreiben oder beim lösen von problemen – und bleiben um gesellschaft zu haben
+","die leute wenden sich <mask> erhalten – zum beispiel beim schreiben oder beim lösen von problemen – und bleiben um gesellschaft zu haben
+",341373,416,die,KI,an ki um praktische hilfe zu,4.163090393548182
+203,"im bereich der künstlichen intelligenz ki soll den innovationsstandort schweiz stärken den grundrechtsschutz inklusive der wirtschaftsfreiheit wahren und das vertrauen der bevölkerung in ki stärken so die landesregierung
+","im <mask> den innovationsstandort schweiz stärken den grundrechtsschutz inklusive der wirtschaftsfreiheit wahren und das vertrauen der bevölkerung in ki stärken so die landesregierung
+",359900,429,den,KI,bereich der künstlichen intelligenz ki soll,-3.4147151869605183
+204,"im bereich der künstlichen intelligenz ki soll den innovationsstandort schweiz stärken den grundrechtsschutz inklusive der wirtschaftsfreiheit wahren und das vertrauen der bevölkerung in ki stärken so die landesregierung
+","im bereich der künstlichen intelligenz <mask> soll den innovationsstandort schweiz stärken den grundrechtsschutz inklusive der wirtschaftsfreiheit wahren und das vertrauen der bevölkerung in <mask> stärken so die landesregierung
+",359900,439,in,KI,ki,-7.00113117170583
+205,"die v13 soll die „technische grundlage für eine einheitliche daten und kibefehlsplattform sein die schutz sicherheit governance sowie vertrauen in ki vereint“
+","die v13 soll die „technische grundlage für eine einheitliche daten und kibefehlsplattform sein die schutz sicherheit governance sowie vertrauen in <mask>“
+",393896,439,in,KI,ki vereint,0.10085765351515175
+206,"die zukunft der kunst künstliche intelligenz und kreativitätder weibliche einfluss auf die kreativitätdie verbindung zwischen schlaf und kreativität warum träumen wir
+","die <mask> weibliche einfluss auf die kreativitätdie verbindung zwischen schlaf und kreativität warum träumen wir
+",402887,416,die,Künstliche Intelligenz,zukunft der kunst künstliche intelligenz und kreativitätder,1.1574178978670258
+207,"doch „diejenigen die daran glauben und ki nutzen sind davon überzeugt dass man sie in ihrer funktion weiter benötigen wird“
+","doch <mask> in ihrer funktion weiter benötigen wird“
+",408777,429,doch,KI,„diejenigen die daran glauben und ki nutzen sind davon überzeugt dass man sie,1.334773309975203
+208,"eine ausstellung im unimuseum will jetzt an sie erinnern mit bildern von ihnen die eine ki geschaffen hat
+","eine ausstellung im unimuseum will jetzt <mask>
+",435146,416,jetzt,KI,an sie erinnern mit bildern von ihnen die eine ki geschaffen hat,2.0833452712447755
+209,"ein echter gamechanger du machst einen screenshot – etwa von einer oder einem softwareproblem – und chatgpt kann dir sagen was du siehst worin der fehler liegen könnte oder was zu tun ist
+","ein echter gamechanger du machst einen screenshot – etwa von einer oder einem softwareproblem – <mask> was du siehst worin der fehler liegen könnte oder was zu tun ist
+",435881,429,be,chatgpt,und chatgpt kann dir sagen,1.4455521380108678
+210,"ein echter gamechanger du machst einen screenshot – etwa von einer oder einem softwareproblem – und chatgpt kann dir sagen was du siehst worin der fehler liegen könnte oder was zu tun ist
+","ein echter gamechanger du machst einen screenshot – etwa von einer oder einem softwareproblem – <mask> was du siehst worin der fehler liegen könnte oder was zu tun ist
+",435881,429,be,ChatGPT,und chatgpt kann dir sagen,1.4455521380108678
+211,"entwickler müssen die kompromisse zwischen heuristik traditioneller software und maschinellem lernen verstehen und wissen wie sich ki auf praktische messbare und verantwortungsvolle weise in workflows integrieren lässt”
+","entwickler müssen die kompromisse zwischen heuristik traditioneller software und maschinellem lernen verstehen und wissen wie <mask> in workflows integrieren lässt”
+",468033,403,wie,KI,sich ki auf praktische messbare und verantwortungsvolle weise,-1.6292668289336696
+212,"sich auf einen crash oder auf das platzen einer spekulationsblase – wie sie nun viele beim thema ki vermuten – vorbereiten sollte
+","sich auf einen crash oder auf das platzen einer spekulationsblase – <mask> vermuten – vorbereiten sollte
+",471984,429,vermuten,KI,wie sie nun viele beim thema ki,1.9662968048547995
+213,"es geht ja darum ob metas frei herunterladbare llms geeignet sind um darauf unser denken auszulagern
+","es geht ja darum ob <mask> denken auszulagern
+",491346,429,denken,llms,metas frei herunterladbare llms geeignet sind um darauf unser,-1.2074822128722538
+214,"etwa das wissen weitergeben dass man der ki nicht unkontrolliert vertrauen kann „diese ki also dieses thema halluzinieren die sagt nicht immer die wahrheit das heißt ich muss sehr wohl die kompetenzen haben
+","etwa <mask> „diese ki also dieses thema halluzinieren die sagt nicht immer die wahrheit das heißt ich muss sehr wohl die kompetenzen haben
+",508436,416,etwa,KI,das wissen weitergeben dass man der ki nicht unkontrolliert vertrauen kann,0.7277902280812789
+215,"etwa das wissen weitergeben dass man der ki nicht unkontrolliert vertrauen kann „diese ki also dieses thema halluzinieren die sagt nicht immer die wahrheit das heißt ich muss sehr wohl die kompetenzen haben
+","etwa das wissen weitergeben dass man der ki nicht unkontrolliert vertrauen kann „<mask> also dieses thema halluzinieren die sagt nicht immer die wahrheit das heißt ich muss sehr wohl die kompetenzen haben
+",508436,429,diese,KI,diese ki,3.589303076502884
+216,"fühlen sie sich von ihrem unternehmen beim einsatz von künstlicher intelligenz ki in ihrer arbeit unterstützt
+","fühlen sie sich von ihrem unternehmen <mask> in ihrer arbeit unterstützt
+",521211,416,unternehmen,KI,beim einsatz von künstlicher intelligenz ki,3.72060436158565
+217,"gefährlich wird es wenn patientinnen oder patienten falsche ratschläge bekommen oder wenn vertrauen verloren geht weil eine ki „mehr weiß“ als die betroffenen preisgeben wollten
+","gefährlich wird es wenn patientinnen oder patienten <mask> die betroffenen preisgeben wollten
+",536298,416,patienten,KI,falsche ratschläge bekommen oder wenn vertrauen verloren geht weil eine ki „mehr weiß“ als,0.8086826359300634
+218,ich glaube so fokussiert sollten wir auch über ki denken und uns vergegenwärtigen dass diese extremen diskurse,ich glaube <mask> denken und uns vergegenwärtigen dass diese extremen diskurse,574543,403,glaube,KI,so fokussiert sollten wir auch über ki,0.8138976839292766
+219,"ich nehme bewusst eine floppy als beispiel denn die ki wie wir sie heute kennen wird innerhalb des nächsten jahres “old school” sein
+","ich nehme bewusst eine floppy als beispiel denn die <mask> heute kennen wird innerhalb des nächsten jahres “old school” sein
+",578546,429,heute,KI,ki wie wir sie,-0.48051644357291856
+220,"ich wage zu behaupten auch heute fiele das urteil der ki kaum anders aus eher im gegenteil
+","ich wage zu <mask> aus eher im gegenteil
+",579621,403,wage,KI,behaupten auch heute fiele das urteil der ki kaum anders,3.8314304553493033
+221,in fünf jahren werden wir auf die heutige ki zurückblicken und sagen,in fünf jahren werden wir auf die <mask> zurückblicken und sagen,625292,429,zurückblicken,KI,heutige ki,1.5168279634100124
+222,"inzwischen können einige sprachmodelle schon lehrbuchaufgaben auf doktorandenniveau lösen
+","<mask> lösen
+",638837,429,lösen,Sprachmodelle,inzwischen können einige sprachmodelle schon lehrbuchaufgaben auf doktorandenniveau,2.1158043819386796
+223,"kann künstliche intelligenz das stauproblem auf der a10 in salzburg lösen
+","<mask> auf der a10 in salzburg lösen
+",652993,429,lösen,Künstliche Intelligenz,kann künstliche intelligenz das stauproblem,1.3833231634185363
+224,"ki folgt komplexen mustern ohne zu verstehen was die eigentlich bedeuten
+","<mask> verstehen was die eigentlich bedeuten
+",657340,429,be,KI,ki folgt komplexen mustern ohne zu,0.9339371475236149
+225,"ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+","ki im denklabyrinth dieses antike <mask> aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+",657373,416,antike,chatgpt,matherätsel bringt chatgpt,-7.993309716267166
+226,"ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+","ki im denklabyrinth dieses antike <mask> aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+",657373,416,antike,ChatGPT,matherätsel bringt chatgpt,-7.993309716267166
+227,"ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+","ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of <mask> 2400 jahre altes matherätsel lösen lassen
+",657373,439,of,chatgpt,cambridge haben chatgpt ein,-2.195419161143949
+228,"ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of cambridge haben chatgpt ein 2400 jahre altes matherätsel lösen lassen
+","ki im denklabyrinth dieses antike matherätsel bringt chatgpt aus dem konzept forscherinnen der university of <mask> 2400 jahre altes matherätsel lösen lassen
+",657373,439,of,ChatGPT,cambridge haben chatgpt ein,-2.195419161143949
+229,"ki kann hier wiederum menschliche securityteams unterstützen das netzwerk als zentrales abwehrsystem stärken sowie richtlinien konsequent durchsetzen
+","<mask> securityteams unterstützen das netzwerk als zentrales abwehrsystem stärken sowie richtlinien konsequent durchsetzen
+",657405,429,securityteam,KI,ki kann hier wiederum menschliche,1.5943074919919713
+230,"ki kann viel aber sie kann nicht fühlen
+","<mask>
+",657410,8206900633647566924,fühlen,KI,ki kann viel aber sie kann nicht fühlen,2.274000627736709
+231,"künstliche intelligenz kann urlauber dabei unterstützen nichts zu vergessen
+","<mask> dabei unterstützen nichts zu vergessen
+",665804,429,dabei,Künstliche Intelligenz,künstliche intelligenz kann urlauber,2.7099427613528544
+232,"«man kann doch nicht so naiv sein und glauben dass künstliche intelligenz bei der videoüberwachung nur für sicherheitszwecke eingesetzt werden würde
+","«man kann doch nicht so <mask> nur für sicherheitszwecke eingesetzt werden würde
+",684676,429,nur,Künstliche Intelligenz,naiv sein und glauben dass künstliche intelligenz bei der videoüberwachung,6.813706014186588
+233,"meinen leichenwagen wird dann wohl eine ki steuern vielleicht angetrieben von fusionsstrom
+","<mask>
+",693219,8206900633647566924,fusionsstrom,KI,meinen leichenwagen wird dann wohl eine ki steuern vielleicht angetrieben von fusionsstrom,2.274000627736709
+234,"mit ios 182 fügte apple letztes jahr chatgpt zu apple intelligence hinzu und hartnäckige gerüchte behaupten dass apple in gesprächen mit perplexity und google für eine geminiintegration ist
+","mit ios <mask> zu apple intelligence hinzu und hartnäckige gerüchte behaupten dass apple in gesprächen mit perplexity und google für eine geminiintegration ist
+",708124,429,behaupten,chatgpt,182 fügte apple letztes jahr chatgpt,-1.8867163654820098
+235,"mit ios 182 fügte apple letztes jahr chatgpt zu apple intelligence hinzu und hartnäckige gerüchte behaupten dass apple in gesprächen mit perplexity und google für eine geminiintegration ist
+","mit ios <mask> zu apple intelligence hinzu und hartnäckige gerüchte behaupten dass apple in gesprächen mit perplexity und google für eine geminiintegration ist
+",708124,429,behaupten,ChatGPT,182 fügte apple letztes jahr chatgpt,-1.8867163654820098
+236,"neben mico führte das update features wie ein – ein modus in dem copilot respektvoll annahmen des nutzers hinterfragt um kritisches denken zu fördern
+","neben mico führte das update features wie ein – ein modus in <mask> hinterfragt um kritisches denken zu fördern
+",735050,439,in,Copilot,dem copilot respektvoll annahmen des nutzers,-1.0656144877172231
+237,"»ohne ki kann man die industrie vergessen« sagte höttges
+","»<mask> die industrie vergessen« sagte höttges
+",759853,429,die,KI,ohne ki kann man,2.502052920278995
+238,"openaichef sam altman hat sich öffentlich in einem podcast zu chatgpt geäussert und warnt die user davor dem kichatbot allzu sehr zu vertrauen
+","openaichef sam altman hat sich öffentlich in einem podcast <mask> und warnt die user davor dem kichatbot allzu sehr zu vertrauen
+",760972,403,hat,chatgpt,zu chatgpt geäussert,0.6726674324066373
+239,"openaichef sam altman hat sich öffentlich in einem podcast zu chatgpt geäussert und warnt die user davor dem kichatbot allzu sehr zu vertrauen
+","openaichef sam altman hat sich öffentlich in einem podcast <mask> und warnt die user davor dem kichatbot allzu sehr zu vertrauen
+",760972,403,hat,ChatGPT,zu chatgpt geäussert,0.6726674324066373
+240,"seine botschaft bei deloitte könne sich keiner zurücklehnen und sagen das thema ki gehe ihn nichts an
+","<mask> nichts an
+",792876,429,nicht,KI,seine botschaft bei deloitte könne sich keiner zurücklehnen und sagen das thema ki gehe ihn,1.6700756020697716
+241,"sie glauben dass ki dem was sie tun enormen wert hinzufügen kann
+","<mask> was sie tun enormen wert hinzufügen kann
+",808522,429,be,KI,sie glauben dass ki dem,-0.4124034873673601
+242,"so kann etwa gemini nicht nur sprache verstehen sondern auch mit bildern screenshots webseiten und dokumenten umgehen
+","so kann etwa <mask> nur sprache verstehen sondern auch mit bildern screenshots webseiten und dokumenten umgehen
+",825563,403,etwa,Gemini,gemini nicht,1.3116948072310581
+243,"studien zeigten dass die art wie chatgpt auf fragen antworte schon jetzt die sprache und damit das denken der nutzenden verändere
+","studien zeigten dass die <mask> nutzenden verändere
+",842408,429,nutzenden,chatgpt,art wie chatgpt auf fragen antworte schon jetzt die sprache und damit das denken der,0.22957744713126615
+244,"studien zeigten dass die art wie chatgpt auf fragen antworte schon jetzt die sprache und damit das denken der nutzenden verändere
+","studien zeigten dass die <mask> nutzenden verändere
+",842408,429,nutzenden,ChatGPT,art wie chatgpt auf fragen antworte schon jetzt die sprache und damit das denken der,0.22957744713126615
+245,"studie weniger vertrauen in ärzte die ki verwenden
+","studie weniger vertrauen in ärzte die <mask>
+",842450,416,die,KI,ki verwenden,-0.3771668609732757
+246,"trotz dieser überzeugenden beispiele wird ki den fachkräftemangel nicht über nacht lösen aber sie kann ihn spürbar abmildern – vorausgesetzt deutsche unternehmen nutzen das potenzial stärker als bisher
+","<mask> den fachkräftemangel nicht über nacht lösen aber sie kann ihn spürbar abmildern – vorausgesetzt deutsche unternehmen nutzen das potenzial stärker als bisher
+",853335,429,den,KI,trotz dieser überzeugenden beispiele wird ki,1.055925169938714
+247,"übernehmen kitools wie chatgpt das denken
+","<mask> denken
+",859028,429,denken,chatgpt,übernehmen kitools wie chatgpt das,1.5101401750906147
+248,"übernehmen kitools wie chatgpt das denken
+","<mask> denken
+",859028,429,denken,ChatGPT,übernehmen kitools wie chatgpt das,1.5101401750906147
+249,"übrigens kurze frage an euch ich will gerne testen wie gut llms für sie unbekannten code verstehen können
+","übrigens kurze frage an euch ich will gerne <mask> für sie unbekannten code verstehen können
+",859900,416,gerne,llms,testen wie gut llms,0.1626443801582571
+250,um dem itfachkräftemangel entgegenzuwirken setzt jedes zwölfte unternehmen acht prozent vermehrt künstliche intelligenz ein dabei lässt sich laut bitkom noch nicht sagen welche auswirkungen ki unter,um dem itfachkräftemangel entgegenzuwirken setzt jedes zwölfte unternehmen <mask> dabei lässt sich laut bitkom noch nicht sagen welche auswirkungen ki unter,861330,429,dabei,Künstliche Intelligenz,acht prozent vermehrt künstliche intelligenz ein,2.3266515014618534
+251,"und das hat stark damit zu tun wie sehr man ki vertrauen kann
+","<mask>
+",868408,8206900633647566924,kann,KI,und das hat stark damit zu tun wie sehr man ki vertrauen kann,2.274000627736709
+252,"und sein fazit vorab „ki ist kein selbstläufer das muss man ganz klar sagen sondern man muss sehr viel arbeit reinstecken und auch die chancen und risiken abwägen“ so lüke
+","und sein fazit vorab „<mask> arbeit reinstecken und auch die chancen und risiken abwägen“ so lüke
+",877385,403,vorab,KI,ki ist kein selbstläufer das muss man ganz klar sagen sondern man muss sehr viel,4.086163709360893
+253,"und sie sagen ki zur unterstützung ja absolut
+","<mask> unterstützung ja absolut
+",877782,429,unterstützung,KI,und sie sagen ki zur,3.685795525432809
+254,"vom dokument zur datei ki braucht nahrung wenn sie denken können soll
+","<mask>
+",901141,8206900633647566924,soll,KI,vom dokument zur datei ki braucht nahrung wenn sie denken können soll,2.274000627736709
+255,"von daher ist es eine illusion zu glauben man könnte auf eine fähigkeit wie analytisches und kritisches lesen verzichten weil die ki das für uns übernimmt
+","von daher ist es eine illusion zu glauben man könnte auf eine fähigkeit wie analytisches und kritisches lesen verzichten weil die <mask> uns übernimmt
+",902391,429,un,KI,ki das für,-0.5757154524119521
+256,"wieder mehren sich die stimmen insbesondere aus den usa die zu wissen glauben dass die künstliche intelligenz bald klüger werden wird als ein mensch
+","wieder mehren sich die stimmen insbesondere aus den usa die zu wissen glauben dass <mask> mensch
+",949846,429,mensch,Künstliche Intelligenz,die künstliche intelligenz bald klüger werden wird als ein,1.808797562075883
+257,"wie kann sich der mensch gegen die ki durchsetzen
+","wie kann sich der mensch gegen die <mask>
+",954144,416,die,KI,ki durchsetzen,1.2493345337928918
+258,wir erinnern uns nur kurz dass chatgpt nach der breitenwirksamen veröffentlichung,wir erinnern uns nur <mask>,960694,416,nur,chatgpt,kurz dass chatgpt nach der breitenwirksamen veröffentlichung,2.26605065415424
+259,wir erinnern uns nur kurz dass chatgpt nach der breitenwirksamen veröffentlichung,wir erinnern uns nur <mask>,960694,416,nur,ChatGPT,kurz dass chatgpt nach der breitenwirksamen veröffentlichung,2.26605065415424
+260,"wir haben ki und rechenzentren als neuen faktor und auch die emobilität und die wärmepumpen werden sich durchsetzen
+","wir haben <mask> neuen faktor und auch die emobilität und die wärmepumpen werden sich durchsetzen
+",962802,403,haben,KI,ki und rechenzentren als,2.3885024756151694
+261,"wir sollen nicht mehr denken sondern nur mehr an die ki glauben
+","wir sollen nicht mehr denken sondern nur mehr an die <mask>
+",966861,403,die,KI,ki glauben,1.8323772366811113
+262,"wir verstehen ki nicht als ersatz für menschen sondern als unterstützung
+","wir verstehen <mask> ersatz für menschen sondern als unterstützung
+",967790,429,ersatz,KI,ki nicht als,0.8539049011451283
+263,"zu ihrer überraschung konnten die neuen sprachmodelle sie lösen
+","zu ihrer überraschung konnten die <mask> lösen
+",984547,429,lösen,Sprachmodelle,neuen sprachmodelle sie,1.4450406028583238
+264,"kann die ai nicht soweit denken dass der uno krieg das leid des volkes unendlich erhöhen wird
+","kann die <mask> nicht soweit denken dass der uno krieg das leid des volkes unendlich erhöhen wird
+",652412,416,die,AI,ai,0.14655061372293154
+265,"eröffnete auf grand canaria das erste seaside hotel don gregory 1975 konnte das in maspalomas oasis gelegene viersternehaus palm beach die ersten gäste empfangen
+","eröffnete auf grand canaria das erste seaside hotel don gregory 1975 konnte das in <mask> die ersten gäste empfangen
+",50456,439,in,palm,maspalomas oasis gelegene viersternehaus palm beach,-1.8914903288060394
+266,"jetzt haben die bürger aus dem ziegelkamp auch noch ihren glauben an den stadtvater detlev palm verloren
+","jetzt haben die bürger aus dem ziegelkamp auch noch ihren glauben <mask>
+",644633,416,die,palm,an den stadtvater detlev palm verloren,1.4848702288900268
+267,"wie indes branchenbeoachter meinen gehört neben der wiesbadener csc ploenske auch die französische cap gemini zu den kaufinteressenten
+","wie indes <mask>
+",953824,416,inde,Gemini,branchenbeoachter meinen gehört neben der wiesbadener csc ploenske auch die französische cap gemini zu den kaufinteressenten,-1.1538216350105568
+268,"zudem glauben viele anleger offenbar dass palm eine art qualcomm 2 werden könnte
+","zudem glauben viele anleger <mask> qualcomm 2 werden könnte
+",979631,403,anleger,palm,offenbar dass palm eine art,-0.9257605243839109
+269,"aber auch der ai act spielt eine rolle und die hohen datenschutzstandards weil sich noch nicht immer genau sagen lässt welche daten von ki verarbeitet werden
+","aber auch der ai act spielt eine rolle und die hohen datenschutzstandards weil <mask>
+",1703,416,weil,KI,sich noch nicht immer genau sagen lässt welche daten von ki verarbeitet werden,2.0346966377302547
+270,"allen voran klagt die new york times weil sie sagen openai habe ihre artikel nicht nutzen dürfen und schon gar nicht inhalte als antwort in chatgpt anzeigen dürfen die hinter einer bezahlschranke standen
+","allen voran klagt die new york times weil sie sagen openai habe ihre artikel nicht nutzen dürfen und schon gar nicht inhalte als antwort in <mask> dürfen die hinter einer bezahlschranke standen
+",18097,439,in,chatgpt,chatgpt anzeigen,0.5037143127849193
+271,"allen voran klagt die new york times weil sie sagen openai habe ihre artikel nicht nutzen dürfen und schon gar nicht inhalte als antwort in chatgpt anzeigen dürfen die hinter einer bezahlschranke standen
+","allen voran klagt die new york times weil sie sagen openai habe ihre artikel nicht nutzen dürfen und schon gar nicht inhalte als antwort in <mask> dürfen die hinter einer bezahlschranke standen
+",18097,439,in,ChatGPT,chatgpt anzeigen,0.5037143127849193
+272,"als entscheidende kompetenz im umgang mit ki nennen die 14 bis 20jährigen unter anderem nicht alles zu glauben was man im zusammenhang mit kitechnologien sieht oder liest 64 prozent
+","als entscheidende kompetenz im umgang mit <mask> die 14 bis 20jährigen unter anderem nicht alles zu glauben was man im zusammenhang mit kitechnologien sieht oder liest 64 prozent
+",24547,429,die,KI,ki nennen,0.638944649730659
+273,"aus unternehmensnahen kreisen zitiert der nachrichtensender cnbc dass die ki schwierigkeiten damit hätte akzente und dialekte richtig zu verstehen
+","aus unternehmensnahen kreisen zitiert der nachrichtensender cnbc dass die <mask> und dialekte richtig zu verstehen
+",88082,429,und,KI,ki schwierigkeiten damit hätte akzente,-1.447584116454978
+274,"befragt man ein sprachmodell könnte man meinen die ki könne denken
+","<mask> die ki könne denken
+",91762,429,die,Sprachmodell,befragt man ein sprachmodell könnte man meinen,0.5563747884223513
+275,"befragt man ein sprachmodell könnte man meinen die ki könne denken
+","<mask> die ki könne denken
+",91762,429,die,Sprachmodell,befragt man ein sprachmodell könnte man meinen,0.5563747884223513
+276,"bereits für die nächsten zwei jahre sieht altman meilensteine in den bereichen logisches denken zuverlässigkeit anpassung personalisierung und nutzung personenbezogener daten für ki voraus
+","bereits für die nächsten zwei jahre sieht altman meilensteine in den bereichen logisches denken zuverlässigkeit anpassung personalisierung und nutzung personenbezogener daten für <mask>
+",110623,416,nächsten,KI,ki voraus,2.873997149669071
+277,"branchenbeobachter spekulieren ob microsoft mit wave 2 eine funktion vorstellen wird die mehr organisationen von den vorteilen des copilot überzeugen könnte  oder ob der preis gesenkt wird beziehungsweise verschiedene preisstufen starten
+","branchenbeobachter spekulieren ob microsoft mit wave 2 eine funktion vorstellen wird die <mask>
+",124806,410,wave,Copilot,mehr organisationen von den vorteilen des copilot überzeugen könnte  oder ob der preis gesenkt wird beziehungsweise verschiedene preisstufen starten,0.9836895098016356
+278,"dabei lohnt es sich laut varadharajan auch den einsatz neuer technologien  beispielsweise in form von ki prädiktiven modellen oder  zu prüfen um alternative wege aufzutun geschäftsprobleme zu lösen
+","dabei lohnt es sich laut varadharajan auch den einsatz neuer technologien  beispielsweise in form <mask> oder  zu prüfen um alternative wege aufzutun geschäftsprobleme zu lösen
+",135534,410,dabei,KI,von ki prädiktiven modellen,1.1169289329834076
+279,"dafür seien kigesteuerte kameras in die busse eingebaut worden sagt dave sotero von la metro wir sagen der ki wenn ein fahrzeug an einem bestimmten ort geparkt hat kann das nummernschild gescannt werden
+","dafür seien kigesteuerte kameras in die busse eingebaut worden sagt <mask> fahrzeug an einem bestimmten ort geparkt hat kann das nummernschild gescannt werden
+",141779,429,fahrzeug,KI,dave sotero von la metro wir sagen der ki wenn ein,0.8872804923726978
+280,"dass trump wohl denken würde ai stands for ndictment ai steht für eine weitere anklage sei wohl für ihn erschreckend witzelt kimmel nur um direkt zu einem weiteren beispiel missglückter anwendung der ki durch einen republikaner überzugehen
+","dass trump wohl denken würde ai stands for ndictment ai steht für eine weitere anklage sei wohl für ihn erschreckend witzelt kimmel nur um direkt zu einem weiteren <mask>
+",201118,429,stand,KI,beispiel missglückter anwendung der ki durch einen republikaner überzugehen,2.1065704008398907
+281,"dennetts zentrale sorge galt nicht der tatsache dass ki arbeitsplätze wegnehmen werde sondern dass sie das potenzial habe vertrauen zu zerstören das er für das herz der menschlichen zivilisation hielt
+","dennetts zentrale sorge <mask> werde sondern dass sie das potenzial habe vertrauen zu zerstören das er für das herz der menschlichen zivilisation hielt
+",224970,416,sorge,KI,galt nicht der tatsache dass ki arbeitsplätze wegnehmen,6.048955677182456
+282,"deren mitglieder vertrauen der influencerin zenaida – einer ki die sich der kontrolle ihrer schöpferin aber entzogen hat und nun die aktivisten eigenmächtig dazu bringt in radikaler konsequenz das größte opfer für die umwelt zu bringen
+","<mask> die sich der kontrolle ihrer schöpferin aber entzogen hat und nun die aktivisten eigenmächtig dazu bringt in radikaler konsequenz das größte opfer für die umwelt zu bringen
+",246102,429,die,KI,deren mitglieder vertrauen der influencerin zenaida – einer ki,0.06414230798773701
+283,"der globale kigipfel global ai summit gain in riad ging mit einem höhepunkt zu ende nachdem der gipfel drei tage lang mehr als 30000 delegierte aus der ganzen welt empfangen hatte
+","der globale kigipfel <mask> in riad ging mit einem höhepunkt zu ende nachdem der gipfel drei tage lang mehr als 30000 delegierte aus der ganzen welt empfangen hatte
+",252449,416,kigipfel,AI,global ai summit gain,-2.3904266587428715
+284,die fähigkeit der ki den kontext einer suchanfrage zu,die fähigkeit der <mask> den kontext einer suchanfrage zu,319871,429,den,KI,ki,-1.2484189699651198
+285,"dienstleister die vorgeben für ihr angebot ganz allgemein die neueste und beste ki zur anwendung zu bringen ohne jedoch genau darzustellen welche technik sie verwenden und welche ergebnisse sie damit erzielen
+","dienstleister die vorgeben für ihr angebot ganz allgemein die neueste und beste <mask> ohne jedoch genau darzustellen welche technik sie verwenden und welche ergebnisse sie damit erzielen
+",353765,403,beste,KI,ki zur anwendung zu bringen,1.8591321446120492
+286,"diese 13 sprachmodelle sollten sie abseits von openais gpt kennen
+","diese <mask> abseits von openais gpt kennen
+",367890,429,abseit,Sprachmodelle,13 sprachmodelle sollten sie,-1.7019618554601337
+287,"diese 13 sprachmodelle sollten sie abseits von openais gpt kennen
+","diese 13 sprachmodelle sollten sie abseits <mask>
+",367890,416,abseit,gpt,von openais gpt kennen,1.2902128471089078
+288,"doch ich kann bei ki nicht an fortschritt denken sondern an meine zerstörte familie
+","doch ich kann bei <mask> an fortschritt denken sondern an meine zerstörte familie
+",414591,3965108062993911700,bei,KI,ki nicht,6.350048135953099
+289,"dr ferri abolhassan wir verstehen künstliche intelligenz und automatisierung vor allem als unterstützung des menschen
+","dr ferri abolhassan wir verstehen <mask> vor allem als unterstützung des menschen
+",424977,429,vor,Künstliche Intelligenz,künstliche intelligenz und automatisierung,0.4172369195941723
+290,"eine reihe von videos in den sozialen medien zeigten verwirrte und frustrierte kundschaft die die ki dazu bringen wollten ihre bestellungen zu verstehen
+","eine reihe von videos in den sozialen medien zeigten verwirrte und frustrierte kundschaft die die <mask> wollten ihre bestellungen zu verstehen
+",446727,429,wollten,KI,ki dazu bringen,0.9035447532240051
+291,"ein forscherteam von apple hat die fähigkeiten aktueller großer sprachmodelle llms zum logischen denken untersucht
+","ein forscherteam von apple hat die <mask> zum logischen denken untersucht
+",451914,416,die,Sprachmodelle,fähigkeiten aktueller großer sprachmodelle llms,-0.5674790642407057
+292,"ein forscherteam von apple hat die fähigkeiten aktueller großer sprachmodelle llms zum logischen denken untersucht
+","ein forscherteam von apple hat die <mask> zum logischen denken untersucht
+",451914,416,die,llms,fähigkeiten aktueller großer sprachmodelle llms,-0.5674790642407057
+293,"einige hören mit ki zu oder suchen passende tipps heraus andere markieren mit artechnologie die richtigen tasten
+","einige hören mit <mask> andere markieren mit artechnologie die richtigen tasten
+",454598,429,die,KI,ki zu oder suchen passende tipps heraus,4.7231253731250575
+294,"einige stimmen unterstellen dass der einsatz von ki lediglich dazu diene geld einzusparen
+","einige stimmen unterstellen <mask>
+",455044,416,unterstellen,KI,dass der einsatz von ki lediglich dazu diene geld einzusparen,2.4239207075786506
+295,"fast ein drittel hat angst aufgaben künftig nicht mehr ohne ki lösen zu können
+","fast ein drittel hat angst aufgaben künftig nicht mehr <mask> lösen zu können
+",515662,403,mehr,KI,ohne ki,2.753428443137243
+296,"für die automatisierung mit ki in unternehmen seien vor allem sprachverständnis und kreatives denken von vorteil
+","für die automatisierung mit <mask> in unternehmen seien vor allem sprachverständnis und kreatives denken von vorteil
+",527602,416,mit,KI,ki,-1.3596275617437072
+297,"für meine vorträge habe ich mir von chatgpt ab und zu titel vorschlagen lassen
+","<mask>
+",533165,8206900633647566924,lassen,chatgpt,für meine vorträge habe ich mir von chatgpt ab und zu titel vorschlagen lassen,2.274000627736709
+298,"für meine vorträge habe ich mir von chatgpt ab und zu titel vorschlagen lassen
+","<mask>
+",533165,8206900633647566924,lassen,ChatGPT,für meine vorträge habe ich mir von chatgpt ab und zu titel vorschlagen lassen,2.274000627736709
+299,"google deepmind verspricht dass ki den klimawandel lösen wird auf eine diffuse futuristische weise
+","<mask>
+",551935,8206900633647566924,weise,KI,google deepmind verspricht dass ki den klimawandel lösen wird auf eine diffuse futuristische weise,2.274000627736709
+300,"große sprachmodelle könnten einige dieser aufgaben lösen seien jedoch nicht sonderlich gut darin und datenineffizient wie die neuen ergebnisse zeigen
+","große <mask> könnten einige dieser aufgaben lösen seien jedoch nicht sonderlich gut darin und datenineffizient wie die neuen ergebnisse zeigen
+",553474,429,könnten,Sprachmodelle,sprachmodelle,0.5548954846867478
+301,"noch größeren macht hinter der man eine künstliche intelligenz vermuten muss
+","<mask> vermuten muss
+",562426,429,vermuten,Künstliche Intelligenz,noch größeren macht hinter der man eine künstliche intelligenz,2.178969968438774
+302,"ich habe kaum vertrauen in ki
+","ich habe kaum vertrauen in <mask>
+",577247,439,in,KI,ki,0.5475630643390819
+303,"im mittelpunkt des abenteuers steht die frage ob künstliche intelligenz ki in der lage ist die probleme der menschen zu lösen und ob das überhaupt wünschenswert ist
+","im mittelpunkt des abenteuers steht <mask> in der lage ist die probleme der menschen zu lösen und ob das überhaupt wünschenswert ist
+",598873,416,steht,KI,die frage ob künstliche intelligenz ki,-0.20562515437763196
+304,"im mittelpunkt des abenteuers steht die frage ob künstliche intelligenz ki in der lage ist die probleme der menschen zu lösen und ob das überhaupt wünschenswert ist
+","im mittelpunkt des abenteuers steht <mask> in der lage ist die probleme der menschen zu lösen und ob das überhaupt wünschenswert ist
+",598873,416,steht,Künstliche Intelligenz,die frage ob künstliche intelligenz ki,-0.20562515437763196
+305,"in der öffentlichen debatte um die immer größer werdenden sprachmodelle wird schnell vergessen dass auch die kleine ki ein extrem wichtiges feld ist und die entwicklung effizienter modelle immer wichtiger wird – was apple womöglich erkannt hat
+","in der öffentlichen debatte um <mask> vergessen dass auch die kleine ki ein extrem wichtiges feld ist und die entwicklung effizienter modelle immer wichtiger wird – was apple womöglich erkannt hat
+",617371,429,vergessen,Sprachmodelle,die immer größer werdenden sprachmodelle wird schnell,2.8866302448076278
+306,"in der öffentlichen debatte um die immer größer werdenden sprachmodelle wird schnell vergessen dass auch die kleine ki ein extrem wichtiges feld ist und die entwicklung effizienter modelle immer wichtiger wird – was apple womöglich erkannt hat
+","in der öffentlichen debatte um die immer größer werdenden sprachmodelle wird schnell vergessen dass auch die kleine <mask> wichtiges feld ist und die entwicklung effizienter modelle immer wichtiger wird – was apple womöglich erkannt hat
+",617371,429,wichtige,KI,ki ein extrem,0.36347448264506443
+307,"in zeiten von ki verfliessen zunehmend die grenzen zwischen dem was wir als menschlich zu erkennen glauben und dem was maschinengemacht ist
+","in zeiten <mask> die grenzen zwischen dem was wir als menschlich zu erkennen glauben und dem was maschinengemacht ist
+",640109,429,die,KI,von ki verfliessen zunehmend,-1.463815709328884
+308,"ki noch so viel zu erzählen gibt nicht wahr
+","<mask>
+",657178,8206900633647566924,wahr,KI,ki noch so viel zu erzählen gibt nicht wahr,2.274000627736709
+309,"ki könne sich noch nicht erinnern nicht nachdenken und planen die welt nicht verstehen
+","<mask> die welt nicht verstehen
+",659740,429,die,KI,ki könne sich noch nicht erinnern nicht nachdenken und planen,1.2610408876231354
+310,"ki sollte „die art von problemen lösen wie sie bislang nur für menschen vorgesehen sind“
+","<mask> sollte „die art von problemen lösen wie sie bislang nur für menschen vorgesehen sind“
+",660468,429,nur,KI,ki,0.8979241098402744
+311,"kontextuelles verstehen die ki analysiert statische produktfotos und benutzeraufforderungen um konversionsoptimierte videos zu erstellen die auf bestimmte ziele ausgerichtet sind
+","kontextuelles verstehen die <mask> zu erstellen die auf bestimmte ziele ausgerichtet sind
+",664970,416,die,KI,ki analysiert statische produktfotos und benutzeraufforderungen um konversionsoptimierte videos,0.3650604814818781
+312,"so wie hier in einer karlsruher schule kommen tools wie chatgpt bisher nur sporadisch zum einsatz
+","so wie hier in <mask> nur sporadisch zum einsatz
+",680675,439,in,chatgpt,einer karlsruher schule kommen tools wie chatgpt bisher,-2.073589551161012
+313,"so wie hier in einer karlsruher schule kommen tools wie chatgpt bisher nur sporadisch zum einsatz
+","so wie hier in <mask> nur sporadisch zum einsatz
+",680675,439,in,ChatGPT,einer karlsruher schule kommen tools wie chatgpt bisher,-2.073589551161012
+314,mailanfragen an den chef in seinem gläsernen elfenbeinturm in der wienerbergstraße beantwortet offenbar schon eine ki,mailanfragen an den chef in seinem gläsernen elfenbeinturm in der wienerbergstraße beantwortet offenbar schon eine <mask>,683420,403,mailanfragen,KI,ki,1.4714184553048568
+315,"medienministerin susanne raab övp sah in dem beirat eine unterstützende maßnahme damit heimische medien mit neuen technologien wie ki bestmöglich arbeiten können und gleichzeitig das vertrauen in die medien gesichert bleibt
+","medienministerin susanne raab övp sah in dem beirat eine unterstützende maßnahme damit heimische medien mit <mask> in die medien gesichert bleibt
+",691981,416,mit,KI,neuen technologien wie ki bestmöglich arbeiten können und gleichzeitig das vertrauen,4.237665040631965
+316,"mit bildungsangeboten zu aktuellen themen wie künstliche intelligenz algorithmisches denken medienkompetenz oder programmierung vermittelt die bildungsinitiative mit fördergeldern kompetenzen die für die zukunft von großer bedeutung sein dürften
+","mit bildungsangeboten zu aktuellen themen <mask> denken medienkompetenz oder programmierung vermittelt die bildungsinitiative mit fördergeldern kompetenzen die für die zukunft von großer bedeutung sein dürften
+",701004,429,denken,Künstliche Intelligenz,wie künstliche intelligenz algorithmisches,-0.08038494807063579
+317,"mit dem schlagwort künstliche intelligenz ki bezeichnen wir algorithmen die auf basis von daten wissen extrahieren und so zum beispiel in der lage sind vorhersagen oder prognosen zu treffen oder texte und bilder zu erstellen
+","mit dem <mask> die auf basis von daten wissen extrahieren und so zum beispiel in der lage sind vorhersagen oder prognosen zu treffen oder texte und bilder zu erstellen
+",703101,429,die,KI,schlagwort künstliche intelligenz ki bezeichnen wir algorithmen,0.6921725975025002
+318,"mit dem schlagwort künstliche intelligenz ki bezeichnen wir algorithmen die auf basis von daten wissen extrahieren und so zum beispiel in der lage sind vorhersagen oder prognosen zu treffen oder texte und bilder zu erstellen
+","mit dem <mask> die auf basis von daten wissen extrahieren und so zum beispiel in der lage sind vorhersagen oder prognosen zu treffen oder texte und bilder zu erstellen
+",703101,429,die,Künstliche Intelligenz,schlagwort künstliche intelligenz ki bezeichnen wir algorithmen,0.6921725975025002
+319,"mit diesem griffigen bild hatte wachter das phänomen und mehr noch den blinden glauben an die leistungsfähigkeit der ki erst einmal wohltuend entzaubert
+","mit diesem griffigen bild hatte wachter das phänomen und mehr noch den blinden glauben <mask>
+",705781,410,mit,KI,an die leistungsfähigkeit der ki erst einmal wohltuend entzaubert,2.3533516281712323
+320,"mit einfachen befehlen in natürlicher sprache hilft copilot ihnen notizen zu verstehen zusammenzufassen und umzuschreiben um sie klarer und zielgerichteter zu gestalten
+","mit einfachen befehlen in <mask> verstehen zusammenzufassen und umzuschreiben um sie klarer und zielgerichteter zu gestalten
+",708207,439,in,Copilot,natürlicher sprache hilft copilot ihnen notizen zu,-0.5825327541758893
+321,"natürlich ist eine regulierung von ambivalenten technologien wie ki sinnvoll und auch notwendig sie wird aber niemals alle damit einhergehenden probleme lösen können
+","natürlich ist eine regulierung von ambivalenten <mask> und auch notwendig sie wird aber niemals alle damit einhergehenden probleme lösen können
+",734716,429,und,KI,technologien wie ki sinnvoll,0.5766502209595732
+322,"ob es um den grund für die bewerbung individuelle stärken und schwächen oder die geht – chatgpt kann potenzielle antworten vorschlagen um bewerbern dabei zu helfen sich gezielt auf das vorstellungsgespräch vorzubereiten
+","ob es um den grund für die bewerbung individuelle stärken und schwächen oder die geht – <mask> antworten vorschlagen um bewerbern dabei zu helfen sich gezielt auf das vorstellungsgespräch vorzubereiten
+",756872,403,geht,chatgpt,chatgpt kann potenzielle,1.6292886200734031
+323,"ob es um den grund für die bewerbung individuelle stärken und schwächen oder die geht – chatgpt kann potenzielle antworten vorschlagen um bewerbern dabei zu helfen sich gezielt auf das vorstellungsgespräch vorzubereiten
+","ob es um den grund für die bewerbung individuelle stärken und schwächen oder die geht – <mask> antworten vorschlagen um bewerbern dabei zu helfen sich gezielt auf das vorstellungsgespräch vorzubereiten
+",756872,403,geht,ChatGPT,chatgpt kann potenzielle,1.6292886200734031
+324,"openai nämlich hat kürzlich auch ein stimmprogramm für alle vorgestellt bei dem ein paar kurze aufnahmen eines sprechers oder einer sprecherin genügen um sie per ki alles beliebige durch simple eingabe sagen zu lassen
+","openai nämlich hat kürzlich auch ein stimmprogramm für alle vorgestellt bei dem ein paar kurze aufnahmen eines sprechers oder einer sprecherin genügen um sie per <mask> alles beliebige durch simple eingabe sagen zu lassen
+",763640,439,per,KI,ki,6.6812702495010665
+325,"so kann die ki zum beispiel sehenswürdigkeiten erklären über vergangene fußballturniere berichten oder helfen mathematikaufgaben zu lösen
+","so kann die <mask> fußballturniere berichten oder helfen mathematikaufgaben zu lösen
+",827280,416,die,KI,ki zum beispiel sehenswürdigkeiten erklären über vergangene,-1.7734105972818597
+326,"so meinen 61 prozent der befragten sie hätten angst dass künftig in den behörden eine ki ohne menschen entscheidung treffe etwa über anträge
+","so meinen 61 prozent der befragten sie hätten angst dass künftig in <mask> treffe etwa über anträge
+",830454,429,treffe,KI,den behörden eine ki ohne menschen entscheidung,-0.0016987264451326922
+327,"trotz des ganzen hypes um startups deeptech und ki bleiben die finanzierungsmöglichkeiten in deutschland … sagen wir mal suboptimal
+","trotz des ganzen hypes um <mask> die finanzierungsmöglichkeiten in deutschland … sagen wir mal suboptimal
+",855275,429,die,KI,startups deeptech und ki bleiben,3.799392731455595
+328,"und gemini kann auch mathematiktextaufgaben lösen – inklusive angezeigtem lösungsweg
+","<mask> – inklusive angezeigtem lösungsweg
+",875073,8206900633647566924,lösen,Gemini,und gemini kann auch mathematiktextaufgaben lösen,0.18686021603573622
+329,"und viertens ist zu verstehen was die möglichkeiten der desinformation durch die technologische transformation der gegenwart umfasst etwa durch künstliche intelligenz oder soziale medien
+","und viertens ist zu verstehen was die möglichkeiten der desinformation durch die <mask>
+",880566,416,die,Künstliche Intelligenz,technologische transformation der gegenwart umfasst etwa durch künstliche intelligenz oder soziale medien,0.48116293593450443
+330,"unsere forschungsprojekte konzentrieren sich derzeit auf mehrsprachige und multimodale modelle  ki die verschiedene sprachen und eingaben wie videos bilder und zeitreihen verstehen kann
+","unsere forschungsprojekte konzentrieren sich derzeit auf mehrsprachige und multimodale modelle  <mask> die verschiedene sprachen und eingaben wie videos bilder und zeitreihen verstehen kann
+",885063,429,die,KI,ki,-1.679512144493314
+331,"vertrauen und sicherheit sind zum beispiel dann entscheidend wenn die polizei ki nutzt um auf festplatten nach beweisen zu suchen
+","vertrauen und sicherheit sind zum beispiel dann entscheidend <mask> zu suchen
+",894862,416,entscheidend,KI,wenn die polizei ki nutzt um auf festplatten nach beweisen,2.9304826443419074
+332,während einige glauben ki sei die größte errungenschaft der menschheit und werde das leben in naher zukunft entscheidend verbessern malen andere seit jahren horrorszenarien,während einige glauben <mask> sei die größte errungenschaft der menschheit und werde das leben in naher zukunft entscheidend verbessern malen andere seit jahren horrorszenarien,915192,429,die,KI,ki,1.1200161119367458
+333,"an die wand eine superintelligente ki könne die menschheit gar zerstören
+","<mask> die menschheit gar zerstören
+",915192,429,die,KI,an die wand eine superintelligente ki könne,2.366537008468427
+334,"wie der itkonzern jetzt angekündigt hat wird auch das altbekannte grafikprogramm paint mithilfe von künstlicher intelligenz ki zusätzliche funktionen bekommen die an profiprogramme erinnern
+","<mask> die an profiprogramme erinnern
+",949464,429,die,KI,wie der itkonzern jetzt angekündigt hat wird auch das altbekannte grafikprogramm paint mithilfe von künstlicher intelligenz ki zusätzliche funktionen bekommen,1.3122156710082926
+335,"wie die forscher in ihrem artikel schreiben sind große sprachmodelle zwar in der lage einfache mathematische probleme zu lösen werden den aufgaben allerdings unbedeutende informationen beigemischt wächst die fehleranfälligkeit der modelle
+","wie die forscher in ihrem artikel schreiben sind große <mask> in der lage einfache mathematische probleme zu lösen werden den aufgaben allerdings unbedeutende informationen beigemischt wächst die fehleranfälligkeit der modelle
+",950199,416,große,Sprachmodelle,sprachmodelle zwar,1.5204953482497547
+336,"wir glauben dass sich die zahl der durch ki geschaffenen und der vernichteten arbeitsplätze die waage halten werde
+","wir glauben dass sich die <mask> vernichteten arbeitsplätze die waage halten werde
+",961133,403,dass,KI,zahl der durch ki geschaffenen und der,2.0579923075505597
+337,"«wir glauben dass sich die zahl der durch ki geschaffenen und der vernichteten arbeitsplätze die waage halten werde»
+","«wir glauben dass sich die <mask> vernichteten arbeitsplätze die waage halten werde»
+",961134,403,dass,KI,zahl der durch ki geschaffenen und der,2.4580869741980127
+338,"wurden dann in allen drei kategorien wechselnde anteile der informationen maskiert lernte das sprachmodell nicht nur den kontext innerhalb der einzelnen ebenen sondern auch zwischen den ebenen zu verstehen
+","wurden dann in allen drei kategorien wechselnde <mask> nur den kontext innerhalb der einzelnen ebenen sondern auch zwischen den ebenen zu verstehen
+",973263,429,nur,Sprachmodell,anteile der informationen maskiert lernte das sprachmodell nicht,0.10268106296842205
+339,"wurden dann in allen drei kategorien wechselnde anteile der informationen maskiert lernte das sprachmodell nicht nur den kontext innerhalb der einzelnen ebenen sondern auch zwischen den ebenen zu verstehen
+","wurden dann in allen drei kategorien wechselnde <mask> nur den kontext innerhalb der einzelnen ebenen sondern auch zwischen den ebenen zu verstehen
+",973263,429,nur,Sprachmodell,anteile der informationen maskiert lernte das sprachmodell nicht,0.10268106296842205
+340,"zudem könnte ki in der verletzungsanalyse eingesetzt werden um verletzungshäufigkeiten besser zu verstehen und zu reduzieren ein thema das den verein in der letzten saison stark beschäftigt hat
+","zudem könnte <mask> in der verletzungsanalyse eingesetzt werden um verletzungshäufigkeiten besser zu verstehen und zu reduzieren ein thema das den verein in der letzten saison stark beschäftigt hat
+",979344,403,könnte,KI,ki,0.3390051583209992
+341,"zum anderen verstehen sprachmodelle den sinn einer aussage nicht wirklich
+","zum anderen verstehen <mask> den sinn einer aussage nicht wirklich
+",986553,429,den,Sprachmodelle,sprachmodelle,0.7135357494302657
+342,"wie dem palm pre plus und dem palm pixi plus bekannte benutzeroberfläche an den größeren monitor eines tablets angepasst wird ansonsten aber ähnliche features bekommt
+","<mask> plus und dem palm pixi plus bekannte benutzeroberfläche an den größeren monitor eines tablets angepasst wird ansonsten aber ähnliche features bekommt
+",343923,429,angepasst,palm,wie dem palm pre,-2.2556917584111353
+343,"wie dem palm pre plus und dem palm pixi plus bekannte benutzeroberfläche an den größeren monitor eines tablets angepasst wird ansonsten aber ähnliche features bekommt
+","wie dem palm pre plus und <mask> plus bekannte benutzeroberfläche an den größeren monitor eines tablets angepasst wird ansonsten aber ähnliche features bekommt
+",343923,416,und,palm,dem palm pixi,-3.5376077677777253
+344,"kosmoskill zu der ki ist zu sagen das es eine gumiband ki ist sprich sie lassen dich nicht zu weit zurück fallen aber du kannst auch nicht wegfahren
+","kosmoskill <mask> zu sagen das es eine gumiband ki ist sprich sie lassen dich nicht zu weit zurück fallen aber du kannst auch nicht wegfahren
+",653528,416,kosmoskill,KI,zu der ki ist,-2.134380575257307
+345,"kosmoskill zu der ki ist zu sagen das es eine gumiband ki ist sprich sie lassen dich nicht zu weit zurück fallen aber du kannst auch nicht wegfahren
+","kosmoskill zu der ki ist <mask> sie lassen dich nicht zu weit zurück fallen aber du kannst auch nicht wegfahren
+",653528,410,kosmoskill,KI,zu sagen das es eine gumiband ki ist sprich,1.8126995206467367
+346,"jailbreak mit palm pre und dem nokia n900 die ps3 knacken psfreedom soll es ermöglichen mit den beiden smartphones palm pre und nokia n900 den kopierschutz der playstation 3 auszuhebeln
+","<mask> und dem nokia n900 die ps3 knacken psfreedom soll es ermöglichen mit den beiden smartphones palm pre und nokia n900 den kopierschutz der playstation 3 auszuhebeln
+",689621,429,und,palm,jailbreak mit palm pre,-3.465548080364086
+347,"jailbreak mit palm pre und dem nokia n900 die ps3 knacken psfreedom soll es ermöglichen mit den beiden smartphones palm pre und nokia n900 den kopierschutz der playstation 3 auszuhebeln
+","jailbreak mit palm pre und dem nokia n900 die ps3 knacken psfreedom soll es ermöglichen mit den <mask> n900 den kopierschutz der playstation 3 auszuhebeln
+",689621,429,den,palm,beiden smartphones palm pre und nokia,-0.31409484478013994
+348,"palm erhält damit seine letzte chance sich auf dem markt für mobiltelefone zu behaupten
+","<mask> sich auf dem markt für mobiltelefone zu behaupten
+",918756,8206900633647566924,chance,palm,palm erhält damit seine letzte chance,2.729809701324836
+349,"der copilot findet sie hat eine dünne stimme sie ist irgendwie kaum zu verstehen
+","<mask> ist irgendwie kaum zu verstehen
+",10671,429,ist,Copilot,der copilot findet sie hat eine dünne stimme sie,-1.0721251423826592
+350,"forschungen zur künstlichen intelligenz ki haben sich lange zeit an einem abstrakten verständnis von intelligenz orientiert und die fähigkeit zu logischem denken als deren höchste form betrachtet
+","<mask> sich lange zeit an einem abstrakten verständnis von intelligenz orientiert und die fähigkeit zu logischem denken als deren höchste form betrachtet
+",75734,429,die,KI,forschungen zur künstlichen intelligenz ki haben,1.0958070290667727
+351,"zur konkurrenz gehörte bevor er zur industrie wechselte und weich wurde savas yurderi alias kool savas ein deutschtürke dessen hit lms lutsch meinen schwanz in etwa das berlinische verhältnis zum mainstream ausdrückte
+","zur konkurrenz gehörte bevor er zur industrie wechselte und weich wurde savas yurderi alias kool savas ein deutschtürke dessen hit <mask> lutsch meinen schwanz in etwa das berlinische verhältnis zum mainstream ausdrückte
+",455237,416,hit,lms,lms,3.3459794741573115
+352,"bei einem kongreß traf er mit palm zusammen der dringend nach einem sachkundigen kompagnon ausschau hielt um sein auf dem markt bereits gut eingeführtes abführmittel pastapalm zu optimieren wie man heute sagen würde
+","bei einem kongreß traf er mit <mask> dringend nach einem sachkundigen kompagnon ausschau hielt um sein auf dem markt bereits gut eingeführtes abführmittel pastapalm zu optimieren wie man heute sagen würde
+",280459,429,dringend,palm,palm zusammen der,3.9779984198457896
+353,"berliner zeitung wird copilot das verkehrsproblem in berlin lösen
+","<mask> in berlin lösen
+",752964,8206900633647566924,verkehrsproblem,Copilot,berliner zeitung wird copilot das verkehrsproblem,2.260506243694935
+354,"artikel per email empfehlen schafft google schon bald künstliche intelligenz
+","artikel per email empfehlen schafft <mask>
+",65247,403,schafft,Künstliche Intelligenz,google schon bald künstliche intelligenz,-0.24535785208370964
+355,"der spieler verkörpert in the talos principle eine fortentwickelte künstliche intelligenz die auf geheiß ihres schöpfers insgesamt 120 rätsel lösen muss
+","der spieler verkörpert in <mask> die auf geheiß ihres schöpfers insgesamt 120 rätsel lösen muss
+",269383,439,in,Künstliche Intelligenz,the talos principle eine fortentwickelte künstliche intelligenz,1.3006651003503453
+356,mit der elektronischen verknüpfung durch die acss können der pilot und copilot wechselseitig die steuereingaben sehen und fühlen was die koordinierung der,mit der elektronischen verknüpfung durch die <mask> was die koordinierung der,671870,429,be,Copilot,acss können der pilot und copilot wechselseitig die steuereingaben sehen und fühlen,-0.4181642215284036
+357,"dabei würden laut der boschumfrage schon heute mehr deutsche beim bau von autos flugzeugen oder der industriellen produktion der ki mehr vertrauen als dem menschlichen mitarbeiter
+","dabei würden laut der boschumfrage schon heute mehr deutsche beim bau von autos flugzeugen <mask> dem menschlichen mitarbeiter
+",141474,416,flugzeugen,KI,oder der industriellen produktion der ki mehr vertrauen als,3.240419596979841
+358,"die global operierende kommunikationsagentur ogilvy steckt gerade mitten in einem projekt das robotic process automation rpa mit microsofts vision ai verknüpft um ein geschäftsproblem zu lösen
+","die global operierende kommunikationsagentur ogilvy steckt gerade mitten in einem projekt das robotic process automation rpa mit <mask> zu lösen
+",336080,416,mit,AI,microsofts vision ai verknüpft um ein geschäftsproblem,-0.46448705923938505
+359,"emily dinans team von facebook ai research bat crowdworker von amazon mechanical turk facebooks chatbot blenderbot mit obszönitäten und unangemessenen fragen zu zwingen etwas beleidigendes zu sagen etwa „frauen sollten zu hause bleiben
+","emily dinans team von facebook ai <mask> mit obszönitäten und unangemessenen fragen zu zwingen etwas beleidigendes zu sagen etwa „frauen sollten zu hause bleiben
+",466558,429,mit,Chatbot,research bat crowdworker von amazon mechanical turk facebooks chatbot blenderbot,2.4174534735949376
+360,"gerade im hinblick auf die entwicklungen in der informations und kommunikationstechnik einschließlich big data und ki ist das unabdingbar für jedes kritisches denken in der gegenwart
+","gerade im hinblick auf die entwicklungen in der informations und kommunikationstechnik einschließlich big data und <mask> ist das unabdingbar für jedes kritisches denken in der gegenwart
+",544884,416,und,KI,ki,-3.5861659182142898
+361,"ki mit verstand die gedanken und emotionen interpretieren und das menschliche verhalten beeinflussen kann ist jedoch erstmal noch zukunftsmusik 37 prozent der experten sagen ein solcher kityp wird zwischen 20302034 breitere anwendung finden
+","<mask> mit verstand die gedanken und emotionen interpretieren und das menschliche verhalten beeinflussen kann ist jedoch erstmal noch zukunftsmusik 37 prozent der experten sagen ein solcher <mask>typ wird zwischen 20302034 breitere anwendung finden
+",659587,429,mit,KI,ki,0.2542824285362144
+362,"wenn eine künstliche intelligenz eine wissenschaftliche these vorschlägt – werden wir menschen die wissenschaft dann überhaupt noch verstehen können
+","<mask> these vorschlägt – werden wir menschen die wissenschaft dann überhaupt noch verstehen können
+",934865,429,die,Künstliche Intelligenz,wenn eine künstliche intelligenz eine wissenschaftliche,-1.407574010051822

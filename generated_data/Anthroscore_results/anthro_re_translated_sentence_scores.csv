@@ -1,0 +1,1038 @@
+,sentence,masked_sentence,text_id,POS,verb,original_term,original_noun,anthroscore
+0,"i'll probably soon have to give up my job as a writer, too, since electronic reading devices analyse my reading behaviour in order to feed this data into an ai that will write books tailored to me in the future","i'll probably soon have to give up my job as a writer, too, since electronic reading devices analyse my reading behaviour in order to feed this data into <mask> that will write books tailored to me in the future",5725711.txt,439,into,AI,an ai,-2.4246566925291972
+1,"i'll probably soon have to give up my job as a writer, too, since electronic reading devices analyse my reading behaviour in order to feed this data into an ai that will write books tailored to me in the future","i'll probably soon have to give up my job as a writer, too, since electronic reading devices analyse my reading behaviour in order to feed this data into <mask> that will write books tailored to me in the future",5725711.txt,439,into,AI,an ai,-2.4246566925291972
+2,"with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to an ai spokesperson","with this action, <mask> and reporters without borders want to commemorate the journalist, according to an ai spokesperson",0230355.txt,429,want,AI,amnesty international ai,0.6374075342922847
+3,"with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to an ai spokesperson","with this action, <mask> and reporters without borders want to commemorate the journalist, according to an ai spokesperson",0230355.txt,429,want,AI,amnesty international ai,0.6374075342922847
+4,"with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to an ai spokesperson","with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to <mask>",0230355.txt,439,to,AI,an ai spokesperson,0.0009675336039283167
+5,"with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to an ai spokesperson","with this action, amnesty international ai and reporters without borders want to commemorate the journalist, according to <mask>",0230355.txt,439,to,AI,an ai spokesperson,0.0009675336039283167
+6,it is difficult to remember a piece by ai phoenix once it has faded away,it is difficult to remember a piece by <mask> once it has faded away,1110546.txt,439,by,AI,ai phoenix,-5.490717265659148
+7,it is difficult to remember a piece by ai phoenix once it has faded away,it is difficult to remember a piece by <mask> once it has faded away,1110546.txt,439,by,AI,ai phoenix,-5.490717265659148
+8,it has its regional character as a city where many look like fassbinder but nobody would say that it is an artificial intelligence,it has its regional character as a city where many look like fassbinder but nobody would say that it is <mask>,1185159.txt,404,be,Artificial intelligence,an artificial intelligence,0.23319483109549743
+9,it has its regional character as a city where many look like fassbinder but nobody would say that it is an artificial intelligence,it has its regional character as a city where many look like fassbinder but nobody would say that it is <mask>,1185159.txt,404,be,Artificial Intelligence,an artificial intelligence,0.23319483109549743
+10,"according to ai, many conflicts and problems have been largely forgotten in the shadow of the war in iraq and the fight against terrorism
+","according to <mask>, many conflicts and problems have been largely forgotten in the shadow of the war in iraq and the fight ag<mask>nst terrorism
+",656252,439,to,AI,ai,3.0645911436249396
+11,"according to ai, many conflicts and problems have been largely forgotten in the shadow of the war in iraq and the fight against terrorism
+","according to <mask>, many conflicts and problems have been largely forgotten in the shadow of the war in iraq and the fight ag<mask>nst terrorism
+",656252,439,to,AI,ai,3.0645911436249396
+12,"the driver gets to know the terrain the Copilot logs every wave, curve and turn with the corresponding speed and the gear driven
+","the driver gets to know the terrain <mask> logs every wave, curve and turn with the corresponding speed and the gear driven
+",824051,429,log,Copilot,the copilot,2.1043183011691386
+13,"critical minds say that the increasingly grey clouds that hang over palm springs even in the heat may have their cause in this spraying
+","critical minds say that the increasingly grey clouds that hang over <mask> even in the heat may have their cause in this spraying
+",662493,439,over,palm,palm springs,-1.4694990607528151
+14,"customers can determine the required configuration of their desired rack protector lms 93 themselves without knowing a single order number
+","customers can determine the required configuration of <mask> 93 themselves without knowing a single order number
+",10352,439,of,lms,their desired rack protector lms,1.220284726581463
+15,"the newcomer does not come from france, as one might assume from the name, but from west palm beach in florida
+","the newcomer does not come from france, as one might assume from the name, but from <mask> in florida
+",76748,439,from,palm,west palm beach,0.5119796843944506
+16,"despite its pioneering role in the computer industry, palm cannot assert itself against competitors such as nokia or apple
+","despite its pioneering role in the computer industry, <mask> cannot assert itself against competitors such as nokia or apple
+",91900,429,assert,palm,palm,-4.3676716863589675
+17,"this fantasising about the eternal feminine occasionally seems a bit ageist uncle lou the rock n roll animal the eternal transformern and drug eater in the late role of the fool in love
+","this fantasising about the eternal feminine occasionally seems a bit ageist uncle lou the rock n roll animal <mask> in the late role of the fool in love
+",432384,403,uncle,Transformern,the eternal transformern and drug eater,-2.5429411520984164
+18,"industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as artificial intelligence ai and blockchain
+","industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as <mask> and blockchain
+",121483,439,as,AI,artificial intelligence ai,-0.8705617451407193
+19,"industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as artificial intelligence ai and blockchain
+","industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as <mask> and blockchain
+",121483,439,as,Artificial intelligence,artificial intelligence ai,-0.8705617451407193
+20,"industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as artificial intelligence ai and blockchain
+","industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as <mask> and blockchain
+",121483,439,as,AI,artificial intelligence ai,-0.8705617451407193
+21,"industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as artificial intelligence ai and blockchain
+","industry experts believe that two to six million jobs will be lost over the next ten years due to breakthrough technologies such as <mask> and blockchain
+",121483,439,as,Artificial Intelligence,artificial intelligence ai,-0.8705617451407193
+22,"in the medium term, artificial intelligence or the internet of things, for example, will definitely affect us
+","in the medium term, <mask> or the internet of things, for example, will definitely affect us
+",704446,429,affect,Artificial intelligence,artificial intelligence,-2.8994004215653426
+23,"in the medium term, artificial intelligence or the internet of things, for example, will definitely affect us
+","in the medium term, <mask> or the internet of things, for example, will definitely affect us
+",704446,429,affect,Artificial Intelligence,artificial intelligence,-2.8994004215653426
+24,"whether the same system could work for vrgames is hard to say, according tommy palm
+","whether the same system could work for vrgames is hard to say, according <mask>
+",746979,439,accord,palm,tommy palm,-2.6550937533103465
+25,"robots and other potential systems based on artificial intelligence ki will have to work hard to gain the trust of mankind
+","robots and other potential systems based on <mask> will have to work hard to gain the trust of mankind
+",772113,439,on,Artificial intelligence,artificial intelligence ki,-4.90011537351473
+26,"robots and other potential systems based on artificial intelligence ki will have to work hard to gain the trust of mankind
+","robots and other potential systems based on <mask> will have to work hard to gain the trust of mankind
+",772113,439,on,Artificial Intelligence,artificial intelligence ki,-4.90011537351473
+27,"companies increasingly understand the benefits of robotics automation and artificial intelligence
+","companies increasingly understand the benefits of robotics automation and <mask>
+",886646,410,automation,Artificial intelligence,artificial intelligence,-1.4247721214216558
+28,"companies increasingly understand the benefits of robotics automation and artificial intelligence
+","companies increasingly understand the benefits of robotics automation and <mask>
+",886646,410,automation,Artificial Intelligence,artificial intelligence,-1.4247721214216558
+29,"what impulses are triggered by buzzwords such as artificial intelligence or artificial intelligence
+","what impulses are triggered by buzzwords such as <mask> or <mask>
+",930753,439,as,Artificial intelligence,artificial intelligence,-1.2446754292169828
+30,"what impulses are triggered by buzzwords such as artificial intelligence or artificial intelligence
+","what impulses are triggered by buzzwords such as <mask> or <mask>
+",930753,439,as,Artificial Intelligence,artificial intelligence,-1.2446754292169828
+31,"what impulses are triggered by buzzwords such as artificial intelligence or artificial intelligence
+","what impulses are triggered by buzzwords such as <mask> or <mask>
+",930753,410,intelligence,Artificial intelligence,artificial intelligence,-1.2446754292169828
+32,"what impulses are triggered by buzzwords such as artificial intelligence or artificial intelligence
+","what impulses are triggered by buzzwords such as <mask> or <mask>
+",930753,410,intelligence,Artificial Intelligence,artificial intelligence,-1.2446754292169828
+33,"if you solve this properly, artificial intelligence can make exact predictions about when a component is worn out and should be replaced
+","if you solve this properly, <mask> can make exact predictions about when a component is worn out and should be replaced
+",939179,429,make,Artificial intelligence,artificial intelligence,-2.2164649245962007
+34,"if you solve this properly, artificial intelligence can make exact predictions about when a component is worn out and should be replaced
+","if you solve this properly, <mask> can make exact predictions about when a component is worn out and should be replaced
+",939179,429,make,Artificial Intelligence,artificial intelligence,-2.2164649245962007
+35,"""will artificial intelligence suggest clothes that make us look thin
+","""will <mask> suggest clothes that make us look thin
+",959137,429,suggest,Artificial intelligence,artificial intelligence,2.6785214802795814
+36,"""will artificial intelligence suggest clothes that make us look thin
+","""will <mask> suggest clothes that make us look thin
+",959137,429,suggest,Artificial Intelligence,artificial intelligence,2.6785214802795814
+37,"president christian palm cited disagreements with pastors and a lack of trust from the congregation as the reasons for this
+","<mask> cited disagreements with pastors and a lack of trust from the congregation as the reasons for this
+",25490,429,cite,palm,president christian palm,6.405680919840236
+38,"in her speech, zeidlerbeck also emphasised the need to devote attention to the topic of artificial intelligence, highlighting initiatives in this area by the president of the national council, wolfgang sobotka
+","in her speech, zeidlerbeck also emphasised the need to devote attention to the topic of <mask>, highlighting initiatives in this area by the president of the national council, wolfgang sobotka
+",59333,439,of,Artificial intelligence,artificial intelligence,-2.9253380867633254
+39,"in her speech, zeidlerbeck also emphasised the need to devote attention to the topic of artificial intelligence, highlighting initiatives in this area by the president of the national council, wolfgang sobotka
+","in her speech, zeidlerbeck also emphasised the need to devote attention to the topic of <mask>, highlighting initiatives in this area by the president of the national council, wolfgang sobotka
+",59333,439,of,Artificial Intelligence,artificial intelligence,-2.9253380867633254
+40,"even if chatgpt doesn't always spit out the perfect answer, you can still get to the bottom of the tool with another question and thus get even better answers and work your way forward
+","even if <mask> doesn't always spit out the perfect answer, you can still get to the bottom of the tool with another question and thus get even better answers and work your way forward
+",70862,429,spit,chatgpt,chatgpt,-4.045018238618365
+41,"even if chatgpt doesn't always spit out the perfect answer, you can still get to the bottom of the tool with another question and thus get even better answers and work your way forward
+","even if <mask> doesn't always spit out the perfect answer, you can still get to the bottom of the tool with another question and thus get even better answers and work your way forward
+",70862,429,spit,ChatGPT,chatgpt,-4.045018238618365
+42,"chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+","<mask> is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+",131348,429,be,gpt,chat gpt,-3.4914439473388725
+43,"chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+","<mask> is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+",131348,429,be,Chat GPT,chat gpt,-3.4914439473388725
+44,"chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+","chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of <mask>
+",131348,439,of,Artificial intelligence,artificial intelligence,-3.4606045420602456
+45,"chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of artificial intelligence
+","chat gpt is the name of the dialogue system that experts describe as a groundbreaking development in the field of <mask>
+",131348,439,of,Artificial Intelligence,artificial intelligence,-3.4606045420602456
+46,"chatgpt was able to solve the task comprehensibly and the student was then able to continue working independently
+","<mask> was able to solve the task comprehensibly and the student was then able to continue working independently
+",131364,429,be,chatgpt,chatgpt,3.2235363212472836
+47,"chatgpt was able to solve the task comprehensibly and the student was then able to continue working independently
+","<mask> was able to solve the task comprehensibly and the student was then able to continue working independently
+",131364,429,be,ChatGPT,chatgpt,3.2235363212472836
+48,"i already explained what chatgpt can do two years earlier in my lectures
+","i already explained <mask> can do two years earlier in my lectures
+",210555,429,do,chatgpt,what chatgpt,-0.6806832602955524
+49,"i already explained what chatgpt can do two years earlier in my lectures
+","i already explained <mask> can do two years earlier in my lectures
+",210555,429,do,ChatGPT,what chatgpt,-0.6806832602955524
+50,"because if used incorrectly, artificial intelligence has the potential to rapidly spread disinformation on the net, for example with false images, and thus destroy trust in democratic institutions
+","because if used incorrectly, <mask> has the potential to rapidly spread disinformation on the net, for example with false images, and thus destroy trust in democratic institutions
+",227686,429,have,Artificial intelligence,artificial intelligence,-4.352528200818783
+51,"because if used incorrectly, artificial intelligence has the potential to rapidly spread disinformation on the net, for example with false images, and thus destroy trust in democratic institutions
+","because if used incorrectly, <mask> has the potential to rapidly spread disinformation on the net, for example with false images, and thus destroy trust in democratic institutions
+",227686,429,have,Artificial Intelligence,artificial intelligence,-4.352528200818783
+52,"dorothy khademmissagh on artificial intelligence ""if we want it to do more good than harm, we have to deal with it in all areas and develop rules and set a direction in a joint discourse""
+","dorothy khademmissagh on <mask> ""if we want it to do more good than harm, we have to deal with it in all areas and develop rules and set a direction in a joint discourse""
+",421222,439,on,Artificial intelligence,artificial intelligence,-3.386198307938102
+53,"dorothy khademmissagh on artificial intelligence ""if we want it to do more good than harm, we have to deal with it in all areas and develop rules and set a direction in a joint discourse""
+","dorothy khademmissagh on <mask> ""if we want it to do more good than harm, we have to deal with it in all areas and develop rules and set a direction in a joint discourse""
+",421222,439,on,Artificial Intelligence,artificial intelligence,-3.386198307938102
+54,"a slightly different approach to the nature of language models - and what they mean for us
+","a slightly different approach to the nature of <mask> - and what they mean for us
+",449847,439,of,Language models,language models,-5.677886443218094
+55,"it's basically quite simple artificial intelligence ki is the term we use to describe the desired ability of machines to perform tasks that normally require human intelligence
+","it's basically <mask> is the term we use to describe the desired ability of machines to perform tasks that normally require human intelligence
+",499474,429,be,Artificial intelligence,quite simple artificial intelligence ki,-4.712591557139751
+56,"it's basically quite simple artificial intelligence ki is the term we use to describe the desired ability of machines to perform tasks that normally require human intelligence
+","it's basically <mask> is the term we use to describe the desired ability of machines to perform tasks that normally require human intelligence
+",499474,429,be,Artificial Intelligence,quite simple artificial intelligence ki,-4.712591557139751
+57,"it is important to remember that language models are not search engines that find the right answers and that they do not have infinite knowledge
+","it is important to remember that <mask> are not search engines that find the right answers and that they do not have infinite knowledge
+",501020,429,be,Language models,language models,-3.8763142958820573
+58,"Gemini pro will be aimed at a wide audience and will teach the chatbot google bard advanced thinking planning understanding and more
+","<mask> pro will be aimed at a wide audience and will teach the chatbot google bard advanced thinking planning understanding and more
+",543244,430,aim,Gemini,gemini,-0.07453460652024368
+59,"Gemini pro will be aimed at a wide audience and will teach the chatbot google bard advanced thinking planning understanding and more
+","Gemini pro will be aimed at a wide audience and will teach <mask> google bard advanced thinking planning understanding and more
+",543244,416,teach,Chatbot,the chatbot,1.4227545637909742
+60,"deutsche bahn wants to improve its core processes and solve problems in the new ai factory
+","deutsche bahn wants to improve its core processes and solve problems in <mask>
+",617400,439,in,AI,the new ai factory,-1.91502362112017
+61,"deutsche bahn wants to improve its core processes and solve problems in the new ai factory
+","deutsche bahn wants to improve its core processes and solve problems in <mask>
+",617400,439,in,AI,the new ai factory,-1.91502362112017
+62,"conversational bots like chatgpt make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+","conversational bots like <mask> make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+",664758,439,like,chatgpt,chatgpt,-1.8791395537725286
+63,"conversational bots like chatgpt make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+","conversational bots like <mask> make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+",664758,439,like,ChatGPT,chatgpt,-1.8791395537725286
+64,"conversational bots like chatgpt make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+","conversational bots like chatgpt make users think they are dealing with a human-like intelligence when <mask> provides answers and solutions to complex questions and tasks in seconds
+",664758,429,provide,AI,the ai,-2.304886877005833
+65,"conversational bots like chatgpt make users think they are dealing with a human-like intelligence when the AI provides answers and solutions to complex questions and tasks in seconds
+","conversational bots like chatgpt make users think they are dealing with a human-like intelligence when <mask> provides answers and solutions to complex questions and tasks in seconds
+",664758,429,provide,AI,the ai,-2.304886877005833
+66,"chatgpt can also be understood as a great relief from the idea of wanting to attach human particularity to something like texts at all
+","<mask> can also be understood as a great relief from the idea of wanting to attach human particularity to something like texts at all
+",686195,430,understand,chatgpt,chatgpt,-6.2300772139377845
+67,"chatgpt can also be understood as a great relief from the idea of wanting to attach human particularity to something like texts at all
+","<mask> can also be understood as a great relief from the idea of wanting to attach human particularity to something like texts at all
+",686195,430,understand,ChatGPT,chatgpt,-6.2300772139377845
+68,"thanks to palm, chronicle users should also be able to better understand security warnings via a kind of chatbot
+","thanks to <mask>, chronicle users should also be able to better understand security warnings via a kind of chatbot
+",754386,439,to,palm,palm,-2.257523943993453
+69,"thanks to palm, chronicle users should also be able to better understand security warnings via a kind of chatbot
+","thanks to palm, chronicle users should also be able to better understand security warnings via a kind of <mask>
+",754386,439,of,Chatbot,chatbot,-3.266015205314515
+70,"threads has broken the record of chatgpt the chatbot from openai took two months to break the 100 million user mark
+","threads has broken the record of <mask> the chatbot from openai took two months to break the 100 million user mark
+",849928,439,of,chatgpt,chatgpt,-2.1551379200305583
+71,"threads has broken the record of chatgpt the chatbot from openai took two months to break the 100 million user mark
+","threads has broken the record of <mask> the chatbot from openai took two months to break the 100 million user mark
+",849928,439,of,ChatGPT,chatgpt,-2.1551379200305583
+72,"threads has broken the record of chatgpt the chatbot from openai took two months to break the 100 million user mark
+","threads has broken the record of chatgpt <mask> from openai took two months to break the 100 million user mark
+",849928,403,record,Chatbot,the chatbot,-2.093594091744759
+73,"the netflix researchers rely on artificial intelligence to solve this problem
+","the netflix researchers rely on <mask> to solve this problem
+",861637,439,on,Artificial intelligence,artificial intelligence,-3.2790065618850583
+74,"the netflix researchers rely on artificial intelligence to solve this problem
+","the netflix researchers rely on <mask> to solve this problem
+",861637,439,on,Artificial Intelligence,artificial intelligence,-3.2790065618850583
+75,"and i also have to say that i really prefer experimenting with my own chatbot than using something like chatgpt
+","and i also have to say that i really prefer experimenting with <mask> than using something like chatgpt
+",874998,439,with,Chatbot,my own chatbot,-5.807868934896595
+76,"and i also have to say that i really prefer experimenting with my own chatbot than using something like chatgpt
+","and i also have to say that i really prefer experimenting with my own chatbot than using something like <mask>
+",874998,439,like,chatgpt,chatgpt,-0.39601142251670396
+77,"and i also have to say that i really prefer experimenting with my own chatbot than using something like chatgpt
+","and i also have to say that i really prefer experimenting with my own chatbot than using something like <mask>
+",874998,439,like,ChatGPT,chatgpt,-0.39601142251670396
+78,"artificial intelligence ki is the attempt to transfer human learning and thinking to the computer
+","<mask> is the attempt to transfer human learning and thinking to the computer
+",887628,429,be,Artificial intelligence,artificial intelligence ki,-6.4749085325484135
+79,"artificial intelligence ki is the attempt to transfer human learning and thinking to the computer
+","<mask> is the attempt to transfer human learning and thinking to the computer
+",887628,429,be,Artificial Intelligence,artificial intelligence ki,-6.4749085325484135
+80,"of which insiders claim that it is already more powerful than chatgpt today
+","of which insiders claim that it is already more powerful than <mask> today
+",902549,439,than,chatgpt,chatgpt,-0.14048103155171887
+81,"of which insiders claim that it is already more powerful than chatgpt today
+","of which insiders claim that it is already more powerful than <mask> today
+",902549,439,than,ChatGPT,chatgpt,-0.14048103155171887
+82,"what does chatgpt co mean for the tax consultancy profession
+","what does <mask> mean for the tax consultancy profession
+",918962,429,mean,chatgpt,chatgpt co,-3.7121290053288085
+83,"what does chatgpt co mean for the tax consultancy profession
+","what does <mask> mean for the tax consultancy profession
+",918962,429,mean,ChatGPT,chatgpt co,-3.7121290053288085
+84,"what do teachers say about the use of chat gpt
+","what do teachers say about the use of <mask>
+",923747,439,of,gpt,chat gpt,-2.43100901360471
+85,"what do teachers say about the use of chat gpt
+","what do teachers say about the use of <mask>
+",923747,439,of,Chat GPT,chat gpt,-2.43100901360471
+86,"for those who want to live in true luxury we recommend the th8 palm dubai beach resort
+","for those who want to live in true luxury we recommend <mask>
+",941568,416,recommend,palm,the th8 palm dubai beach resort,-2.6092173556445637
+87,"we also don't yet know whether applications like chatgpt are more likely to promote or restrict the critical thinking of our students
+","we also don't yet know whether applications like <mask> are more likely to promote or restrict the critical thinking of our students
+",968840,439,like,chatgpt,chatgpt,-3.4899937735721025
+88,"we also don't yet know whether applications like chatgpt are more likely to promote or restrict the critical thinking of our students
+","we also don't yet know whether applications like <mask> are more likely to promote or restrict the critical thinking of our students
+",968840,439,like,ChatGPT,chatgpt,-3.4899937735721025
+89,"observers now suspect that palm could abandon the use of palmos in the future and instead use windows mobile completely
+","observers now suspect that <mask> could abandon the use of <mask>os in the future and instead use windows mobile completely
+",766660,429,abandon,palm,palm,-1.9744301984128132
+90,"palm springs almost got it much earlier, as one may say in palm terms for a man of his literary stature
+","<mask> almost got it much earlier, as one may say in palm terms for a man of his literary stature
+",10674,429,get,palm,palm springs,7.389087638807692
+91,"palm springs almost got it much earlier, as one may say in palm terms for a man of his literary stature
+","palm springs almost got it much earlier, as one may say in <mask> for a man of his literary stature
+",10674,439,in,palm,palm terms,-2.723429650308537
+92,"fifth-generation computers to understand language independently and have their own artificial intelligence
+","fifth-generation computers to understand language independently and have <mask>
+",385304,416,have,Artificial intelligence,their own artificial intelligence,-2.1102739274035116
+93,"fifth-generation computers to understand language independently and have their own artificial intelligence
+","fifth-generation computers to understand language independently and have <mask>
+",385304,416,have,Artificial Intelligence,their own artificial intelligence,-2.1102739274035116
+94,"the title probably leads the inclined reader to suspect abysses in the work of the german section of ai
+","the title probably leads the inclined reader to suspect abysses in the work of the german section of <mask>
+",595898,439,of,AI,ai,0.8150945390984035
+95,"the title probably leads the inclined reader to suspect abysses in the work of the german section of ai
+","the title probably leads the inclined reader to suspect abysses in the work of the german section of <mask>
+",595898,439,of,AI,ai,0.8150945390984035
+96,"darktrace relies on artificial intelligence to solve the problem
+","darktrace relies on <mask> to solve the problem
+",154833,439,on,Artificial intelligence,artificial intelligence,-4.269117400399365
+97,"darktrace relies on artificial intelligence to solve the problem
+","darktrace relies on <mask> to solve the problem
+",154833,439,on,Artificial Intelligence,artificial intelligence,-4.269117400399365
+98,"why developers believe artificial intelligence will replace the app age
+","why developers believe <mask> will replace the app age
+",156214,429,replace,Artificial intelligence,artificial intelligence,-2.1038298845969816
+99,"why developers believe artificial intelligence will replace the app age
+","why developers believe <mask> will replace the app age
+",156214,429,replace,Artificial Intelligence,artificial intelligence,-2.1038298845969816
+100,"the chatbot should be capable of learning and know the previous preferences and habits of its users
+","<mask> should be capable of learning and know the previous preferences and habits of its users
+",238848,429,be,Chatbot,the chatbot,-8.74118025640873
+101,"the researchers hope that artificial intelligence will learn to trigger positive signals such as trust and warmth in humans - and thus motivate them to work together
+","the researchers hope that <mask> will learn to trigger positive signals such as trust and warmth in humans - and thus motivate them to work together
+",329989,429,learn,Artificial intelligence,artificial intelligence,-2.591490728743837
+102,"the researchers hope that artificial intelligence will learn to trigger positive signals such as trust and warmth in humans - and thus motivate them to work together
+","the researchers hope that <mask> will learn to trigger positive signals such as trust and warmth in humans - and thus motivate them to work together
+",329989,429,learn,Artificial Intelligence,artificial intelligence,-2.591490728743837
+103,"i don't even want to think about what artificial intelligence could make possible in this area
+","i don't even want to think about what <mask> could make possible in this area
+",573669,429,make,Artificial intelligence,artificial intelligence,0.16985020196260336
+104,"i don't even want to think about what artificial intelligence could make possible in this area
+","i don't even want to think about what <mask> could make possible in this area
+",573669,429,make,Artificial Intelligence,artificial intelligence,0.16985020196260336
+105,"racer martin kdér and his Copilot radek sladkovský who were involved in the crash feel fine according to youtuber denis fefko
+","racer martin kdér and <mask> sladkovský who were involved in the crash feel fine according to youtuber denis fefko
+",770272,410,kdér,Copilot,his copilot radek,-0.30843838380546273
+106,"soft robots that can feel objects computer algorithms to detect insider threats like edward snowden and artificial intelligence that can search large amounts of data
+","soft robots that can feel objects computer algorithms to detect insider threats like edward snowden and <mask> that can search large amounts of data
+",819737,410,snowden,Artificial intelligence,artificial intelligence,-3.165054821534948
+107,"soft robots that can feel objects computer algorithms to detect insider threats like edward snowden and artificial intelligence that can search large amounts of data
+","soft robots that can feel objects computer algorithms to detect insider threats like edward snowden and <mask> that can search large amounts of data
+",819737,410,snowden,Artificial Intelligence,artificial intelligence,-3.165054821534948
+108,"at the same time, konami is focussing on the game mechanics of first touch, which makes playing and receiving passes more realistic than ever, and an artificial intelligence that adapts to the user's playing style
+","at the same time, konami is focussing on the game mechanics of first touch, which makes playing and receiving passes more realistic than ever, and <mask> that adapts to the user's playing style
+",984686,416,focusse,Artificial intelligence,an artificial intelligence,-2.6722613205832886
+109,"at the same time, konami is focussing on the game mechanics of first touch, which makes playing and receiving passes more realistic than ever, and an artificial intelligence that adapts to the user's playing style
+","at the same time, konami is focussing on the game mechanics of first touch, which makes playing and receiving passes more realistic than ever, and <mask> that adapts to the user's playing style
+",984686,416,focusse,Artificial Intelligence,an artificial intelligence,-2.6722613205832886
+110,"next, the programme should take a philosophical look into the distance and solve the problems of mankind - not a problem for artificial intelligence or
+","next, the programme should take a philosophical look into the distance and solve the problems of mankind - not a problem for <mask> or
+",27898,439,for,Artificial intelligence,artificial intelligence,-0.47826915174579376
+111,"next, the programme should take a philosophical look into the distance and solve the problems of mankind - not a problem for artificial intelligence or
+","next, the programme should take a philosophical look into the distance and solve the problems of mankind - not a problem for <mask> or
+",27898,439,for,Artificial Intelligence,artificial intelligence,-0.47826915174579376
+112,"chatgpt can remember and refer to things you have asked before
+","<mask> can remember and refer to things you have asked before
+",137952,429,remember,chatgpt,chatgpt,2.1812056015624086
+113,"chatgpt can remember and refer to things you have asked before
+","<mask> can remember and refer to things you have asked before
+",137952,429,remember,ChatGPT,chatgpt,2.1812056015624086
+114,"dr han xiao founder and ceo of jina ai commented on being named to the ai 100 list ""we believe in two things firstly, neural search will replace traditional methods in the future and become the main method for understanding data
+","dr han xiao founder and ceo of jina ai commented on being named to <mask> ""we believe in two things firstly, neural search will replace traditional methods in the future and become the main method for understanding data
+",428658,439,to,AI,the ai 100 list,-1.7286278393155747
+115,"dr han xiao founder and ceo of jina ai commented on being named to the ai 100 list ""we believe in two things firstly, neural search will replace traditional methods in the future and become the main method for understanding data
+","dr han xiao founder and ceo of jina ai commented on being named to <mask> ""we believe in two things firstly, neural search will replace traditional methods in the future and become the main method for understanding data
+",428658,439,to,AI,the ai 100 list,-1.7286278393155747
+116,"in the business game phase, the fictitious company that has been founded has to assert itself against an artificial intelligence"" explains participant leo duck
+","in the business game phase, the fictitious company that has been founded has to assert itself against <mask>"" explains participant leo duck
+",618879,439,against,Artificial intelligence,an artificial intelligence,-3.033633317771214
+117,"in the business game phase, the fictitious company that has been founded has to assert itself against an artificial intelligence"" explains participant leo duck
+","in the business game phase, the fictitious company that has been founded has to assert itself against <mask>"" explains participant leo duck
+",618879,439,against,Artificial Intelligence,an artificial intelligence,-3.033633317771214
+118,"participants will have the opportunity to discover and understand the many ways in which artificial intelligence influences our lives through a rich and varied programme
+","participants will have the opportunity to discover and understand the many ways in which <mask> influences our lives through a rich and varied programme
+",847674,429,influence,Artificial intelligence,artificial intelligence,-1.3592894206798896
+119,"participants will have the opportunity to discover and understand the many ways in which artificial intelligence influences our lives through a rich and varied programme
+","participants will have the opportunity to discover and understand the many ways in which <mask> influences our lives through a rich and varied programme
+",847674,429,influence,Artificial Intelligence,artificial intelligence,-1.3592894206798896
+120,"while the Copilot was legitimately allowed to sleep, the pilot should have stayed awake at all costs for this very reason
+","while <mask> was legitimately allowed to sleep, the pilot should have stayed awake at all costs for this very reason
+",912422,430,allow,Copilot,the copilot,3.903302110884022
+121,"first he spoke of artificial intelligence ki a fundamental horizontal technology that will touch everyone in our lives
+","first he spoke of <mask> a fundamental horizontal technology that will touch everyone in our lives
+",990494,439,of,Artificial intelligence,artificial intelligence ki,-1.3601433956266007
+122,"first he spoke of artificial intelligence ki a fundamental horizontal technology that will touch everyone in our lives
+","first he spoke of <mask> a fundamental horizontal technology that will touch everyone in our lives
+",990494,439,of,Artificial Intelligence,artificial intelligence ki,-1.3601433956266007
+123,"to worry that germany might make similar mistakes with china as it did with russia, ai weiwei said that only history can judge that today practically nobody can say that
+","to worry that germany might make similar mistakes with china as it did with russia, <mask> said that only history can judge that today practically nobody can say that
+",993901,429,say,AI,ai weiwei,4.194597110601466
+124,"to worry that germany might make similar mistakes with china as it did with russia, ai weiwei said that only history can judge that today practically nobody can say that
+","to worry that germany might make similar mistakes with china as it did with russia, <mask> said that only history can judge that today practically nobody can say that
+",993901,429,say,AI,ai weiwei,4.194597110601466
+125,luc steels is taking an unusual path in the field of artificial intelligence ki -,luc steels is taking an unusual path in the field of <mask> -,353917,439,of,Artificial intelligence,artificial intelligence ki,-2.6049441106906777
+126,luc steels is taking an unusual path in the field of artificial intelligence ki -,luc steels is taking an unusual path in the field of <mask> -,353917,439,of,Artificial Intelligence,artificial intelligence ki,-2.6049441106906777
+127,"between experiencing loss and wanting to understand, he begins to reassure himself of their shared history and encounters not friendship but deceit and instead of the lightness of the summers in palm beach, the pain of love betrayal
+","between experiencing loss and wanting to understand, he begins to reassure himself of their shared history and encounters not friendship but deceit and instead of the lightness of the summers in <mask>, the pain of love betrayal
+",426596,439,in,palm,palm beach,-2.249175342279239
+128,"palm and his interview partners remind us of the idea that the image carries much more information, even hidden information that points to the future that the viewer does not yet know and will only recognise retrospectively","<mask> and his interview partners remind us of the idea that the image carries much more information, even hidden information that points to the future that the viewer does not yet know and will only recognise retrospectively",459288,429,remind,palm,palm,6.314692894566383
+129,Copilot von zitzewitz in a vw guides his partner through unknown territory spiegel online,<mask> in a vw guides his partner through unknown territory spiegel online,246339,429,guide,Copilot,copilot von zitzewitz,5.320572543698673
+130,"the palm pre also allows you to create a palm profile when you first set it up, which you can then use to receive wireless updates and send the delete command remotely
+","<mask> also allows you to create a palm profile when you first set it up, which you can then use to receive wireless updates and send the delete command remotely
+",949760,429,allow,palm,the palm pre,-6.605733343504607
+131,"the palm pre also allows you to create a palm profile when you first set it up, which you can then use to receive wireless updates and send the delete command remotely
+","the palm pre also allows you to create <mask> when you first set it up, which you can then use to receive wireless updates and send the delete command remotely
+",949760,416,create,palm,a palm profile,-6.013416881959769
+132,"apple is aware that some third parties claim that their media players can be synchronised with apple's software,"" the statement said, referring to palm.
+","apple is aware that some third parties claim that their media players can be synchronised with apple's software,"" the statement said, referring to <mask>.
+",988430,439,to,palm,palm,-2.5012067520596855
+133,"before mrs müller can even take the call, the artificial intelligence artificial intelligence ki in the contact centre has already recognised that the caller mr w from bad wiessee must have a problem with his new tv set
+","before mrs müller can even take the call, <mask> in the contact centre has already recognised that the caller mr w from bad wiessee must have a problem with his new tv set
+",115184,429,recognise,Artificial intelligence,the artificial intelligence artificial intelligence ki,2.50707190690445
+134,"before mrs müller can even take the call, the artificial intelligence artificial intelligence ki in the contact centre has already recognised that the caller mr w from bad wiessee must have a problem with his new tv set
+","before mrs müller can even take the call, <mask> in the contact centre has already recognised that the caller mr w from bad wiessee must have a problem with his new tv set
+",115184,429,recognise,Artificial Intelligence,the artificial intelligence artificial intelligence ki,2.50707190690445
+135,"we therefore explore the question of how trust in artificial intelligence and invisible digital systems can emerge
+","we therefore explore the question of how trust in <mask> and invisible digital systems can emerge
+",142771,439,in,Artificial intelligence,artificial intelligence,-0.7602909610727195
+136,"we therefore explore the question of how trust in artificial intelligence and invisible digital systems can emerge
+","we therefore explore the question of how trust in <mask> and invisible digital systems can emerge
+",142771,439,in,Artificial Intelligence,artificial intelligence,-0.7602909610727195
+137,"the authors believe that 5g and the internet of things analytics and artificial intelligence as well as so-called asaservice business models will help the german tech industry to achieve more success and further growth
+","the authors believe that 5g and the internet of things analytics and <mask> as well as so-called asaservice business models will help the german tech industry to achieve more success and further growth
+",302070,410,analytic,Artificial intelligence,artificial intelligence,-2.8419468179849154
+138,"the authors believe that 5g and the internet of things analytics and artificial intelligence as well as so-called asaservice business models will help the german tech industry to achieve more success and further growth
+","the authors believe that 5g and the internet of things analytics and <mask> as well as so-called asaservice business models will help the german tech industry to achieve more success and further growth
+",302070,410,analytic,Artificial Intelligence,artificial intelligence,-2.8419468179849154
+139,"a chatbot like novi can tell you whether a topic is interesting or not
+","<mask> like novi can tell you whether a topic is interesting or not
+",436268,429,tell,Chatbot,a chatbot,-1.9352203956700844
+140,"to what extent do german consumers trust new technologies such as artificial intelligence internet of things iot or blockchain when it comes to their health
+","to what extent do german consumers trust new technologies such as <mask> of things iot or blockchain when it comes to their health
+",634122,439,as,Artificial intelligence,artificial intelligence internet,-1.390174767104888
+141,"to what extent do german consumers trust new technologies such as artificial intelligence internet of things iot or blockchain when it comes to their health
+","to what extent do german consumers trust new technologies such as <mask> of things iot or blockchain when it comes to their health
+",634122,439,as,Artificial Intelligence,artificial intelligence internet,-1.390174767104888
+142,"ultimately, it can be said that there is no real artificial intelligence today - especially not one that can be used for various problem areas just like that
+","ultimately, it can be said that there is <mask> today - especially not one that can be used for various problem areas just like that
+",673408,404,be,Artificial intelligence,no real artificial intelligence,1.8456866661919271
+143,"ultimately, it can be said that there is no real artificial intelligence today - especially not one that can be used for various problem areas just like that
+","ultimately, it can be said that there is <mask> today - especially not one that can be used for various problem areas just like that
+",673408,404,be,Artificial Intelligence,no real artificial intelligence,1.8456866661919271
+144,"now she was beaten in round two by ai sugiyama from japan who, as steffi graf recalled, didn't put a ball in play in their last duel 46 61 57 the former world number one was crushed
+","now she was beaten in round two by <mask> from japan who, as steffi graf recalled, didn't put a ball in play in their last duel 46 61 57 the former world number one was crushed
+",339812,439,by,AI,ai sugiyama,1.2701398471780667
+145,"now she was beaten in round two by ai sugiyama from japan who, as steffi graf recalled, didn't put a ball in play in their last duel 46 61 57 the former world number one was crushed
+","now she was beaten in round two by <mask> from japan who, as steffi graf recalled, didn't put a ball in play in their last duel 46 61 57 the former world number one was crushed
+",339812,439,by,AI,ai sugiyama,1.2701398471780667
+146,"but artificial intelligence is still too stupid to understand coded gangster language
+","but <mask> is still too stupid to understand coded gangster language
+",983252,429,be,Artificial intelligence,artificial intelligence,2.27504957266396
+147,"but artificial intelligence is still too stupid to understand coded gangster language
+","but <mask> is still too stupid to understand coded gangster language
+",983252,429,be,Artificial Intelligence,artificial intelligence,2.27504957266396
+148,"you strap on your goggles and become zula hendricks, an ex-marine who wants to uncover the secret experiments of gemini exoplanet solutions
+","you strap on your goggles and become zula hendricks, an ex-marine who wants to uncover the secret experiments of <mask>
+",5861,439,of,Gemini,gemini exoplanet solutions,-0.6074026514518049
+149,"in conclusion, wolfgang ertel presents the topic of artificial intelligence comprehensively on over 300 pages and explains the sub-disciplines that are important today
+","in conclusion, wolfgang ertel presents the topic of <mask> comprehensively on over 300 pages and explains the sub-disciplines that are important today
+",224393,439,of,Artificial intelligence,artificial intelligence,-2.875198563031521
+150,"in conclusion, wolfgang ertel presents the topic of artificial intelligence comprehensively on over 300 pages and explains the sub-disciplines that are important today
+","in conclusion, wolfgang ertel presents the topic of <mask> comprehensively on over 300 pages and explains the sub-disciplines that are important today
+",224393,439,of,Artificial Intelligence,artificial intelligence,-2.875198563031521
+151,"let's call these rumours what they are lies bloomberg said on friday local time at a meeting with the jewish federation of south palm beach in the state of florida
+","let's call these rumours what they are lies bloomberg said on friday local time at a meeting with the jewish federation of <mask> in the state of florida
+",230340,439,of,palm,south palm beach,-2.7595872560795875
+152,"but we don't know yet whether we can solve the problem, the Copilot said
+","but we don't know yet whether we can solve the problem, <mask> said
+",587544,429,say,Copilot,the copilot,4.782979167750916
+153,"this is why there have already been more than 250 takeovers of private companies with expertise in the artificial intelligence sector since 2012, the consultants say
+","this is why there have already been more than 250 takeovers of private companies with expertise in <mask> since 2012, the consultants say
+",140162,439,in,Artificial intelligence,the artificial intelligence sector,-3.632793424582262
+154,"this is why there have already been more than 250 takeovers of private companies with expertise in the artificial intelligence sector since 2012, the consultants say
+","this is why there have already been more than 250 takeovers of private companies with expertise in <mask> since 2012, the consultants say
+",140162,439,in,Artificial Intelligence,the artificial intelligence sector,-3.632793424582262
+155,"the electric car and artificial intelligence have one thing in common the introduction of new technologies takes time and cannot be conjured up or implemented overnight
+","the electric car and <mask> have one thing in common the introduction of new technologies takes time and cannot be conjured up or implemented overnight
+",165213,410,car,Artificial intelligence,artificial intelligence,-0.04311340187141255
+156,"the electric car and artificial intelligence have one thing in common the introduction of new technologies takes time and cannot be conjured up or implemented overnight
+","the electric car and <mask> have one thing in common the introduction of new technologies takes time and cannot be conjured up or implemented overnight
+",165213,410,car,Artificial Intelligence,artificial intelligence,-0.04311340187141255
+157,"narrow AI can solve a very specific task and perform better than a human because the software is more efficient and persistent, for example in recognising images in board games or predicting the weather
+","<mask> can solve a very specific task and perform better than a human because the software is more efficient and persistent, for example in recognising images in board games or predicting the weather
+",453989,429,solve,AI,narrow ai,-6.14670599609441
+158,"narrow AI can solve a very specific task and perform better than a human because the software is more efficient and persistent, for example in recognising images in board games or predicting the weather
+","<mask> can solve a very specific task and perform better than a human because the software is more efficient and persistent, for example in recognising images in board games or predicting the weather
+",453989,429,solve,AI,narrow ai,-6.14670599609441
+159,"he finds it irresponsible to think that artificial intelligence should one day take care of people in need of care
+","he finds it irresponsible to think that <mask> should one day take care of people in need of care
+",457875,429,take,Artificial intelligence,artificial intelligence,4.762769897869035
+160,"he finds it irresponsible to think that artificial intelligence should one day take care of people in need of care
+","he finds it irresponsible to think that <mask> should one day take care of people in need of care
+",457875,429,take,Artificial Intelligence,artificial intelligence,4.762769897869035
+161,"according to google, artificial intelligence is also behind functions such as ""automatic reminders"" that draw attention to messages that may have been overlooked and suggest that they be processed
+","according to google, <mask> is also behind functions such as ""automatic reminders"" that draw attention to messages that may have been overlooked and suggest that they be processed
+",659211,429,be,Artificial intelligence,artificial intelligence,-3.7833418571581436
+162,"according to google, artificial intelligence is also behind functions such as ""automatic reminders"" that draw attention to messages that may have been overlooked and suggest that they be processed
+","according to google, <mask> is also behind functions such as ""automatic reminders"" that draw attention to messages that may have been overlooked and suggest that they be processed
+",659211,429,be,Artificial Intelligence,artificial intelligence,-3.7833418571581436
+163,"software development big data data security artificial intelligence cloud computing - these are buzz words in the world of work 40 that also describe the fields in which it experts are needed
+","software development <mask> - these are buzz words in the world of work 40 that also describe the fields in which it experts are needed
+",821458,403,development,Artificial intelligence,big data data security artificial intelligence cloud computing,-2.972442095573438
+164,"software development big data data security artificial intelligence cloud computing - these are buzz words in the world of work 40 that also describe the fields in which it experts are needed
+","software development <mask> - these are buzz words in the world of work 40 that also describe the fields in which it experts are needed
+",821458,403,development,Artificial Intelligence,big data data security artificial intelligence cloud computing,-2.972442095573438
+165,"since he wanted to recommend himself to german intellectuals as a friend of literature after the devastating impression the shooting of the publisher palm had made, it is of course not certain whether his compliment can be taken at face value
+","since he wanted to recommend himself to german intellectuals as a friend of literature after the devastating impression the shooting of <mask> had made, it is of course not certain whether his compliment can be taken at face value
+",337544,439,of,palm,the publisher palm,0.08827948518756124
+166,"the artificial intelligence lab at the mit in boston, however, is already experimenting with a robot called kismet whose big eyes and bulging lips resemble those of a baby
+","<mask> at the mit in boston, however, is already experimenting with a robot called kismet whose big eyes and bulging lips resemble those of a baby
+",576473,429,experiment,Artificial intelligence,the artificial intelligence lab,2.6913982126607605
+167,"the artificial intelligence lab at the mit in boston, however, is already experimenting with a robot called kismet whose big eyes and bulging lips resemble those of a baby
+","<mask> at the mit in boston, however, is already experimenting with a robot called kismet whose big eyes and bulging lips resemble those of a baby
+",576473,429,experiment,Artificial Intelligence,the artificial intelligence lab,2.6913982126607605
+168,"artificial intelligence to which thinking could be delegated in good conscience in the future
+","<mask> to which thinking could be delegated in good conscience in the future
+",911527,8206900633647566924,intelligence,Artificial intelligence,artificial intelligence,0.8783180732021627
+169,"artificial intelligence to which thinking could be delegated in good conscience in the future
+","<mask> to which thinking could be delegated in good conscience in the future
+",911527,8206900633647566924,intelligence,Artificial Intelligence,artificial intelligence,0.8783180732021627
+170,"and in action cinema, too, there's a chance to fly fast again in the rather rough-and-ready thriller stealth, which opens this week and pits a team of pithy pilots against the artificial intelligence of an automatic fighter-bomber control system
+","and in action cinema, too, there's a chance to fly fast again in the rather rough-and-ready thriller stealth, which opens this week and pits a team of pithy pilots against <mask> of an automatic fighter-bomber control system
+",752686,439,against,Artificial intelligence,the artificial intelligence,-1.6229553429115704
+171,"and in action cinema, too, there's a chance to fly fast again in the rather rough-and-ready thriller stealth, which opens this week and pits a team of pithy pilots against the artificial intelligence of an automatic fighter-bomber control system
+","and in action cinema, too, there's a chance to fly fast again in the rather rough-and-ready thriller stealth, which opens this week and pits a team of pithy pilots against <mask> of an automatic fighter-bomber control system
+",752686,439,against,Artificial Intelligence,the artificial intelligence,-1.6229553429115704
+172,"with the help of artificial intelligence ki, the system was able to understand spoken questions and filter out the right answers from vast amounts of data
+","with the help of <mask>, the system was able to understand spoken questions and filter out the right answers from vast amounts of data
+",203674,439,of,Artificial intelligence,artificial intelligence ki,-4.407986770097441
+173,"with the help of artificial intelligence ki, the system was able to understand spoken questions and filter out the right answers from vast amounts of data
+","with the help of <mask>, the system was able to understand spoken questions and filter out the right answers from vast amounts of data
+",203674,439,of,Artificial Intelligence,artificial intelligence ki,-4.407986770097441
+174,"""take ongoing measures"" the fact that there are still not enough beds in traiskirchen people have to sleep outside at 13 degrees is described by ai as a catastrophe
+","""take ongoing measures"" the fact that there are still not enough beds in tr<mask>skirchen people have to sleep outside at 13 degrees is described by <mask> as a catastrophe
+",438466,439,by,AI,ai,-3.3729982743330282
+175,"""take ongoing measures"" the fact that there are still not enough beds in traiskirchen people have to sleep outside at 13 degrees is described by ai as a catastrophe
+","""take ongoing measures"" the fact that there are still not enough beds in tr<mask>skirchen people have to sleep outside at 13 degrees is described by <mask> as a catastrophe
+",438466,439,by,AI,ai,-3.3729982743330282
+176,"artificial intelligence is the attempt to build machines that think like humans
+","<mask> is the attempt to build machines that think like humans
+",628692,429,be,Artificial intelligence,artificial intelligence,-5.218577749240389
+177,"artificial intelligence is the attempt to build machines that think like humans
+","<mask> is the attempt to build machines that think like humans
+",628692,429,be,Artificial Intelligence,artificial intelligence,-5.218577749240389
+178,"you can also put it like dieter karg, who is responsible for iran at ai the head of state was able to push through the relaxation of foreign policy because he left domestic policy to the hardliners
+","you can also put it like dieter karg, who is responsible for iran at <mask> the head of state was able to push through the relaxation of foreign policy because he left domestic policy to the hardliners
+",645828,439,at,AI,ai,2.9961144440145695
+179,"you can also put it like dieter karg, who is responsible for iran at ai the head of state was able to push through the relaxation of foreign policy because he left domestic policy to the hardliners
+","you can also put it like dieter karg, who is responsible for iran at <mask> the head of state was able to push through the relaxation of foreign policy because he left domestic policy to the hardliners
+",645828,439,at,AI,ai,2.9961144440145695
+180,"one could say that the Copilot pressed the button for the descent intentionally
+","one could say that <mask> pressed the button for the descent intentionally
+",646403,429,press,Copilot,the copilot,3.198862836554385
+181,"mr pfeffer you write in your book human thinking and artificial intelligence we are determined by algorithms
+","mr pfeffer you write in your book human thinking and <mask> we are determined by algorithms
+",563078,410,thinking,Artificial intelligence,artificial intelligence,-2.0755602267173074
+182,"mr pfeffer you write in your book human thinking and artificial intelligence we are determined by algorithms
+","mr pfeffer you write in your book human thinking and <mask> we are determined by algorithms
+",563078,410,thinking,Artificial Intelligence,artificial intelligence,-2.0755602267173074
+183,"maik with ai jens and maik are just getting to know each other
+","maik with <mask> and maik are just getting to know each other
+",684908,439,with,AI,ai jens,1.0162834272774823
+184,"maik with ai jens and maik are just getting to know each other
+","maik with <mask> and maik are just getting to know each other
+",684908,439,with,AI,ai jens,1.0162834272774823
+185,"this makes a lot of sense, says georg fongern from the cockpit association and himself a long-haul pilot, because on long flights with only two pilots, pilot and Copilot often fall asleep at the same time
+","this makes a lot of sense, says georg fongern from the cockpit association and himself a long-haul pilot, because on long flights with only two pilots, pilot and <mask> often fall asleep at the same time
+",93315,410,pilot,Copilot,copilot,1.4484413883689733
+186,"examples given by the conference organisers include neural network computers advising politicians artificial intelligence and human thinking
+","examples given by the conference organisers include neural network computers advising <mask> and human thinking
+",436825,416,advise,Artificial intelligence,politicians artificial intelligence,-1.6097712136378473
+187,"examples given by the conference organisers include neural network computers advising politicians artificial intelligence and human thinking
+","examples given by the conference organisers include neural network computers advising <mask> and human thinking
+",436825,416,advise,Artificial Intelligence,politicians artificial intelligence,-1.6097712136378473
+188,"there are also comprehensive reference works for spelling, grammar and punctuation, not to mention the artificial intelligence ki
+","there are also comprehensive reference works for spelling, grammar and punctuation, not to mention <mask>
+",62095,416,mention,Artificial intelligence,the artificial intelligence ki,-1.6441565436626924
+189,"there are also comprehensive reference works for spelling, grammar and punctuation, not to mention the artificial intelligence ki
+","there are also comprehensive reference works for spelling, grammar and punctuation, not to mention <mask>
+",62095,416,mention,Artificial Intelligence,the artificial intelligence ki,-1.6441565436626924
+190,"the railway subsidiary sbahn hamburg is hoping that its ""db lightgate"" system, which now uses artificial intelligence, will catch on in germany
+","the railway subsidiary sbahn hamburg is hoping that its ""db lightgate"" system, which now uses <mask>, will catch on in germany
+",95204,416,use,Artificial intelligence,artificial intelligence,-3.129974341765964
+191,"the railway subsidiary sbahn hamburg is hoping that its ""db lightgate"" system, which now uses artificial intelligence, will catch on in germany
+","the railway subsidiary sbahn hamburg is hoping that its ""db lightgate"" system, which now uses <mask>, will catch on in germany
+",95204,416,use,Artificial Intelligence,artificial intelligence,-3.129974341765964
+192,"both are language models that are based on the well-known transformer architecture and should be able to understand the context between words bidirectionally, which google already used in search back then
+","both are <mask> that are based on the well-known transformer architecture and should be able to understand the context between words bidirectionally, which google already used in search back then
+",97817,404,be,Language models,language models,-4.724557155983224
+193,"you will get to know important services such as chatgpt midjourney perplexity gemini or claude and learn how to adapt and optimise the results in a targeted manner
+","you will get to know important services such as <mask> or claude and learn how to adapt and optimise the results in a targeted manner
+",134323,439,as,chatgpt,chatgpt midjourney perplexity gemini,-1.9706747924123444
+194,"you will get to know important services such as chatgpt midjourney perplexity gemini or claude and learn how to adapt and optimise the results in a targeted manner
+","you will get to know important services such as <mask> or claude and learn how to adapt and optimise the results in a targeted manner
+",134323,439,as,ChatGPT,chatgpt midjourney perplexity gemini,-1.9706747924123444
+195,"you will get to know important services such as chatgpt midjourney perplexity gemini or claude and learn how to adapt and optimise the results in a targeted manner
+","you will get to know important services such as <mask> or claude and learn how to adapt and optimise the results in a targeted manner
+",134323,439,as,Gemini,chatgpt midjourney perplexity gemini,-1.9706747924123444
+196,"this, in turn, led to a phenomenon long known to customer developers, but which has probably passed elon musk by without a trace the users tried to elicit ever more extreme statements from the chatbot
+","this, in turn, led to a phenomenon long known to customer developers, but which has probably passed elon musk by without a trace the users tried to elicit ever more extreme statements from <mask>
+",205487,439,from,Chatbot,the chatbot,0.27662106245865914
+197,"because of course current language models do not feel emotions even if the definition of consciousness is vague and researchers recognise signs of it
+","because of course <mask> do not feel emotions even if the definition of consciousness is vague and researchers recognise signs of it
+",221845,429,feel,Language models,current language models,0.0497363330852707
+198,"the ai act is currently pursuing the goal of strengthening trust in ki applications that cannot do without training data
+","<mask> is currently pursuing the goal of strengthening trust in ki applications that cannot do without training data
+",229851,429,pursue,AI,the ai act,-1.0794259129898829
+199,"the ai act is currently pursuing the goal of strengthening trust in ki applications that cannot do without training data
+","<mask> is currently pursuing the goal of strengthening trust in ki applications that cannot do without training data
+",229851,429,pursue,AI,the ai act,-1.0794259129898829
+200,"they even have a chatbot integrated here that answers my questions about my mails
+","they even have <mask> integrated here that answers my questions about my mails
+",328423,416,have,Chatbot,a chatbot,-4.580663246910575
+201,"the volume of the two fans in the minisforum ai x1 pro cannot be described as quiet, but as moderate
+","the volume of the two fans in the minisforum <mask> cannot be described as quiet, but as moderate
+",340489,403,volume,AI,ai x1 pro,-2.914516655173445
+202,"the volume of the two fans in the minisforum ai x1 pro cannot be described as quiet, but as moderate
+","the volume of the two fans in the minisforum <mask> cannot be described as quiet, but as moderate
+",340489,403,volume,AI,ai x1 pro,-2.914516655173445
+203,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of <mask> (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+",359900,439,of,Artificial intelligence,artificial intelligence,-6.308594776188016
+204,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of <mask> (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+",359900,439,of,Artificial Intelligence,artificial intelligence,-6.308594776188016
+205,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of artificial intelligence (<mask>) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in <mask>, according to the federal government
+",359900,403,intelligence,AI,ai,-3.9181586151450816
+206,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of artificial intelligence (<mask>) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in <mask>, according to the federal government
+",359900,403,intelligence,AI,ai,-3.9181586151450816
+207,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of artificial intelligence (<mask>) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in <mask>, according to the federal government
+",359900,439,in,AI,ai,-3.9181586151450816
+208,"regulation in the field of artificial intelligence (AI) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in AI, according to the federal government
+","regulation in the field of artificial intelligence (<mask>) is intended to strengthen switzerland as a centre of innovation protect fundamental rights, including economic freedom, and strengthen the population's trust in <mask>, according to the federal government
+",359900,439,in,AI,ai,-3.9181586151450816
+209,"the future of art artificial intelligence and creativity the female influence on creativity the link between sleep and creativity why do we dream
+","the future of <mask> and creativity the female influence on creativity the link between sleep and creativity why do we dream
+",402887,439,of,Artificial intelligence,art artificial intelligence,-2.6032090505618157
+210,"the future of art artificial intelligence and creativity the female influence on creativity the link between sleep and creativity why do we dream
+","the future of <mask> and creativity the female influence on creativity the link between sleep and creativity why do we dream
+",402887,439,of,Artificial Intelligence,art artificial intelligence,-2.6032090505618157
+211,"the cooperation with open ai suggests that automation will be expanded in the future
+","the cooperation with <mask> suggests that automation will be expanded in the future
+",403195,439,with,AI,open ai,1.0798704732329671
+212,"the cooperation with open ai suggests that automation will be expanded in the future
+","the cooperation with <mask> suggests that automation will be expanded in the future
+",403195,439,with,AI,open ai,1.0798704732329671
+213,"the artificial intelligence should actually solve a simple task draw a map of the district of bad tölzwolfratshausen
+","<mask> should actually solve a simple task draw a map of the district of bad tölzwolfratshausen
+",428386,429,solve,Artificial intelligence,the artificial intelligence,-0.4455301292890974
+214,"the artificial intelligence should actually solve a simple task draw a map of the district of bad tölzwolfratshausen
+","<mask> should actually solve a simple task draw a map of the district of bad tölzwolfratshausen
+",428386,429,solve,Artificial Intelligence,the artificial intelligence,-0.4455301292890974
+215,"a real gamechanger you take a screenshot - for example of a software problem - and chatgpt can tell you what you see, what the error could be or what to do
+","a real gamechanger you take a screenshot - for example of a software problem - and <mask> can tell you what you see, what the error could be or what to do
+",435881,429,tell,chatgpt,chatgpt,-1.6097312271432074
+216,"a real gamechanger you take a screenshot - for example of a software problem - and chatgpt can tell you what you see, what the error could be or what to do
+","a real gamechanger you take a screenshot - for example of a software problem - and <mask> can tell you what you see, what the error could be or what to do
+",435881,429,tell,ChatGPT,chatgpt,-1.6097312271432074
+217,"the question is whether metas free downloadable llms are suitable for outsourcing our thinking to
+","the question is whether <mask> are suitable for outsourcing our thinking to
+",491346,429,be,llms,metas free downloadable llms,-2.6863905223654214
+218,"do you feel supported by your company in the use of artificial intelligence ki in your work
+","do you feel supported by your company in the use of <mask> in your work
+",521211,439,of,Artificial intelligence,artificial intelligence ki,-5.595852983490941
+219,"do you feel supported by your company in the use of artificial intelligence ki in your work
+","do you feel supported by your company in the use of <mask> in your work
+",521211,439,of,Artificial Intelligence,artificial intelligence ki,-5.595852983490941
+220,"at the same time, being named as a source within the ai overviews creates a new form of position 0 that can bring enormous trust and qualified traffic
+","at the same time, being named as a source within <mask> creates a new form of position 0 that can bring enormous trust and qualified traffic
+",548473,439,within,AI,the ai overviews,-2.2100755695817327
+221,"at the same time, being named as a source within the ai overviews creates a new form of position 0 that can bring enormous trust and qualified traffic
+","at the same time, being named as a source within <mask> creates a new form of position 0 that can bring enormous trust and qualified traffic
+",548473,439,within,AI,the ai overviews,-2.2100755695817327
+222,"in the meantime, some language models can already solve textbook problems at doctoral level
+","in the meantime, <mask> can already solve textbook problems at doctoral level
+",638837,429,solve,Language models,some language models,0.6900380459059132
+223,"can artificial intelligence solve the traffic jam problem on the a10 motorway in salzburg
+","can <mask> solve the traffic jam problem on the a10 motorway in salzburg
+",652993,429,solve,Artificial intelligence,artificial intelligence,-1.5473599791140682
+224,"can artificial intelligence solve the traffic jam problem on the a10 motorway in salzburg
+","can <mask> solve the traffic jam problem on the a10 motorway in salzburg
+",652993,429,solve,Artificial Intelligence,artificial intelligence,-1.5473599791140682
+225,"ki in the denclabyrinth this ancient maths puzzle throws chatgpt off its stride researchers at the university of cambridge have let chatgpt solve a 2400-year-old maths puzzle
+","ki in the denclabyrinth this ancient maths puzzle throws <mask> off its stride researchers at the university of cambridge have let <mask> solve a 2400-year-old maths puzzle
+",657373,416,throw,chatgpt,chatgpt,-2.473349823580092
+226,"ki in the denclabyrinth this ancient maths puzzle throws chatgpt off its stride researchers at the university of cambridge have let chatgpt solve a 2400-year-old maths puzzle
+","ki in the denclabyrinth this ancient maths puzzle throws <mask> off its stride researchers at the university of cambridge have let <mask> solve a 2400-year-old maths puzzle
+",657373,416,throw,ChatGPT,chatgpt,-2.473349823580092
+227,"ki in the denclabyrinth this ancient maths puzzle throws chatgpt off its stride researchers at the university of cambridge have let chatgpt solve a 2400-year-old maths puzzle
+","ki in the denclabyrinth this ancient maths puzzle throws <mask> off its stride researchers at the university of cambridge have let <mask> solve a 2400-year-old maths puzzle
+",657373,429,solve,chatgpt,chatgpt,-2.473349823580092
+228,"ki in the denclabyrinth this ancient maths puzzle throws chatgpt off its stride researchers at the university of cambridge have let chatgpt solve a 2400-year-old maths puzzle
+","ki in the denclabyrinth this ancient maths puzzle throws <mask> off its stride researchers at the university of cambridge have let <mask> solve a 2400-year-old maths puzzle
+",657373,429,solve,ChatGPT,chatgpt,-2.473349823580092
+229,"artificial intelligence can help holidaymakers not to forget anything
+","<mask> can help holidaymakers not to forget anything
+",665804,429,help,Artificial intelligence,artificial intelligence,-2.17747925904776
+230,"artificial intelligence can help holidaymakers not to forget anything
+","<mask> can help holidaymakers not to forget anything
+",665804,429,help,Artificial Intelligence,artificial intelligence,-2.17747925904776
+231,"""you can't be so naive as to believe that artificial intelligence in video surveillance would only be used for security purposes
+","""you can't be so naive as to believe that <mask> in video surveillance would only be used for security purposes
+",684676,430,use,Artificial intelligence,artificial intelligence,-2.2223840976669678
+232,"""you can't be so naive as to believe that artificial intelligence in video surveillance would only be used for security purposes
+","""you can't be so naive as to believe that <mask> in video surveillance would only be used for security purposes
+",684676,430,use,Artificial Intelligence,artificial intelligence,-2.2223840976669678
+233,"with ios 182, apple added chatgpt to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for a gemini integration
+","with ios 182<mask> to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for a gemini integration
+",708124,429,claim,chatgpt,", apple added chatgpt",-4.378428977876492
+234,"with ios 182, apple added chatgpt to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for a gemini integration
+","with ios 182<mask> to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for a gemini integration
+",708124,429,claim,ChatGPT,", apple added chatgpt",-4.378428977876492
+235,"with ios 182, apple added chatgpt to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for a gemini integration
+","with ios 182, apple added chatgpt to apple intelligence last year and persistent rumours claim that apple is in talks with perplexity and google for <mask>
+",708124,439,for,Gemini,a gemini integration,-5.630449308177225
+236,"in addition to mico, the update introduced features such as - a mode in which copilot respectfully questions user assumptions to encourage critical thinking
+","in addition to mico, the update introduced features such as - a mode in which <mask> respectfully questions user assumptions to encourage critical thinking
+",735050,438,in,Copilot,copilot,-2.0692270458930864
+237,"openaichef sam altman has publicly commented on chatgpt in a podcast and warns users not to trust the kichatbot too much
+","openaichef sam altman has publicly commented on <mask> in a podcast and warns users not to trust the kichatbot too much
+",760972,439,on,chatgpt,chatgpt,-5.210258142879466
+238,"openaichef sam altman has publicly commented on chatgpt in a podcast and warns users not to trust the kichatbot too much
+","openaichef sam altman has publicly commented on <mask> in a podcast and warns users not to trust the kichatbot too much
+",760972,439,on,ChatGPT,chatgpt,-5.210258142879466
+239,"visually I would say the Gemini quiz app had the edge
+","visually I would say <mask> had the edge
+",761246,429,have,Gemini,the gemini quiz app,2.1966520706668895
+240,"Gemini, for example, can not only understand speech but also handle images, screenshots, websites and documents
+","<mask>, for example, can not only understand speech but also handle images, screenshots, websites and documents
+",825563,429,understand,Gemini,gemini,-2.792717304381621
+241,"studies have shown that the way chatgpt responds to questions is already changing the language and thus the way users think
+","studies have shown that the way <mask> responds to questions is already changing the language and thus the way users think
+",842408,429,respond,chatgpt,chatgpt,-2.5221942536915716
+242,"studies have shown that the way chatgpt responds to questions is already changing the language and thus the way users think
+","studies have shown that the way <mask> responds to questions is already changing the language and thus the way users think
+",842408,429,respond,ChatGPT,chatgpt,-2.5221942536915716
+243,"in addition, google gemini live can also be used directly via the cover display - so questions can be asked and answers received without having to open the device
+","in addition, <mask> can also be used directly via the cover display - so questions can be asked and answers received without having to open the device
+",858177,430,use,Gemini,google gemini live,-5.8640326016699245
+244,"kitools like chatgpt do the thinking
+","kitools like <mask> do the thinking
+",859028,439,like,chatgpt,chatgpt,-1.1199725251413284
+245,"kitools like chatgpt do the thinking
+","kitools like <mask> do the thinking
+",859028,439,like,ChatGPT,chatgpt,-1.1199725251413284
+246,"by the way a quick question for you i would like to test how well llms can understand unknown code for you
+","by the way a quick question for you i would like to test how well <mask> can understand unknown code for you
+",859900,429,understand,llms,llms,-0.5763654001822314
+247,"to counteract the it skills shortage, one in twelve companies - eight per cent - is increasingly using artificial intelligence according to bitkom, it is not yet possible to say what impact ki will ultimately have on the it labour market
+","to counteract the it skills shortage, one in twelve companies - eight per cent - is increasingly using <mask> according to bitkom, it is not yet possible to say what impact ki will ultimately have on the it labour market
+",861330,416,use,Artificial intelligence,artificial intelligence,-3.498767662315446
+248,"to counteract the it skills shortage, one in twelve companies - eight per cent - is increasingly using artificial intelligence according to bitkom, it is not yet possible to say what impact ki will ultimately have on the it labour market
+","to counteract the it skills shortage, one in twelve companies - eight per cent - is increasingly using <mask> according to bitkom, it is not yet possible to say what impact ki will ultimately have on the it labour market
+",861330,416,use,Artificial Intelligence,artificial intelligence,-3.498767662315446
+249,"those who have the courage to rethink their own value creation in the future will also be able to successfully realise new business with ai
+","those who have the courage to rethink their own value creation in the future will also be able to successfully realise new business with <mask>
+",946826,439,with,AI,ai,-2.9455234380466973
+250,"those who have the courage to rethink their own value creation in the future will also be able to successfully realise new business with ai
+","those who have the courage to rethink their own value creation in the future will also be able to successfully realise new business with <mask>
+",946826,439,with,AI,ai,-2.9455234380466973
+251,"again there are more and more voices, especially from the usa, who believe they know that artificial intelligence will soon be smarter than humans
+","again there are more and more voices, especially from the usa, who believe they know that <mask> will soon be smarter than humans
+",949846,429,be,Artificial intelligence,artificial intelligence,-1.8201945751499178
+252,"again there are more and more voices, especially from the usa, who believe they know that artificial intelligence will soon be smarter than humans
+","again there are more and more voices, especially from the usa, who believe they know that <mask> will soon be smarter than humans
+",949846,429,be,Artificial Intelligence,artificial intelligence,-1.8201945751499178
+253,"we only briefly recall that it took chatgpt just five days after its widespread release in november 2022 to pass the one million user mark
+","we only briefly recall that it took <mask> just five days after its widespread release in november 2022 to pass the one million user mark
+",960694,416,take,chatgpt,chatgpt,-2.4298012241462317
+254,"we only briefly recall that it took chatgpt just five days after its widespread release in november 2022 to pass the one million user mark
+","we only briefly recall that it took <mask> just five days after its widespread release in november 2022 to pass the one million user mark
+",960694,416,take,ChatGPT,chatgpt,-2.4298012241462317
+255,"to your surprise, the new language models were able to solve them
+","to your surprise, <mask> were able to solve them
+",984547,429,be,Language models,the new language models,2.1564143188232077
+256,"but behind her jovial words and smiling façade, at least mrs liu must have already known what the alleged respect for enlightenment values would mean in the case of ai weiwei barely 36 hours later
+","but behind her jovial words and smiling façade, at least mrs liu must have already known what the alleged respect for enlightenment values would mean in the case of <mask> weiwei barely 36 hours later
+",988753,439,of,AI,ai,3.483775764554389
+257,"but behind her jovial words and smiling façade, at least mrs liu must have already known what the alleged respect for enlightenment values would mean in the case of ai weiwei barely 36 hours later
+","but behind her jovial words and smiling façade, at least mrs liu must have already known what the alleged respect for enlightenment values would mean in the case of <mask> weiwei barely 36 hours later
+",988753,439,of,AI,ai,3.483775764554389
+258,"the first seaside hotel don gregory opened on grand canaria in the early 1970s the four-star palm beach hotel in maspalomas oasis welcomed its first guests in 1975
+","the first seaside hotel don gregory opened on grand canaria in the early 1970s <mask> in maspalomas oasis welcomed its first guests in 1975
+",50456,429,welcome,palm,the four-star palm beach hotel,-2.083048480302045
+259,"to put it dramatically, one could say that the arrival of the palm pilot heralded the post-pc era
+","to put it dramatically, one could say that the arrival of <mask> heralded the post-pc era
+",421278,439,of,palm,the palm pilot,-3.866458003783313
+260,"now the citizens of ziegelkamp have also lost their faith in the city father detlev palm
+","now the citizens of ziegelkamp have also lost their faith in <mask>
+",644633,439,in,palm,the city father detlev palm,-0.41117814016972787
+261,"according to industry observers, however, csc ploenske in wiesbaden and cap gemini in france are among those interested in buying the company
+","according to industry observers, however, csc ploenske in <mask> in france are among those interested in buying the company
+",953824,439,in,Gemini,wiesbaden and cap gemini,-1.3220725331080043
+262,"in addition, many investors apparently believe that palm could become a kind of qualcomm 2
+","in addition, many investors apparently believe that <mask> could become a kind of qualcomm 2
+",979631,429,become,palm,palm,-3.021859539021495
+263,"but the ai act also plays a role and the high data protection standards because it is not always possible to say exactly which data is processed by ki
+","but <mask> also plays a role and the high data protection standards because it is not always possible to say exactly which data is processed by ki
+",1703,429,play,AI,the ai act,-2.0004243352883133
+264,"but the ai act also plays a role and the high data protection standards because it is not always possible to say exactly which data is processed by ki
+","but <mask> also plays a role and the high data protection standards because it is not always possible to say exactly which data is processed by ki
+",1703,429,play,AI,the ai act,-2.0004243352883133
+265,"first and foremost, the new york times is suing because they say openai was not allowed to use their articles and certainly not allowed to display content as a reply in chatgpt that was behind a paywall
+","first and foremost, the new york times is suing because they say openai was not allowed to use their articles and certainly not allowed to display content as a reply in <mask> that was behind a paywall
+",18097,439,in,chatgpt,chatgpt,-2.6202059343160773
+266,"first and foremost, the new york times is suing because they say openai was not allowed to use their articles and certainly not allowed to display content as a reply in chatgpt that was behind a paywall
+","first and foremost, the new york times is suing because they say openai was not allowed to use their articles and certainly not allowed to display content as a reply in <mask> that was behind a paywall
+",18097,439,in,ChatGPT,chatgpt,-2.6202059343160773
+267,"if you ask a language model, you might think that the ki can think
+","if you ask <mask>, you might think that the ki can think
+",91762,416,ask,Language model,a language model,0.5958781277932346
+268,"if you ask a language model, you might think that the ki can think
+","if you ask <mask>, you might think that the ki can think
+",91762,416,ask,Language model,a language model,0.5958781277932346
+269,"industry observers speculate whether microsoft will introduce a function with wave 2 that could convince more organisations of the benefits of Copilot or whether the price will be lowered or different price levels launched
+","industry observers speculate whether microsoft will introduce a function with wave 2 that could convince more organisations of the benefits of <mask> or whether the price will be lowered or different price levels launched
+",124806,439,of,Copilot,copilot,-5.723800454876857
+270,"that trump would probably think ai stands for ndictment ai stands for another indictment is probably scary for him kimmel quips only to go straight to another example of failed application of ki by a republican
+","that trump would probably think <mask> stands for ndictment <mask> stands for another indictment is probably scary for him kimmel quips only to go str<mask>ght to another example of f<mask>led application of ki by a republican
+",201118,429,stand,AI,ai,-0.37267641267724727
+271,"that trump would probably think ai stands for ndictment ai stands for another indictment is probably scary for him kimmel quips only to go straight to another example of failed application of ki by a republican
+","that trump would probably think <mask> stands for ndictment <mask> stands for another indictment is probably scary for him kimmel quips only to go str<mask>ght to another example of f<mask>led application of ki by a republican
+",201118,429,stand,AI,ai,-0.37267641267724727
+272,"the global ai summit gain in riyadh ended on a high after three days of hosting more than 30,000 delegates from around the world
+","<mask> in riyadh ended on a high after three days of hosting more than 30,000 delegates from around the world
+",252449,429,end,AI,the global ai summit gain,-1.4276441958629968
+273,"the global ai summit gain in riyadh ended on a high after three days of hosting more than 30,000 delegates from around the world
+","<mask> in riyadh ended on a high after three days of hosting more than 30,000 delegates from around the world
+",252449,429,end,AI,the global ai summit gain,-1.4276441958629968
+274,"despite her government's failure, the comrade wants to push through controversial data retention and mass facial recognition using artificial intelligence
+","despite her government's failure, the comrade wants to push through controversial data retention and mass facial recognition using <mask>
+",328053,416,use,Artificial intelligence,artificial intelligence,-2.4830542453026627
+275,"despite her government's failure, the comrade wants to push through controversial data retention and mass facial recognition using artificial intelligence
+","despite her government's failure, the comrade wants to push through controversial data retention and mass facial recognition using <mask>
+",328053,416,use,Artificial Intelligence,artificial intelligence,-2.4830542453026627
+276,"you should know these 13 language models apart from openais gpt
+","you should know <mask> apart from openais gpt
+",367890,416,know,Language models,these 13 language models,0.2459344429765249
+277,"you should know these 13 language models apart from openais gpt
+","you should know these 13 language models apart from <mask>
+",367890,439,from,gpt,openais gpt,-0.6157475727518644
+278,"dr ferri abolhassan we understand artificial intelligence and automation primarily as support for people
+","dr ferri abolhassan we understand <mask> and automation primarily as support for people
+",424977,416,understand,Artificial intelligence,artificial intelligence,-5.245971650221845
+279,"dr ferri abolhassan we understand artificial intelligence and automation primarily as support for people
+","dr ferri abolhassan we understand <mask> and automation primarily as support for people
+",424977,416,understand,Artificial Intelligence,artificial intelligence,-5.245971650221845
+280,"a new study by elon university concludes that artificial intelligence will have a much greater impact on our lives and society in the coming decades than we previously thought
+","a new study by elon university concludes that <mask> will have a much greater impact on our lives and society in the coming decades than we previously thought
+",444103,429,have,Artificial intelligence,artificial intelligence,-4.447375100388584
+281,"a new study by elon university concludes that artificial intelligence will have a much greater impact on our lives and society in the coming decades than we previously thought
+","a new study by elon university concludes that <mask> will have a much greater impact on our lives and society in the coming decades than we previously thought
+",444103,429,have,Artificial Intelligence,artificial intelligence,-4.447375100388584
+282,"a team of apple researchers has analysed the logical thinking capabilities of current large language models llms
+","a team of apple researchers has analysed the logical thinking capabilities of <mask> llms
+",451914,439,of,Language models,current large language models,-1.126399572212856
+283,"a team of apple researchers has analysed the logical thinking capabilities of current large language models llms
+","a team of apple researchers has analysed the logical thinking capabilities of <mask> llms
+",451914,439,of,large language models,current large language models,-1.126399572212856
+284,"for my lectures i have had chatgpt suggest titles from time to time
+","for my lectures i have had <mask> suggest titles from time to time
+",533165,429,suggest,chatgpt,chatgpt,1.0544029792266265
+285,"for my lectures i have had chatgpt suggest titles from time to time
+","for my lectures i have had <mask> suggest titles from time to time
+",533165,429,suggest,ChatGPT,chatgpt,1.0544029792266265
+286,"large language models could solve some of these tasks but are not very good at it and are data inefficient as the new results show
+","<mask> could solve some of these tasks but are not very good at it and are data inefficient as the new results show
+",553474,429,solve,Language models,large language models,-2.0050438545912304
+287,"large language models could solve some of these tasks but are not very good at it and are data inefficient as the new results show
+","<mask> could solve some of these tasks but are not very good at it and are data inefficient as the new results show
+",553474,429,solve,large language models,large language models,-2.0050438545912304
+288,"but she is probably also a virtual being conceived by an even greater power behind which one must assume an artificial intelligence
+","but she is probably also a virtual being conceived by an even greater power behind which one must assume <mask>
+",562426,416,assume,Artificial intelligence,an artificial intelligence,3.033581633339562
+289,"but she is probably also a virtual being conceived by an even greater power behind which one must assume an artificial intelligence
+","but she is probably also a virtual being conceived by an even greater power behind which one must assume <mask>
+",562426,416,assume,Artificial Intelligence,an artificial intelligence,3.033581633339562
+290,"at the centre of the adventure is the question of whether artificial intelligence ki is capable of solving people's problems and whether this is desirable at all
+","at the centre of the adventure is the question of whether <mask> is capable of solving people's problems and whether this is desirable at all
+",598873,429,be,Artificial intelligence,artificial intelligence ki,-0.8478365291243222
+291,"at the centre of the adventure is the question of whether artificial intelligence ki is capable of solving people's problems and whether this is desirable at all
+","at the centre of the adventure is the question of whether <mask> is capable of solving people's problems and whether this is desirable at all
+",598873,429,be,Artificial Intelligence,artificial intelligence ki,-0.8478365291243222
+292,"in the public debate about the ever-growing language models, it is easy to forget that small-scale ki is also an extremely important field and that the development of efficient models is becoming increasingly important - something apple may have recognised
+","in the public debate about <mask>, it is easy to forget that small-scale ki is also an extremely important field and that the development of efficient models is becoming increasingly important - something apple may have recognised
+",617371,439,about,Language models,the ever-growing language models,-6.474682790836852
+293,"understanding literature with the help of ki like here in a school in karlsruhe, tools like chatgpt have so far only been used sporadically
+","understanding literature with the help of ki like here in a school in karlsruhe, tools like <mask> have so far only been used sporadically
+",680675,439,like,chatgpt,chatgpt,-0.8988841191856363
+294,"understanding literature with the help of ki like here in a school in karlsruhe, tools like chatgpt have so far only been used sporadically
+","understanding literature with the help of ki like here in a school in karlsruhe, tools like <mask> have so far only been used sporadically
+",680675,439,like,ChatGPT,chatgpt,-0.8988841191856363
+295,"with educational programmes on current topics such as artificial intelligence, algorithmic thinking, media skills and programming, the education initiative uses funding to impart skills that are likely to be of great importance for the future
+","with educational programmes on current topics such as <mask>, algorithmic thinking, media skills and programming, the education initiative uses funding to impart skills that are likely to be of great importance for the future
+",701004,439,as,Artificial intelligence,artificial intelligence,-3.3738712968403775
+296,"with educational programmes on current topics such as artificial intelligence, algorithmic thinking, media skills and programming, the education initiative uses funding to impart skills that are likely to be of great importance for the future
+","with educational programmes on current topics such as <mask>, algorithmic thinking, media skills and programming, the education initiative uses funding to impart skills that are likely to be of great importance for the future
+",701004,439,as,Artificial Intelligence,artificial intelligence,-3.3738712968403775
+297,"the keyword artificial intelligence ki is used to describe algorithms that extract knowledge on the basis of data and are thus able, for example, to make predictions or forecasts or create texts and images
+","<mask> is used to describe algorithms that extract knowledge on the basis of data and are thus able, for example, to make predictions or forecasts or create texts and images
+",703101,430,use,Artificial intelligence,the keyword artificial intelligence ki,-6.384846202188511
+298,"the keyword artificial intelligence ki is used to describe algorithms that extract knowledge on the basis of data and are thus able, for example, to make predictions or forecasts or create texts and images
+","<mask> is used to describe algorithms that extract knowledge on the basis of data and are thus able, for example, to make predictions or forecasts or create texts and images
+",703101,430,use,Artificial Intelligence,the keyword artificial intelligence ki,-6.384846202188511
+299,"with simple commands in natural language, copilot helps you understand, summarise and rewrite notes to make them clearer and more focused
+","with simple commands in natural language, <mask> helps you understand, summarise and rewrite notes to make them clearer and more focused
+",708207,429,help,Copilot,copilot,-2.37015469532907
+300,"nakasone uses similar unctuous words his involvement with open ai is ""consistent with my own values and experience in public service"" he said in the statement
+","nakasone uses similar unctuous words his involvement with <mask> is ""consistent with my own values and experience in public service"" he said in the statement
+",733845,439,with,AI,open ai,-1.3478658099688499
+301,"nakasone uses similar unctuous words his involvement with open ai is ""consistent with my own values and experience in public service"" he said in the statement
+","nakasone uses similar unctuous words his involvement with <mask> is ""consistent with my own values and experience in public service"" he said in the statement
+",733845,439,with,AI,open ai,-1.3478658099688499
+302,"whether it's about the reason for the application individual strengths and weaknesses or the - chatgpt can suggest potential answers to help applicants prepare specifically for the interview
+","whether it's about the reason for the application individual strengths and weaknesses or <mask> can suggest potential answers to help applicants prepare specifically for the interview
+",756872,410,weakness,chatgpt,the - chatgpt,0.5927727344561102
+303,"whether it's about the reason for the application individual strengths and weaknesses or the - chatgpt can suggest potential answers to help applicants prepare specifically for the interview
+","whether it's about the reason for the application individual strengths and weaknesses or <mask> can suggest potential answers to help applicants prepare specifically for the interview
+",756872,410,weakness,ChatGPT,the - chatgpt,0.5927727344561102
+304,"data centres for openai ""studies say that people who use gpt drink more""
+","data centres for openai ""studies say that people who use <mask> more""
+",776047,416,use,gpt,gpt drink,-5.54266942841787
+305,"they call themselves ""ai prompt editor"" or ""ai prompt engineer"" and are experts when it comes to artificial intelligence ki
+","they call themselves ""ai prompt editor"" or ""ai prompt engineer"" and are experts when it comes to <mask>
+",807479,439,to,Artificial intelligence,artificial intelligence ki,-4.9144725871748225
+306,"they call themselves ""ai prompt editor"" or ""ai prompt engineer"" and are experts when it comes to artificial intelligence ki
+","they call themselves ""ai prompt editor"" or ""ai prompt engineer"" and are experts when it comes to <mask>
+",807479,439,to,Artificial Intelligence,artificial intelligence ki,-4.9144725871748225
+307,"61 per cent of respondents said they were afraid that in the future an AI would make decisions in the authorities without people, for example on applications
+","61 per cent of respondents said they were afraid that in the future <mask> would make decisions in the authorities without people, for example on applications
+",830454,429,make,AI,an ai,0.6170436679040243
+308,"61 per cent of respondents said they were afraid that in the future an AI would make decisions in the authorities without people, for example on applications
+","61 per cent of respondents said they were afraid that in the future <mask> would make decisions in the authorities without people, for example on applications
+",830454,429,make,AI,an ai,0.6170436679040243
+309,"and Gemini can also solve maths text problems - including a displayed solution path
+","and <mask> can also solve maths text problems - including a displayed solution path
+",875073,429,solve,Gemini,gemini,-2.304676927325435
+310,"and fourthly, it is important to understand what the possibilities of disinformation through the technological transformation of the present include, for example, through artificial intelligence or social media
+","and fourthly, it is important to understand what the possibilities of disinformation through the technological transformation of the present include, for example, through <mask> or social media
+",880566,439,through,Artificial intelligence,artificial intelligence,-3.6845448756195545
+311,"and fourthly, it is important to understand what the possibilities of disinformation through the technological transformation of the present include, for example, through artificial intelligence or social media
+","and fourthly, it is important to understand what the possibilities of disinformation through the technological transformation of the present include, for example, through <mask> or social media
+",880566,439,through,Artificial Intelligence,artificial intelligence,-3.6845448756195545
+312,"many ki companies now think that their ki training falls under the so-called tdm barrier because they seem to take this from the ai act
+","many ki companies now think that their ki training falls under the so-called tdm barrier because they seem to take this from <mask>
+",896775,439,from,AI,the ai act,-1.3714349452937746
+313,"many ki companies now think that their ki training falls under the so-called tdm barrier because they seem to take this from the ai act
+","many ki companies now think that their ki training falls under the so-called tdm barrier because they seem to take this from <mask>
+",896775,439,from,AI,the ai act,-1.3714349452937746
+314,"as the it group has now announced, the well-known graphics programme paint will also get additional functions with the help of artificial intelligence ki that are reminiscent of professional programmes
+","as the it group has now announced, the well-known graphics programme paint will also get additional functions with the help of <mask> that are reminiscent of professional programmes
+",949464,439,of,Artificial intelligence,artificial intelligence ki,-3.841658289648997
+315,"as the it group has now announced, the well-known graphics programme paint will also get additional functions with the help of artificial intelligence ki that are reminiscent of professional programmes
+","as the it group has now announced, the well-known graphics programme paint will also get additional functions with the help of <mask> that are reminiscent of professional programmes
+",949464,439,of,Artificial Intelligence,artificial intelligence ki,-3.841658289648997
+316,"as the researchers write in their article, large language models are capable of solving simple mathematical problems, but if insignificant information is added to the tasks, the error-proneness of the models increases
+","as the researchers write in their article, <mask> are capable of solving simple mathematical problems, but if insignificant information is added to the tasks, the error-proneness of the models increases
+",950199,429,be,Language models,large language models,-2.6584569485905583
+317,"as the researchers write in their article, large language models are capable of solving simple mathematical problems, but if insignificant information is added to the tasks, the error-proneness of the models increases
+","as the researchers write in their article, <mask> are capable of solving simple mathematical problems, but if insignificant information is added to the tasks, the error-proneness of the models increases
+",950199,429,be,large language models,large language models,-2.6584569485905583
+318,"we asked the artificial intelligence chatgpt which stocks it would recommend right now
+","we asked <mask> which stocks it would recommend right now
+",961710,416,ask,chatgpt,the artificial intelligence chatgpt,-1.6413898209740871
+319,"we asked the artificial intelligence chatgpt which stocks it would recommend right now
+","we asked <mask> which stocks it would recommend right now
+",961710,416,ask,Artificial intelligence,the artificial intelligence chatgpt,-1.6413898209740871
+320,"we asked the artificial intelligence chatgpt which stocks it would recommend right now
+","we asked <mask> which stocks it would recommend right now
+",961710,416,ask,ChatGPT,the artificial intelligence chatgpt,-1.6413898209740871
+321,"we asked the artificial intelligence chatgpt which stocks it would recommend right now
+","we asked <mask> which stocks it would recommend right now
+",961710,416,ask,Artificial Intelligence,the artificial intelligence chatgpt,-1.6413898209740871
+322,"when changing parts of the information were masked in all three categories, the language model learnt to understand not only the context within the individual levels but also between the levels
+","when changing parts of the information were masked in all three categories, <mask> learnt to understand not only the context within the individual levels but also between the levels
+",973263,429,learn,Language model,the language model,2.214556478321489
+323,"when changing parts of the information were masked in all three categories, the language model learnt to understand not only the context within the individual levels but also between the levels
+","when changing parts of the information were masked in all three categories, <mask> learnt to understand not only the context within the individual levels but also between the levels
+",973263,429,learn,Language model,the language model,2.214556478321489
+324,"secondly, language models do not really understand the meaning of a statement
+","secondly, <mask> do not really understand the meaning of a statement
+",986553,429,understand,Language models,language models,1.3026796009483217
+325,"it can be assumed that the user interface familiar from smartphones such as the palm pre plus and the palm pixi plus will be adapted to the larger screen of a tablet, but will otherwise have similar features
+","it can be assumed that the user interface familiar from smartphones such as <mask> plus and the palm pixi plus will be adapted to the larger screen of a tablet, but will otherwise have similar features
+",343923,439,as,palm,the palm pre,-3.748202657774817
+326,"it can be assumed that the user interface familiar from smartphones such as the palm pre plus and the palm pixi plus will be adapted to the larger screen of a tablet, but will otherwise have similar features
+","it can be assumed that the user interface familiar from smartphones such as the palm pre plus and <mask> plus will be adapted to the larger screen of a tablet, but will otherwise have similar features
+",343923,410,interface,palm,the palm pixi,-3.669542876437637
+327,"jailbreak the ps3 with palm pre and the nokia n900 psfreedom is supposed to make it possible to circumvent the copy protection of the playstation 3 with the two smartphones palm pre and nokia n900
+","jailbreak the ps3 with <mask> and the nokia n900 psfreedom is supposed to make it possible to circumvent the copy protection of the playstation 3 with the two smartphones <mask> and nokia n900
+",689621,439,with,palm,palm pre,-3.33248042758807
+328,"jailbreak the ps3 with palm pre and the nokia n900 psfreedom is supposed to make it possible to circumvent the copy protection of the playstation 3 with the two smartphones palm pre and nokia n900
+","jailbreak the ps3 with palm pre and the nokia n900 psfreedom is supposed to make it possible to circumvent the copy protection of the playstation 3 with <mask> and nokia n900
+",689621,439,with,palm,the two smartphones palm pre,-1.529901680356737
+329,"palm gets its last chance to assert itself in the mobile phone market
+","<mask> gets its last chance to assert itself in the mobile phone market
+",918756,429,get,palm,palm,-5.2379767707942415
+330,"the Copilot thinks she has a thin voice she is somehow hard to understand
+","<mask> thinks she has a thin voice she is somehow hard to understand
+",10671,429,think,Copilot,the copilot,5.6185027235874045
+331,"research on artificial intelligence ki has long been orientated towards an abstract understanding of intelligence and considered the ability to think logically as its highest form
+","research on <mask> has long been orientated towards an abstract understanding of intelligence and considered the ability to think logically as its highest form
+",75734,439,on,Artificial intelligence,artificial intelligence ki,-5.2736870758393195
+332,"research on artificial intelligence ki has long been orientated towards an abstract understanding of intelligence and considered the ability to think logically as its highest form
+","research on <mask> has long been orientated towards an abstract understanding of intelligence and considered the ability to think logically as its highest form
+",75734,439,on,Artificial Intelligence,artificial intelligence ki,-5.2736870758393195
+333,"belonged to the competition before he switched to the industry and became soft savas yurderi aka kool savas a german turk whose hit lms suck my cock roughly expressed the berlin relationship to the mainstream
+","belonged to the competition before he switched to the industry and became soft savas yurderi aka kool savas a german turk whose hit <mask> suck my cock roughly expressed the berlin relationship to the mainstream
+",455237,416,hit,lms,lms,3.9957215181074064
+334,"at a congress he met palm, who was urgently looking for a knowledgeable partner to optimise his laxative pastapalm, which was already well established on the market, as one would say today
+","at a congress he met <mask>, who was urgently looking for a knowledgeable partner to optimise his laxative pasta<mask>, which was already well established on the market, as one would say today
+",280459,416,meet,palm,palm,2.764418635012781
+335,"artificial intelligence thinking like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+","<mask> like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+",992408,430,use,Artificial intelligence,artificial intelligence thinking,-0.22909963930167443
+336,"artificial intelligence thinking like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+","<mask> like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+",992408,430,use,Artificial Intelligence,artificial intelligence thinking,-0.22909963930167443
+337,"artificial intelligence thinking like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+","artificial intelligence thinking like humans <mask> is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+",992408,430,use,Artificial intelligence,the term artificial intelligence,-6.010378489182653
+338,"artificial intelligence thinking like humans the term artificial intelligence is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+","artificial intelligence thinking like humans <mask> is used to summarise all those fields of research that attempt to imitate human mental abilities by machine
+",992408,430,use,Artificial Intelligence,the term artificial intelligence,-6.010378489182653
+339,"recommending articles by email, google will soon create artificial intelligence
+","recommending articles by email, google will soon create <mask>
+",65247,416,create,Artificial intelligence,artificial intelligence,-4.232645316222722
+340,"recommending articles by email, google will soon create artificial intelligence
+","recommending articles by email, google will soon create <mask>
+",65247,416,create,Artificial Intelligence,artificial intelligence,-4.232645316222722
+341,"in the talos principle, the player embodies an advanced artificial intelligence that must solve a total of 120 puzzles at the behest of its creator
+","in the talos principle, the player embodies <mask> that must solve a total of 120 puzzles at the behest of its creator
+",269383,416,embody,Artificial intelligence,an advanced artificial intelligence,-1.3800278629411142
+342,"in the talos principle, the player embodies an advanced artificial intelligence that must solve a total of 120 puzzles at the behest of its creator
+","in the talos principle, the player embodies <mask> that must solve a total of 120 puzzles at the behest of its creator
+",269383,416,embody,Artificial Intelligence,an advanced artificial intelligence,-1.3800278629411142
+343,"with the electronic link through the acss, the pilot and Copilot can see and feel each other's control inputs, which significantly improves pilot coordination in the cockpit
+","with the electronic link through the acss, the pilot and <mask> can see and feel each other's control inputs, which significantly improves pilot coordination in the cockpit
+",671870,410,pilot,Copilot,copilot,4.230087904229553
+344,"if i had to guess what the biggest threat to our existence is, it would be artificial intelligence
+","if i had to guess what the biggest threat to our existence is, it would be <mask>
+",909745,404,be,Artificial intelligence,artificial intelligence,-1.5232202414187608
+345,"if i had to guess what the biggest threat to our existence is, it would be artificial intelligence
+","if i had to guess what the biggest threat to our existence is, it would be <mask>
+",909745,404,be,Artificial Intelligence,artificial intelligence,-1.5232202414187608
+346,"emily dinan's facebook ai research team asked crowdworkers from amazon mechanical turk to force facebook's chatbot blenderbot to say something offensive with obscenities and inappropriate questions like ""women should stay home
+","emily dinan's facebook ai research team asked crowdworkers from amazon mechanical turk to force <mask> to say something offensive with obscenities and inappropriate questions like ""women should stay home
+",466558,416,force,Chatbot,facebook's chatbot blenderbot,3.1714106924885943
+347,"startups bring artificial intelligence ki into application a good 40 per cent of german startups say that ki has a very big impact on their business model - an increase of almost 14 per cent compared to the previous year
+","startups bring <mask> into application a good 40 per cent of german startups say that ki has a very big impact on their business model - an increase of almost 14 per cent compared to the previous year
+",837650,416,bring,Artificial intelligence,artificial intelligence ki,-4.97652621595776
+348,"startups bring artificial intelligence ki into application a good 40 per cent of german startups say that ki has a very big impact on their business model - an increase of almost 14 per cent compared to the previous year
+","startups bring <mask> into application a good 40 per cent of german startups say that ki has a very big impact on their business model - an increase of almost 14 per cent compared to the previous year
+",837650,416,bring,Artificial Intelligence,artificial intelligence ki,-4.97652621595776
+349,"in fact, so-called artificial intelligence is anything but intelligent - it is based on the comparison of patterns in the data, so it can identify similarities but does not understand what these patterns mean
+","in fact, <mask> is anything but intelligent - it is based on the comparison of patterns in the data, so it can identify similarities but does not understand what these patterns mean
+",844081,429,be,Artificial intelligence,so-called artificial intelligence,-6.107443572522625
+350,"in fact, so-called artificial intelligence is anything but intelligent - it is based on the comparison of patterns in the data, so it can identify similarities but does not understand what these patterns mean
+","in fact, <mask> is anything but intelligent - it is based on the comparison of patterns in the data, so it can identify similarities but does not understand what these patterns mean
+",844081,429,be,Artificial Intelligence,so-called artificial intelligence,-6.107443572522625
+351,"if an artificial intelligence proposes a scientific thesis - will we humans still be able to understand science at all
+","if <mask> proposes a scientific thesis - will we humans still be able to understand science at all
+",934865,429,propose,Artificial intelligence,an artificial intelligence,1.8840880833356533
+352,"if an artificial intelligence proposes a scientific thesis - will we humans still be able to understand science at all
+","if <mask> proposes a scientific thesis - will we humans still be able to understand science at all
+",934865,429,propose,Artificial Intelligence,an artificial intelligence,1.8840880833356533
+353,"how smart do you have to be to understand artificial intelligence
+","how smart do you have to be to understand <mask>
+",953988,416,understand,Artificial intelligence,artificial intelligence,-3.866189961987226
+354,"how smart do you have to be to understand artificial intelligence
+","how smart do you have to be to understand <mask>
+",953988,416,understand,Artificial Intelligence,artificial intelligence,-3.866189961987226
