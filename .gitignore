@@ -1,7 +1,10 @@
-#anthroscore/
+anthroscore/
+BasicBert/
 #corpus_texts/
 corpus/
 deu_news/
+.claude/
+.vscode/
 
 deu_news_2024_10K.tar
 
