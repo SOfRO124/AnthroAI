@@ -1,0 +1,31 @@
+id,pos_tags,domain,term,verb,dependent,dep_pos,sentence,relation_type
+43387,"['NOUN', 'VERB', 'ADV', 'ADP', 'ADV', 'VERB', 'CCONJ', 'VERB', 'SCONJ', 'PRON', 'ADV', 'ADP', 'DET', 'NOUN', 'VERB', 'AUX', 'VERB', 'PROPN', 'DET', 'ADP', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'VERB', 'AUX', 'SPACE']",KI,palm,sagt,palm,PROPN,"kinder lernen auch von allein laufen und sprechen weil sie gerne an der gesellschaft teilhaben wollen sagt palm der neben simmerl und einem pädagogen als schulleiter der institution agieren wird
+",sb
+183986,"['PRON', 'AUX', 'DET', 'NOUN', 'ADP', 'ADP', 'DET', 'ADJ', 'NOUN', 'PART', 'VERB', 'CCONJ', 'PART', 'VERB', 'PUNCT', 'VERB', 'PROPN', 'PROPN', 'ADP', 'PROPN', 'SPACE']",KI,palm,sagte,palm,PROPN,"das ist ihre schlüsselfähigkeit um in einer kargen tumorumgebung zu überleben und zu wachsen“ sagte wilhelm palm vom dkfz
+",sb
+624660,"['NOUN', 'ADV', 'CCONJ', 'PROPN', 'AUX', 'PRON', 'VERB', 'PROPN', 'ADP', 'PRON', 'SPACE']",KI,ki,sagt,ki,PROPN,"jung schnell und stark sei er sagt ki über sich
+",sb
+664970,"['ADJ', 'VERB', 'DET', 'PROPN', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PART', 'VERB', 'DET', 'ADP', 'ADJ', 'NOUN', 'VERB', 'AUX', 'SPACE']",KI,ki,verstehen,ki,PROPN,"kontextuelles verstehen die ki analysiert statische produktfotos und benutzeraufforderungen um konversionsoptimierte videos zu erstellen die auf bestimmte ziele ausgerichtet sind
+",sb
+66738,"['ADV', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADV', 'ADP', 'NOUN', 'PART', 'VERB', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'ADP', 'NOUN', 'X', 'PROPN', 'NOUN', 'ADP', 'DET', 'NOUN', 'DET', 'NOUN', 'SPACE']",KI,künstliche intelligenz,nehme,intelligenz,NOUN,"auch künstliche intelligenz nehme bei den angriffen definitiv an bedeutung zu sagte der künftige präsident des bundesamtes für verfassungsschutz bfv sinan selen bei der vorstellung der studie
+",sb
+667447,"['ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN', 'DET', 'NOUN', 'DET', 'ADJ', 'NOUN', 'PROPN', 'ADP', 'ADJ', 'NOUN', 'DET', 'ADJ', 'NOUN', 'SPACE']",KI,künstliche intelligenz,bedeutet,intelligenz,NOUN,"künstliche intelligenz bedeutet nach ansicht des medienverbands der freien presse mvfp in erster linie eine ethische herausforderung
+",sb
+686243,"['PRON', 'AUX', 'DET', 'PROPN', 'ADV', 'ADV', 'VERB', 'PUNCT', 'VERB', 'ADV', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",KI,ki,sagen,ki,PROPN,"man kann der ki ja einfach sagen „mach stattdessen einen witz über schrebergärten“
+",ob
+194324,"['DET', 'NOUN', 'AUX', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADV', 'NOUN', 'CCONJ', 'NOUN', 'PROPN', 'ADV', 'VERB', 'VERB', 'CCONJ', 'VERB', 'AUX', 'NOUN', 'VERB', 'CCONJ', 'ADV', 'ADV', 'AUX', 'SPACE']",KI,ki,verstehen,ki,PROPN,"das projekt soll orientierung produkte und werkzeuge bieten damit kundinnen und kunden ki richtig verstehen einordnen und nutzen können vorteile generieren und wirtschaftlich erfolgreich sind
+",ob
+86312,"['ADV', 'VERB', 'DET', 'PROPN', 'DET', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'ADP', 'DET', 'NOUN', 'NOUN', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'SPACE']",KI,ki,kennt,ki,PROPN,"außerdem kennt die ki unsere algorithmen und weiß alles über unsere neigung risiken einzugehen und kennt unsere vorlieben
+",sb
+868408,"['CCONJ', 'PRON', 'AUX', 'ADV', 'ADV', 'PART', 'VERB', 'ADP', 'ADV', 'PRON', 'PROPN', 'VERB', 'AUX', 'SPACE']",KI,ki,vertrauen,ki,PROPN,"und das hat stark damit zu tun wie sehr man ki vertrauen kann
+",ob
+661637,"['ADV', 'NUM', 'NOUN', 'VERB', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'SPACE']",KI,copilot,sagt,copilot,NOUN,"noch acht meilen sagt der copilot und der flugkapitän bringt die maschine auf den kurs
+",sb
+481115,"['ADV', 'ADP', 'PROPN', 'VERB', 'DET', 'ADJ', 'PROPN', 'DET', 'NOUN', 'ADV', 'ADP', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADV', 'VERB', 'SPACE']",KI,ki,löst,ki,PROPN,"erst beim hineinzoomen löst die interne ki die pixelcluster wieder auf um details wie feine muster oder textstrukturen präzise wiederherzustellen
+",sb
+154409,"['ADV', 'VERB', 'DET', 'NOUN', 'PRON', 'AUX', 'PRON', 'ADV', 'DET', 'ADJ', 'NUM', 'NOUN', 'DET', 'NOUN', 'VERB', 'SPACE']",KI,chatbot,sagte,chatbot,NOUN,"daraufhin sagte der chatbot ich möge ihm bitte die letzten zehn ziffern meiner nummer geben
+",sb
+854080,"['ADV', 'VERB', 'DET', 'NOUN', 'DET', 'PROPN', 'ADP', 'DET', 'NOUN', 'ADV', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'ADJ', 'NOUN', 'PART', 'VERB', 'SPACE']",KI,chatbot,nahm,chatbot,NOUN,"trotzdem nahm der chatbot das pamphlet auf mein kommando hin zur grundlage um eine eigene antisemitische hetzschrift zu erstellen
+",sb
+417856,"['DET', 'ADJ', 'PROPN', 'DET', 'ADV', 'VERB', 'CCONJ', 'VERB', 'AUX', 'PRON', 'VERB', 'PRON', 'ADV', 'ADV', 'ADP', 'DET', 'NOUN', 'SPACE']",KI,ki,denken,ki,PROPN,"eine starke ki die tatsächlich denken und verstehen kann die gibt es bisher nur in der vision
+",sb

@@ -1,0 +1,29 @@
+id,pos_tags,domain,term,verb,dependent,dep_pos,sentence,relation_type
+228600,"['CCONJ', 'PROPN', 'VERB', 'ADV', 'ADP', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'DET', 'NOUN', 'ADV', 'ADP', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'SPACE']",KI,ki,löst,ki,PROPN,"denn ki löst vielleicht in zukunft probleme von studios keine idee mehr für die zehnte staffel der erfolgsserie
+",sb
+665832,"['ADJ', 'NOUN', 'CCONJ', 'ADJ', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'SPACE']",KI,künstliche intelligenz,bedeuteten,intelligenz,NOUN,"künstliche intelligenz und andere neue technologien bedeuteten einen grossen paradigmenwechsel
+",sb
+258464,"['DET', 'NOUN', 'AUX', 'ADV', 'ADP', 'NOUN', 'VERB', 'PROPN', 'SPACE']",KI,palm,sagt,palm,PROPN,"der markt ist noch im pionierstadium sagt palm
+",sb
+447624,"['PRON', 'PRON', 'PRON', 'ADP', 'NOUN', 'VERB', 'AUX', 'ADV', 'ADP', 'DET', 'NOUN', 'ADV', 'VERB', 'PROPN', 'PROPN', 'SPACE']",KI,palm,sagte,palm,PROPN,"das was wir an lärm verursachen wäre sogar in einem wohngebiet zulässig sagte helmut palm
+",sb
+956606,"['ADV', 'VERB', 'PRON', 'ADV', 'SCONJ', 'DET', 'ADJ', 'NOUN', 'PRON', 'VERB', 'ADP', 'PRON', 'PRON', 'PART', 'AUX', 'SCONJ', 'PRON', 'PRON', 'VERB', 'SPACE']",KI,sprachmodell,sagt,sprachmodell,NOUN,"wie stellen sie sicher dass ihr umfangreiches sprachmodell nichts sagt von dem sie nicht wollen dass es das sagt
+",sb
+789794,"['ADV', 'ADV', 'PRON', 'DET', 'PROPN', 'ADV', 'ADV', 'PART', 'VERB', 'VERB', 'SPACE']",KI,ki,glaubt,ki,PROPN,"sehr aufschlussreich was die ki da jeweils zu erkennen glaubt
+",sb
+736699,"['PART', 'ADV', 'PRON', 'VERB', 'NOUN', 'VERB', 'DET', 'PRON', 'DET', 'PROPN', 'VERB', 'AUX', 'CCONJ', 'ADP', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'SPACE']",KI,ai,kennen,ai,PROPN,"nicht länger ich lernte leute kennen die sich der ai verschrieben haben und im privaten bereich zähe suchtprobleme haben und limitiertes moralverständnis zeigten
+",ob
+658823,"['PROPN', 'PROPN', 'VERB', 'PRON', 'PROPN', 'NOUN', 'ADV', 'ADV', 'SPACE']",KI,palm,widmet,palm,PROPN,"kurt palm widmet sich bertolt brecht schon lange
+",sb
+220399,"['ADV', 'VERB', 'PROPN', 'DET', 'ADJ', 'NUM', 'NUM', 'NOUN', 'DET', 'NOUN', 'PART', 'SPACE']",KI,chatgpt,kennt,chatgpt,PROPN,"demnach kennt chatgpt die letzten 1 ½ jahre unserer welt nicht
+",sb
+60572,"['ADV', 'DET', 'PROPN', 'VERB', 'ADV', 'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'PART', 'VERB', 'SPACE']",KI,ki,kennt,ki,PROPN,"auch die ki kennt offenbar den deutschen brauch am vatertag mit einem bollerwagen voller alkohol durch die lande zu ziehen
+",sb
+107647,"['NOUN', 'PROPN', 'PROPN', 'VERB', 'ADV', 'DET', 'NOUN', 'PRON', 'AUX', 'PRON', 'VERB', 'SPACE']",KI,copilot,sagt,copilot,NOUN,"copilot robert lewis sagt leise mein gott was haben wir getan
+",sb
+943016,"['DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'AUX', 'ADP', 'DET', 'ADJ', 'NOUN', 'VERB', 'AUX', 'VERB', 'PROPN', 'SPACE']",KI,palm,sagte,palm,PROPN,"der verein ist ein gewinn für alle mitbürger und kann durch keine andere institution ersetzt werden sagte palm
+",sb
+237327,"['DET', 'NOUN', 'PROPN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NUM', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'SPACE']",KI,chatbot,löste,chatbot,NOUN,"der chatbot chatgpt löste mit der veröffentlichung im november 2022 den hype um künstliche intelligenz aus
+",sb
+829730,"['ADV', 'VERB', 'DET', 'DET', 'ADJ', 'NOUN', 'DET', 'ADV', 'AUX', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'SCONJ', 'PRON', 'ADV', 'PROPN', 'PROPN', 'PROPN', 'CCONJ', 'ADV', 'PRON', 'PRON', 'VERB', 'ADV', 'VERB', 'AUX', 'SPACE']",KI,chatgpt,gesagt,gemini,PROPN,"sonst folgen all die negativen effekte die bekannt sind von der unkritischen übernahme von fehlerhaften antworten bis zum strikten beharren auf falschinformationen weil es halt chatgpt claude gemini und wie sie alle heißen so gesagt haben
+",ob
