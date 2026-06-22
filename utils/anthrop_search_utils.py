@@ -1,6 +1,6 @@
 import json
 import matplotlib.pyplot as plt
-from collections import defaultdict
+from collections import defaultdict, Counter
 from spacy.matcher import DependencyMatcher
 
 
@@ -132,3 +132,48 @@ def combine_results(a_taz, a_leipzig, filename):
 def normalize_verb_to_lemma(verb, nlp):
     lemmas = [token.lemma_ for token in nlp(verb)]
     return lemmas[0].lower() if lemmas else verb.lower()
+
+
+def tokens_from_item(item, nlp):
+    """Return a list of spaCy tokens for item (Token, Doc, Span, or raw text)."""
+    if hasattr(item, "pos_") or (
+        hasattr(item, "__iter__")
+        and not isinstance(item, str)
+        and len(item)
+        and hasattr(item[0], "pos_")
+    ):
+        return list(item)
+    return list(nlp(str(item)))
+
+
+def count_POS(df_col, nlp, pos_tag, plots_dir="plots/"):
+    """Count and plot the top 20 lemmas for a given POS tag across a text collection."""
+    import os
+
+    tag_count = 0
+    tag_types = Counter()
+    for text in df_col:
+        if len(text) > 1:
+            tokens = tokens_from_item(text, nlp)
+            for token in tokens:
+                if token.pos_ == pos_tag:
+                    tag_count += 1
+                    tag_types[token.lemma_] += 1
+
+    print(f"Total {pos_tag}s: {tag_count}")
+    for tag, count in tag_types.most_common():
+        print(f"  {tag}: {count}")
+
+    top_tags = tag_types.most_common(20)
+    if not top_tags:
+        return
+    tags, counts = zip(*top_tags)
+    plt.figure(figsize=(10, 5))
+    plt.bar(tags, counts, color="skyblue")
+    plt.title(f"Top {pos_tag}", fontsize=15)
+    plt.xlabel(f"{pos_tag} Lemma", fontsize=15)
+    plt.xticks(rotation=90, size=15)
+    plt.yticks(size=15)
+    plt.tight_layout()
+    plt.show()
+    plt.savefig(os.path.join(plots_dir, f"top_{pos_tag}_types.png"))
